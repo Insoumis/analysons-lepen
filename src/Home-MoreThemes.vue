@@ -5,7 +5,7 @@
       <alp-button
         v-for="theme in themes"
         key="theme.slug"
-        :link="'/themes/' + theme.slug">{{ theme.title }}</alp-button>
+        :link="'./themes/' + theme.slug">{{ theme.title }}</alp-button>
     </div>
   </div>
 </template>
