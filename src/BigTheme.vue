@@ -97,4 +97,17 @@ export default {
   transform: translateY(-50%);
   width: 48px;
 }
+
+@media (max-width: 768px) {
+  .alp-big-theme__shadow__back {
+    left: 50%;
+    top: 100%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+
+  .alp-big-theme-wrapper {
+    overflow: visible;
+  }
+}
 </style>

@@ -27,4 +27,11 @@ export default {
   max-width: 800px;
   padding: 20px;
 }
+
+@media (max-width: 810px) {
+  .alp-card {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  }
+}
 </style>
