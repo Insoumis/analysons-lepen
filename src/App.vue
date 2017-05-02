@@ -39,6 +39,10 @@ h1, h2, h3, h5 {
   padding: 0 15px;
 }
 
+p {
+  line-height: 1.3;
+}
+
 #app {
   display: flex;
   height: 100%;

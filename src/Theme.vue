@@ -92,6 +92,7 @@ export default {
 .alp-theme__intro {
   margin: 60px auto;
   max-width: 800px;
+  padding: 0 10px;
   text-align: justify;
 }
 
@@ -124,6 +125,7 @@ export default {
 
 .alp-theme__fi-proposals__proposal {
   font-size: 18px;
+  padding: 0 10px;
 }
 
 .alp-theme__fi-proposals__proposal > strong {

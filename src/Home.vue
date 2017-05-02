@@ -69,7 +69,7 @@ export default {
   font-size: 18px;
   margin: 0 auto;
   max-width: 700px;
-  padding: 30px 0;
+  padding: 30px 10px;
 }
 
 .alp-home__choose {
@@ -99,6 +99,13 @@ export default {
 @media (min-width: 1300px) {
   .alp-home__themes {
     min-height: 650px;
+  }
+}
+
+@media (max-width: 768px) {
+  .alp-home__themes {
+    flex-direction: column;
+    height: 900px;
   }
 }
 </style>
