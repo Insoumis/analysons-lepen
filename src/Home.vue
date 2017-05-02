@@ -16,21 +16,25 @@
     <img class="alp-home__icon" src="./assets/arrow.down.png" alt="arrow down" height="24" width="24">
 
     <div class="alp-home__themes">
-      <alp-big-theme image="democratique">Urgence démocratique</alp-big-theme>
-      <alp-big-theme image="sociale">Urgence sociale</alp-big-theme>
-      <alp-big-theme image="ecologique">Urgence écologique</alp-big-theme>
+      <alp-big-theme link="urgence-democratique" image="democratique">Urgence démocratique</alp-big-theme>
+      <alp-big-theme link="urgence-sociale" image="sociale">Urgence sociale</alp-big-theme>
+      <alp-big-theme link="urgence-ecologique" image="ecologique">Urgence écologique</alp-big-theme>
     </div>
+
+    <alp-more-themes></alp-more-themes>
   </main>
 </template>
 
 <script>
 import Button from './Button.vue'
 import BigTheme from './Home-BigTheme.vue'
+import MoreThemes from './Home-MoreThemes.vue'
 
 export default {
   components: {
     'alp-button': Button,
-    'alp-big-theme': BigTheme
+    'alp-big-theme': BigTheme,
+    'alp-more-themes': MoreThemes
   }
 }
 </script>
@@ -78,5 +82,11 @@ export default {
   display: flex;
   margin-top: 80px;
   min-height: 520px;
+}
+
+@media (min-width: 1300px) {
+  .alp-home__themes {
+    min-height: 650px;
+  }
 }
 </style>

@@ -1,11 +1,11 @@
 <template>
-  <div class="alp-big-theme-wrapper">
+  <router-link :to="to" class="alp-big-theme-wrapper">
     <div class="alp-big-theme" :style="backgroundImage">
       <div class="alp-big-theme__shadow">
         <slot></slot>
       </div>
     </div>
-  </div>
+  </router-link>
 </template>
 
 <script>
@@ -16,9 +16,13 @@ import sociale from './assets/urgence.sociale.jpg'
 const pictures = { democratique, ecologique, sociale }
 
 export default {
-  props: ['image'],
+  props: ['image', 'link'],
 
   computed: {
+    to() {
+      return `/themes/${this.link}`
+    },
+
     backgroundImage() {
       return { backgroundImage: `url(${pictures[this.image]})` }
     }
@@ -28,11 +32,13 @@ export default {
 
 <style>
 .alp-big-theme-wrapper {
+  text-decoration: none;
   flex: 1;
   overflow: hidden;
 }
 
 .alp-big-theme {
+  background-size: cover;
   height: 100%;
   transition: .1s transform ease-out;
 }
