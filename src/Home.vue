@@ -16,9 +16,11 @@
     <img class="alp-home__icon" src="./assets/arrow.down.png" alt="arrow down" height="24" width="24">
 
     <div class="alp-home__themes">
-      <alp-big-theme link="urgence-democratique" image="democratique">Urgence démocratique</alp-big-theme>
-      <alp-big-theme link="urgence-sociale" image="sociale">Urgence sociale</alp-big-theme>
-      <alp-big-theme link="urgence-ecologique" image="ecologique">Urgence écologique</alp-big-theme>
+      <alp-big-theme
+        v-for="theme in themes"
+        key="theme.slug"
+        :link="theme.slug"
+        :image="theme.slug">{{ theme.title }}</alp-big-theme>
     </div>
 
     <alp-more-themes></alp-more-themes>
@@ -26,6 +28,8 @@
 </template>
 
 <script>
+import themes from './themes.json'
+
 import Button from './Button.vue'
 import BigTheme from './BigTheme.vue'
 import MoreThemes from './Home-MoreThemes.vue'
@@ -35,6 +39,14 @@ export default {
     'alp-button': Button,
     'alp-big-theme': BigTheme,
     'alp-more-themes': MoreThemes
+  },
+
+  computed: {
+    themes() {
+      return Object.keys(themes)
+        .map(themeName => themes[themeName])
+        .filter(theme => theme.main)
+    }
   }
 }
 </script>

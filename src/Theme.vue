@@ -1,7 +1,7 @@
 <template>
   <div class="alp-theme">
     <div class="alp-theme__header">
-      <alp-big-theme :image="theme.image">{{ theme.title }}</alp-big-theme>
+      <alp-big-theme :image="theme.slug">{{ theme.title }}</alp-big-theme>
     </div>
     <p class="alp-theme__intro" v-html="theme.intro"></p>
     <div class="alp-theme__fn">

@@ -2,22 +2,30 @@
   <div class="alp-more-themes">
     <h2 class="alp-more-themes__title">Plus de thèmes</h2>
     <div class="alp-more-themes__buttons">
-      <alp-button link="/themes/sécurité-terrorisme">Sécurité, Terrorisme</alp-button>
-      <alp-button link="/themes/immigration-laïcité">Immigration, Laïcité</alp-button>
-      <alp-button link="/themes/économie-finance">Économie, Finance</alp-button>
-      <alp-button link="/themes/autre-theme">Autre Thème</alp-button>
-      <alp-button link="/themes/autre-theme">Autre Thème</alp-button>
-      <alp-button link="/themes/autre-theme">Autre Thème</alp-button>
+      <alp-button
+        v-for="theme in themes"
+        key="theme.slug"
+        :link="'/themes/' + theme.slug">{{ theme.title }}</alp-button>
     </div>
   </div>
 </template>
 
 <script>
+import themes from './themes'
+
 import Button from './Button.vue'
 
 export default {
   components: {
     'alp-button': Button
+  },
+
+  computed: {
+    themes() {
+      return Object.keys(themes)
+        .map(themeName => themes[themeName])
+        .filter(theme => !theme.main)
+    }
   }
 }
 </script>
