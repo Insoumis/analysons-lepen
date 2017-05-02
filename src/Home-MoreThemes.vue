@@ -5,6 +5,9 @@
       <alp-button link="/themes/sécurité-terrorisme">Sécurité, Terrorisme</alp-button>
       <alp-button link="/themes/immigration-laïcité">Immigration, Laïcité</alp-button>
       <alp-button link="/themes/économie-finance">Économie, Finance</alp-button>
+      <alp-button link="/themes/autre-theme">Autre Thème</alp-button>
+      <alp-button link="/themes/autre-theme">Autre Thème</alp-button>
+      <alp-button link="/themes/autre-theme">Autre Thème</alp-button>
     </div>
   </div>
 </template>
@@ -35,8 +38,15 @@ export default {
 .alp-more-themes__buttons {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
   margin: 50px auto;
   max-width: 800px;
+}
+
+.alp-more-themes__buttons > .alp-button-wrapper {
+  margin-top: 20px;
+}
+
+.alp-more-themes__buttons > .alp-button-wrapper:not(:last-child) {
+  margin-right: 20px;
 }
 </style>
