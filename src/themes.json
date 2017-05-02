@@ -1,0 +1,116 @@
+{
+  "urgence-democratique": {
+    "title": "Urgence démocratique",
+    "main": true,
+    "slug": "urgence-democratique",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
+    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "aec": [
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" }
+    ],
+    "sources": [
+      { "title": "Source test", "href": "https://google.fr/" }
+    ]
+  },
+  "urgence-sociale": {
+    "title": "Urgence sociale",
+    "main": true,
+    "slug": "urgence-sociale",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
+    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "aec": [
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" }
+    ],
+    "sources": [
+      { "title": "Source test", "href": "https://google.fr/" }
+    ]
+  },
+  "urgence-ecologique": {
+    "title": "Urgence écologique",
+    "main": true,
+    "slug": "urgence-ecologique",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
+    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "aec": [
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" }
+    ],
+    "sources": [
+      { "title": "Source test", "href": "https://google.fr/" }
+    ]
+  },
+  "securite-terrorisme": {
+    "title": "Sécurité, Terrorisme",
+    "main": false,
+    "slug": "securite-terrorisme",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
+    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "aec": [
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" }
+    ],
+    "sources": [
+      { "title": "Source test", "href": "https://google.fr/" }
+    ]
+  },
+  "immigration-laicite": {
+    "title": "Immigration, Laïcité",
+    "main": false,
+    "slug": "immigration-laicite",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
+    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "aec": [
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" }
+    ],
+    "sources": [
+      { "title": "Source test", "href": "https://google.fr/" }
+    ]
+  },
+  "economie-finance": {
+    "title": "Économie, Finance",
+    "main": false,
+    "slug": "economie-finance",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
+    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "aec": [
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" }
+    ],
+    "sources": [
+      { "title": "Source test", "href": "https://google.fr/" }
+    ]
+  }
+}

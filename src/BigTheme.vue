@@ -1,19 +1,32 @@
 <template>
-  <router-link :to="to" class="alp-big-theme-wrapper">
+  <router-link :to="to" class="alp-big-theme-wrapper" v-if="link">
     <div class="alp-big-theme" :style="backgroundImage">
       <div class="alp-big-theme__shadow">
         <slot></slot>
       </div>
     </div>
   </router-link>
+  <div class="alp-big-theme-wrapper" v-else>
+    <div class="alp-big-theme" :style="backgroundImage">
+      <div class="alp-big-theme__shadow">
+        <slot></slot>
+      </div>
+    </div>
+  </div>
 </template>
 
 <script>
-import democratique from './assets/urgence.democratique.jpg'
-import ecologique from './assets/urgence.ecologique.jpg'
-import sociale from './assets/urgence.sociale.jpg'
+import themes from './themes'
 
-const pictures = { democratique, ecologique, sociale }
+const assetsCtx = require.context('./assets', false, /\.jpg$/)
+
+const pictures = {}
+
+Object.keys(themes)
+  .map(themeName => themes[themeName])
+  .forEach((theme) => {
+    pictures[theme.slug] = assetsCtx(`./${theme.slug}.jpg`)
+  })
 
 export default {
   props: ['image', 'link'],
@@ -24,6 +37,7 @@ export default {
     },
 
     backgroundImage() {
+      console.log(pictures, this.image)
       return { backgroundImage: `url(${pictures[this.image]})` }
     }
   }
