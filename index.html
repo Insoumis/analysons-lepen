@@ -27,10 +27,119 @@
 
     <meta name="theme-color" content="#c9462c">
 
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        color: #222;
+        font-family: 'Source Sans Pro', sans-serif;
+        margin: 0;
+      }
+
+      h1, h2, h3, h5 {
+        font-family: Montserrat, sans-serif;
+        text-transform: uppercase;
+        font-weight: 600;
+        padding: 0 15px;
+      }
+
+      .alp-header {
+        background: #c9462c;
+        border-bottom: 1px solid #bc4229;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        height: 54px;
+        padding: 8px 20px;
+      }
+
+      .alp-header__logo {
+        background: url(./dist/logo.png) center no-repeat;
+        background-size: cover;
+        display: inline-block;
+        height: 36px;
+        text-indent: -9999px;
+        vertical-align: middle;
+        width: 132px;
+      }
+
+      .alp-header__nav {
+        display: inline-block;
+        margin-left: 20px;
+      }
+
+      .alp-header__nav > a {
+        color: #fff;
+        font-family: Montserrat, serif;
+        font-size: 14px;
+        line-height: 36px;
+        margin: 0 6px;
+        text-decoration: none;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+      }
+
+      .alp-home__title {
+        color: #23b9d0;
+        font-size: 36px;
+        font-weight: 600;
+        margin: 80px 0 30px 0;
+        text-align: center;
+      }
+
+      .alp-home__title__red {
+        color: #c9462c;
+      }
+
+      .alp-home__intro {
+        color: #222222;
+        font-size: 18px;
+        margin: 0 auto;
+        max-width: 700px;
+        padding: 30px 10px;
+      }
+
+      .alp-home__choose {
+        color: #23b9d0;
+        margin: 0 auto;
+        max-width: 700px;
+        text-align: center;
+        text-transform: uppercase;
+      }
+
+      .alp-home__icon {
+        display: block;
+        margin: 20px auto;
+      }
+    </style>
+
     <link rel="icon" href="./dist/favicon.ico" />
   </head>
   <body>
-    <div id="app"></div>
+    <div id="app">
+      <header class="alp-header">
+        <a href="http://discord.insoumis.online/" target="_blank" class="alp-header__logo">Discord Insoumis</a>
+        <nav class="alp-header__nav">
+          <a target="_blank" href="https://jlm2017.fr/" title="Site de la campagne de Jean-Luc Mélenchon">jlm2017.fr</a>
+          <a target="_blank" href="https://laec.fr/" title="Programme de Mélenchon pour la France Insoumise">Consultez le programme</a>
+        </nav>
+      </header>
+      <main class="alp-home">
+        <h1 class="alp-home__title">
+          Analysons le projet du
+          <span class="alp-home__title__red">Front National</span>
+        </h1>
+        <p class="alp-home__intro">
+          Blabla intro on compare le le projet du FN à la FI. Ou blabla on les combats jamais sur le fond
+          <br>
+          Blabla des thèmes sur lesquels on soulève des incohérences
+        </p>
+        <p class="alp-home__choose">
+          Blabla sélectionnez un thème pour analyser le projet du
+          <span class="alp-home__intro__red">Front National</span>
+        </p>
+        <img src="./dist/arrow.down.png" alt="arrow down" height="24" width="24" class="alp-home__icon">
+      </main>
+    </div>
     <script src="./dist/build.js"></script>
   </body>
 </html>
