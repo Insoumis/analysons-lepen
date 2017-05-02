@@ -36,7 +36,7 @@ export default {
 
   computed: {
     to() {
-      return `/themes/${this.link}`
+      return `./themes/${this.link}`
     },
 
     backgroundImage() {
