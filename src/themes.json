@@ -1,0 +1,20 @@
+{
+  "urgence-sociale": {
+    "image": "sociale",
+    "title": "Urgence sociale",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
+    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "aec": [
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" },
+      { "title": "Référendum révocatoire", "content": "Utilisation du référendum révocatoire pour virer des méchants" }
+    ],
+    "sources": [
+      { "title": "Source test", "href": "https://google.fr/" }
+    ]
+  }
+}

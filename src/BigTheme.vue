@@ -1,11 +1,18 @@
 <template>
-  <router-link :to="to" class="alp-big-theme-wrapper">
+  <router-link :to="to" class="alp-big-theme-wrapper" v-if="link">
     <div class="alp-big-theme" :style="backgroundImage">
       <div class="alp-big-theme__shadow">
         <slot></slot>
       </div>
     </div>
   </router-link>
+  <div class="alp-big-theme-wrapper" v-else>
+    <div class="alp-big-theme" :style="backgroundImage">
+      <div class="alp-big-theme__shadow">
+        <slot></slot>
+      </div>
+    </div>
+  </div>
 </template>
 
 <script>

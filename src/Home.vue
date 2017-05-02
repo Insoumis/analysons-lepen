@@ -27,7 +27,7 @@
 
 <script>
 import Button from './Button.vue'
-import BigTheme from './Home-BigTheme.vue'
+import BigTheme from './BigTheme.vue'
 import MoreThemes from './Home-MoreThemes.vue'
 
 export default {
@@ -44,7 +44,7 @@ export default {
   color: #23b9d0;
   font-size: 36px;
   font-weight: 600;
-  margin: 30px 0;
+  margin: 80px 0 30px 0;
   text-align: center;
 }
 
