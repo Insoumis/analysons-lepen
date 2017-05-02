@@ -16,7 +16,11 @@
     ],
     "sources": [
       { "title": "Source test", "href": "https://google.fr/" }
-    ]
+    ],
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    }
   },
   "urgence-sociale": {
     "title": "Urgence sociale",
@@ -35,7 +39,11 @@
     ],
     "sources": [
       { "title": "Source test", "href": "https://google.fr/" }
-    ]
+    ],
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    }
   },
   "urgence-ecologique": {
     "title": "Urgence écologique",
@@ -54,7 +62,11 @@
     ],
     "sources": [
       { "title": "Source test", "href": "https://google.fr/" }
-    ]
+    ],
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    }
   },
   "securite-terrorisme": {
     "title": "Sécurité, Terrorisme",
@@ -73,7 +85,11 @@
     ],
     "sources": [
       { "title": "Source test", "href": "https://google.fr/" }
-    ]
+    ],
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    }
   },
   "immigration-laicite": {
     "title": "Immigration, Laïcité",
@@ -92,7 +108,11 @@
     ],
     "sources": [
       { "title": "Source test", "href": "https://google.fr/" }
-    ]
+    ],
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    }
   },
   "economie-finance": {
     "title": "Économie, Finance",
@@ -111,6 +131,10 @@
     ],
     "sources": [
       { "title": "Source test", "href": "https://google.fr/" }
-    ]
+    ],
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    }
   }
 }

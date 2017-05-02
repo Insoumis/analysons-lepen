@@ -20,9 +20,9 @@
         <h2 class="alp-theme__fi__title">
           L'analyse de la France Insoumise
         </h2>
-        <p class="alp-theme__fi__proposals" v-html="theme.fi">
-
-        </p>
+        <p class="alp-theme__fi__proposals" v-html="theme.fi"></p>
+        <br v-if="theme.badge">
+        <strong v-if="theme.badge">Status: <alp-tag :theme="theme.badge.color">Mensonger</alp-tag></strong>
       </alp-card>
     </div>
     <div class="alp-theme__fi-proposals">
@@ -57,12 +57,14 @@ import themes from './themes'
 import Button from './Button.vue'
 import BigTheme from './BigTheme.vue'
 import Card from './Card.vue'
+import Tag from './Tag.vue'
 
 export default {
   components: {
     'alp-button': Button,
     'alp-big-theme': BigTheme,
-    'alp-card': Card
+    'alp-card': Card,
+    'alp-tag': Tag
   },
 
   computed: {
@@ -111,6 +113,10 @@ export default {
 
 .alp-theme__fn__proposals {
   font-size: 18px;
+}
+
+.alp-theme__fi .alp-tag {
+  margin-left: 10px;
 }
 
 .alp-theme__fi-proposals {

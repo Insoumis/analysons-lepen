@@ -45,7 +45,7 @@ export default {
     themes() {
       return Object.keys(themes)
         .map(themeName => themes[themeName])
-        .filter(theme => theme.main)
+        .filter(theme => !theme.invisible && theme.main)
     }
   }
 }

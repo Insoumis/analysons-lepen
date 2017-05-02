@@ -6,13 +6,17 @@
 
 <script>
 export default {
-  props: ['orange'],
+  props: ['theme'],
 
   computed: {
     color() {
-      if (this.orange) {
+      if (this.theme === 'orange') {
         return {
           background: '#f0ad4e'
+        }
+      } else {
+        return {
+          background: '#c9462c'
         }
       }
     }
