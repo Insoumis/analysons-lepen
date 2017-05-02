@@ -12,6 +12,9 @@
         <slot></slot>
       </div>
     </div>
+    <div class="alp-big-theme__shadow__back" @click="$router.push('/')">
+      <img src="./assets/arrow.left.png" alt="left arrow">
+    </div>
   </div>
 </template>
 
@@ -37,7 +40,6 @@ export default {
     },
 
     backgroundImage() {
-      console.log(pictures, this.image)
       return { backgroundImage: `url(${pictures[this.image]})` }
     }
   }
@@ -49,6 +51,7 @@ export default {
   text-decoration: none;
   flex: 1;
   overflow: hidden;
+  position: relative;
 }
 
 .alp-big-theme {
@@ -80,5 +83,18 @@ export default {
   justify-content: center;
   text-transform: uppercase;
   transition: .1s background-color ease-out;
+}
+
+.alp-big-theme__shadow__back {
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  height: 48px;
+  left: 40px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 48px;
 }
 </style>
