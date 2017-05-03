@@ -18,7 +18,7 @@
 }
 
 .alp-header__logo {
-  background: url('assets/logo.png') center no-repeat;
+  background: url('./assets/logo.png') center no-repeat;
   background-size: cover;
   display: inline-block;
   height: 36px;
