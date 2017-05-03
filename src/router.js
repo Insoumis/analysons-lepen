@@ -7,8 +7,8 @@ import Home from './Home.vue'
 import Theme from './Theme.vue'
 
 const routes = [
-  { path: '/(analysons-lepen)?', component: Home },
-  { path: '/(analysons-lepen)?/themes/:theme', component: Theme },
+  { path: '/', component: Home },
+  { path: '/themes/:theme', component: Theme },
 ]
 
 export default new VueRouter({
