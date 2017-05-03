@@ -38,14 +38,14 @@ module.exports = {
         loader: 'file-loader',
         query: {
           name: '[name].[ext]?[hash]',
-          publicPath: process.env.NODE_ENV === 'production' ? './dist/' : '/dist/'
+          publicPath: '/dist/'
         }
       },
       {
         test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
         loader: 'file-loader',
         query: {
-          publicPath: process.env.NODE_ENV === 'production' ? './dist/' : '/dist/'
+          publicPath: '/dist/'
         }
       }
     ]
