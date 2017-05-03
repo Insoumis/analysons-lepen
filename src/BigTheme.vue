@@ -28,7 +28,7 @@ const pictures = {}
 Object.keys(themes)
   .map(themeName => themes[themeName])
   .forEach((theme) => {
-    pictures[theme.slug] = assetsCtx(`./${theme.slug}.jpg`)
+    pictures[theme.slug] = assetsCtx(`./${theme.image}.jpg`)
   })
 
 export default {
