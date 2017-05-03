@@ -7,12 +7,12 @@
     </div>
   </router-link>
   <div class="alp-big-theme-wrapper" v-else>
-    <div class="alp-big-theme" :style="backgroundImage">
+    <div class="alp-big-theme alp-big-theme--no-hover" :style="backgroundImage">
       <div class="alp-big-theme__shadow">
         <slot></slot>
       </div>
     </div>
-    <div class="alp-big-theme__shadow__back" @click="$router.push('/')">
+    <div class="alp-big-theme__shadow__back" @click="$router.back()">
       <img src="./assets/arrow.left.png" alt="left arrow">
     </div>
   </div>
@@ -61,14 +61,19 @@ export default {
   transition: .1s transform ease-out;
 }
 
-.alp-big-theme:hover {
+.alp-big-theme:not(.alp-big-theme--no-hover):hover {
   transform: scale(1.05);
   transition: .1s transform ease-in;
 }
 
-.alp-big-theme:hover .alp-big-theme__shadow {
+.alp-big-theme:not(.alp-big-theme--no-hover):hover .alp-big-theme__shadow {
   background-color: rgba(0, 0, 0, 0.4);
   transition: .1s background-color ease-in;
+}
+
+
+.alp-big-theme--no-hover > .alp-big-theme__shadow {
+  font-size: 28px;
 }
 
 .alp-big-theme__shadow {

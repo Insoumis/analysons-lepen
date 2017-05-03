@@ -3,7 +3,20 @@
     <div class="alp-theme__header">
       <alp-big-theme :image="theme.slug">{{ theme.title }}</alp-big-theme>
     </div>
+
+    <div class="alp-theme__sublinks" v-if="theme.sources">
+      <div class="alp-theme__sublinks__buttons">
+        <alp-button :blue="true" :shadow="true">{{ theme.title }}</alp-button>
+        <alp-button
+          v-for="source in theme.sources"
+          key="source.href"
+          :shadow="true"
+          :href="source.href">{{ source.title }}</alp-button>
+      </div>
+    </div>
+
     <p class="alp-theme__intro" v-html="theme.intro"></p>
+
     <div class="alp-theme__fn">
       <alp-card>
         <h2 class="alp-theme__fn__title">
@@ -27,19 +40,18 @@
     </div>
     <div class="alp-theme__fi-proposals">
       <h2 class="alp-theme__fi-proposals__title">Les propositions de l’Avenir en Commun</h2>
-      <div class="alp-theme__fi-proposals__proposal" v-for="proposal in theme.aec">
-        <strong>{{ proposal.title }} —</strong>
-        {{ proposal.content }}
-      </div>
+      <div class="alp-theme__fi-proposals__proposal" v-html="theme.aec"></div>
     </div>
 
-    <div class="alp-theme__sources" v-if="theme.sources">
-      <h2 class="alp-theme__sources__title">Envie d'en savoir plus ?</h2>
-      <div class="alp-theme__sources__buttons">
-        <alp-button
-          v-for="source in theme.sources"
-          key="source.href"
-          :href="source.href">{{ source.title }}</alp-button>
+    <div class="alp-theme__more">
+      <h2 class="alp-theme__more__title">Envie d'en savoir plus ?</h2>
+      <div class="alp-theme__more__buttons">
+        <alp-button href="https://laec.fr">
+          <div style="text-align: center;">
+            Consulter<br>
+            L'Avenir en Commun
+          </div>
+        </alp-button>
       </div>
     </div>
   </div>
@@ -85,6 +97,28 @@ export default {
   cursor: default;
 }
 
+.alp-theme__sublinks {
+  margin: 40px 0;
+}
+
+.alp-theme__sublinks__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 0 10px;
+}
+
+.alp-theme__sublinks__buttons > .alp-button-wrapper > .alp-button {
+  border-radius: 6px;
+  font-size: 18px;
+  padding: 10px 15px;
+}
+
+.alp-theme__sublinks__buttons > .alp-button-wrapper:not(:last-child) {
+  margin-right: 10px;
+}
+
 .alp-theme__intro {
   margin: 60px auto;
   max-width: 800px;
@@ -113,8 +147,13 @@ export default {
   margin-left: 10px;
 }
 
+.alp-theme__fi__proposals  {
+  font-size: 18px;
+  text-align: justify;
+}
+
 .alp-theme__fi-proposals {
-  margin: 0 auto 40px auto;
+  margin: 0 auto 50px auto;
   max-width: 800px;
 }
 
@@ -136,30 +175,21 @@ export default {
   margin-top: 10px;
 }
 
-.alp-theme__sources {
+.alp-theme__more {
   background: #c9462c;
   box-shadow: inset 0 5px 10px 0 rgba(0, 0, 0, 0.2);
-  min-height: 300px;
-  padding: 30px;
+  padding: 10px 30px 30px 30px;
 }
 
-.alp-theme__sources__title {
+.alp-theme__more__title {
   color: #fff;
   text-align: center;
 }
 
-.alp-theme__sources__buttons {
+.alp-theme__more__buttons {
   display: flex;
-  flex-wrap: wrap;
-  margin: 50px auto;
+  justify-content: center;
+  margin: 0 auto;
   max-width: 800px;
-}
-
-.alp-theme__sources__buttons > .alp-button-wrapper {
-  margin-top: 20px;
-}
-
-.alp-theme__sources__buttons > .alp-button-wrapper:not(:last-child) {
-  margin-right: 20px;
 }
 </style>
