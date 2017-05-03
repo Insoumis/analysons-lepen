@@ -71,6 +71,9 @@ export default {
   transition: .1s background-color ease-in;
 }
 
+.alp-big-theme--no-hover {
+  background-position: center;
+}
 
 .alp-big-theme--no-hover > .alp-big-theme__shadow {
   font-size: 28px;
