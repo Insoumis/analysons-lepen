@@ -22,13 +22,14 @@
 
 <script>
 export default {
-  props: ['link', 'shadow', 'href'],
+  props: ['link', 'shadow', 'href', 'blue'],
 
   computed: {
     classes() {
       return {
         'alp-button': true,
-        'alp-button--shadowed': this.shadow
+        'alp-button--shadowed': this.shadow,
+        'alp-button--blued': this.blue
       }
     }
   }
@@ -47,6 +48,11 @@ export default {
   font-weight: 600;
   text-decoration: none;
   padding: 15px 20px;
+}
+
+.alp-button--blued {
+  background-color: #23b9d0;
+  color: #fff;
 }
 
 .alp-button--shadowed {
