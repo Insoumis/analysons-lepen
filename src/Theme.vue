@@ -26,16 +26,10 @@
       </alp-card>
     </div>
     <div class="alp-theme__fi-proposals">
-      <h2 class="alp-theme__fi-proposals__title">Les propositions dans l’Avenir en Commun</h2>
+      <h2 class="alp-theme__fi-proposals__title">Les propositions de l’Avenir en Commun</h2>
       <div class="alp-theme__fi-proposals__proposal" v-for="proposal in theme.aec">
         <strong>{{ proposal.title }} —</strong>
         {{ proposal.content }}
-      </div>
-
-      <div class="alp-theme__fi__proposals__link">
-        <alp-button href="https://laec.fr" :shadow="true">
-          Plus sur le programme<br>L’Avenir en Commun
-        </alp-button>
       </div>
     </div>
 
@@ -140,18 +134,6 @@ export default {
 
 .alp-theme__fi-proposals__proposal:not(:first-child) {
   margin-top: 10px;
-}
-
-.alp-theme__fi__proposals__link {
-  margin: 30px auto;
-}
-
-.alp-theme__fi__proposals__link > .alp-button-wrapper {
-  text-align: center;
-}
-
-.alp-theme__fi__proposals__link a {
-  text-align: center;
 }
 
 .alp-theme__sources {
