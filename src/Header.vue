@@ -2,7 +2,7 @@
   <header class="alp-header">
     <a href="http://discord.insoumis.online/" class="alp-header__logo" target="_blank">Discord Insoumis</a>
     <nav class="alp-header__nav">
-      <a target="_blank" href="https://jlm2017.fr/" title="Site de la campagne de Jean-Luc Mélenchon">jlm2017.fr</a>
+      <a target="_blank" href="https://lafranceinsoumise.fr/" title="Site de la France Insoumise">lafranceinsoumise.fr</a>
       <a target="_blank" href="https://laec.fr/" title="Programme de Mélenchon pour la France Insoumise">Consultez le programme</a>
     </nav>
   </header>
