@@ -88,6 +88,10 @@ export default {
 </script>
 
 <style>
+.alp-theme {
+  background: #fbfbfb;
+}
+
 .alp-theme__header {
   display: flex;
   height: 130px;
@@ -120,6 +124,7 @@ export default {
 }
 
 .alp-theme__intro {
+  font-size: 18px;
   margin: 60px auto;
   max-width: 800px;
   padding: 0 10px;

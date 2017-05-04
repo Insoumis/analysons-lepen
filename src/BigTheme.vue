@@ -40,7 +40,6 @@ export default {
     },
 
     backgroundImage() {
-      console.log({ backgroundImage: `url(${pictures[this.image]})` });
       return { backgroundImage: `url(${pictures[this.image]})` }
     }
   }
