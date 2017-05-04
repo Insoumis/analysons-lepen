@@ -1,21 +1,21 @@
 <template>
   <div class="alp-theme">
     <div class="alp-theme__header">
-      <alp-big-theme :image="theme.slug">{{ theme.title }}</alp-big-theme>
+      <alp-big-theme :image="theme.slug">{{ themes[theme.parent].title }}</alp-big-theme>
     </div>
 
-    <div class="alp-theme__sublinks" v-if="theme.sources">
+    <div class="alp-theme__sublinks" v-if="theme.relatives">
       <div class="alp-theme__sublinks__buttons">
-        <alp-button :blue="true" :shadow="true">{{ theme.title }}</alp-button>
         <alp-button
-          v-for="source in theme.sources"
-          key="source.href"
+          v-for="rel in theme.relatives"
+          key="rel.link"
+          :blue="rel.title === theme.title"
           :shadow="true"
-          :href="source.href">{{ source.title }}</alp-button>
+          :link="rel.link">{{ rel.title }}</alp-button>
       </div>
     </div>
 
-    <p class="alp-theme__intro" v-html="theme.intro"></p>
+    <p class="alp-theme__intro" v-html="themes[theme.parent].intro"></p>
 
     <div class="alp-theme__fn">
       <alp-card>
@@ -73,6 +73,12 @@ export default {
     'alp-tag': Tag
   },
 
+  data() {
+    return {
+      themes
+    };
+  },
+
   computed: {
     theme() {
       return themes[this.$route.params.theme]
@@ -83,6 +89,12 @@ export default {
     if (!themes.hasOwnProperty(this.$route.params.theme)) {
       this.$router.push('/')
     }
+
+    if (this.theme.subs) {
+      this.$router.push(this.theme.subs[0].link);
+    }
+
+    console.log(this.theme);
   }
 }
 </script>
@@ -111,6 +123,10 @@ export default {
   margin: 0 auto;
   max-width: 800px;
   padding: 0 10px;
+}
+
+.alp-theme__sublinks__buttons > .alp-button-wrapper {
+  margin-top: 10px;
 }
 
 .alp-theme__sublinks__buttons > .alp-button-wrapper > .alp-button {
