@@ -1,7 +1,7 @@
 <template>
   <div class="alp-theme">
     <div class="alp-theme__header">
-      <alp-big-theme :image="theme.slug">{{ themes[theme.parent].title }}</alp-big-theme>
+      <alp-big-theme :image="theme.slug">{{ title }}</alp-big-theme>
     </div>
 
     <div class="alp-theme__sublinks" v-if="theme.relatives">
@@ -15,7 +15,7 @@
       </div>
     </div>
 
-    <p class="alp-theme__intro" v-html="themes[theme.parent].intro"></p>
+    <p class="alp-theme__intro" v-html="intro"></p>
 
     <div class="alp-theme__fn">
       <alp-card>
@@ -82,6 +82,14 @@ export default {
   computed: {
     theme() {
       return themes[this.$route.params.theme]
+    },
+
+    intro() {
+      return this.theme.parent ? themes[this.theme.parent].intro : this.theme.intro
+    },
+
+    title() {
+      return this.theme.parent ? themes[this.theme.parent].title : this.theme.title
     }
   },
 
