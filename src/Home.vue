@@ -19,7 +19,7 @@
       <alp-big-theme
         v-for="theme in themes"
         key="theme.slug"
-        :link="theme.slug"
+        :link="theme.subs[0].link"
         :image="theme.slug">{{ theme.title }}</alp-big-theme>
     </div>
 
