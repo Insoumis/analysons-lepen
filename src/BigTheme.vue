@@ -12,7 +12,7 @@
         <slot></slot>
       </div>
     </div>
-    <div class="alp-big-theme__shadow__back" @click="$router.back()">
+    <div class="alp-big-theme__shadow__back" @click="$router.push('/')">
       <img src="./assets/arrow.left.png" alt="left arrow">
     </div>
   </div>
