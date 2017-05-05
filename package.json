@@ -16,7 +16,7 @@
   "dependencies": {
     "normalize.css": "^6.0.0",
     "typeface-montserrat": "^0.0.24",
-    "typeface-source-sans-pro": "^0.0.22",
+    "typeface-roboto": "^0.0.22",
     "vue": "^2.2.1",
     "vue-router": "^2.5.3"
   },

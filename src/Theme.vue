@@ -4,6 +4,8 @@
       <alp-big-theme :image="theme.slug">{{ title }}</alp-big-theme>
     </div>
 
+    <p class="alp-theme__intro" v-html="intro"></p>
+
     <div class="alp-theme__sublinks" v-if="theme.relatives">
       <div class="alp-theme__sublinks__buttons">
         <alp-button
@@ -14,8 +16,6 @@
           :link="rel.link">{{ rel.title }}</alp-button>
       </div>
     </div>
-
-    <p class="alp-theme__intro" v-html="intro"></p>
 
     <div class="alp-theme__fn">
       <alp-card>
@@ -151,7 +151,7 @@ export default {
 
 .alp-theme__intro {
   font-size: 18px;
-  margin: 60px auto;
+  margin: 60px auto 30px auto;
   max-width: 800px;
   padding: 0 10px;
   text-align: justify;

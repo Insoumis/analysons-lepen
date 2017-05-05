@@ -1,7 +1,7 @@
 {
   "urgence-democratique": {
     "title": "Urgence démocratique",
-    "main": true,
+    "main": false,
     "slug": "urgence-democratique",
     "image": "urgence-democratique",
     "intro": "<strong>Que ce soit dans le domaine de la démocratie et de la représentation</strong>, dans celui des libertés fondamentales, le Front National a beaucoup de propositions à faire. Celles-ci, souvent floues, sont souvent à double tranchant, et menacent de fracturer la société encore plus qu'elle ne l'est. Quand au sujet de l'égalité, que ce soit celle de tous les citoyens, ou plus spécifiquement de l'égalité femme-homme, certains sujets sont passés sous silence par le parti d'extrême-droite. Pour de bonnes raisons.",
@@ -98,7 +98,7 @@
   },
   "urgence-sociale": {
     "title": "Urgence sociale",
-    "main": true,
+    "main": false,
     "slug": "urgence-sociale",
     "image": "urgence-sociale",
     "intro": "Sur l’économie et les finances publiques, Le FN veut présenter un visage « social » mais son programme nous dit le contraire. Exonération de cotisations et exemptions fiscales, « patriotisme économique » qui défend le capital français mais pas les travailleurs, ni l’écologie : autant d’exemples qui trahissent son pseudo-virage social.",
@@ -169,7 +169,7 @@
   },
   "urgence-ecologique": {
     "title": "Urgence écologique",
-    "main": true,
+    "main": false,
     "slug": "urgence-ecologique",
     "image": "urgence-ecologique",
     "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -202,7 +202,7 @@
   },
   "securite-terrorisme": {
     "title": "Sécurité, Terrorisme",
-    "main": false,
+    "main": true,
     "slug": "securite-terrorisme",
     "image": "securite-terrorisme",
     "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -219,7 +219,7 @@
   },
   "immigration-laicite": {
     "title": "Immigration, Laïcité",
-    "main": false,
+    "main": true,
     "slug": "immigration-laicite",
     "image": "immigration-laicite",
     "intro": "Pour le FN, depuis plusieurs décennies déjà, le clivage essentiel est celui qui oppose <a href=\"http://www.monde-diplomatique.fr/2017/05/LAMBERT/57493\" title=\"Duplicité économique du Front national\">« le parti des étrangers contre le parti de la France »</a>, et l'immigration est le problème central et le cœur de toute son argumentation. Marine Le Pen, dont le programme de 2012 prévoyait d' <a href=\"http://www.frontnational.com/pdf/projet_mlp2012.pdf\">« interdire les manifestations de soutien aux clandestins »</a>, voit l'immigration comme un véritable « raz-de-marée », une <a href=\"http://www.lepoint.fr/politique/marine-le-pen-compare-l-afflux-de-migrants-aux-invasions-barbares-14-09-2015-1964773_20.php\" title=\"Marine Le Pen compare l'afflux de migrants aux invasions barbares\">« invasion » comparable à celles des barbares du IVème siècle</a>. <br><br><a href=\"http://www.lefigaro.fr/flash-actu/2017/03/20/97001-20170320FILWWW00355-le-pen-je-veux-arreter-l-immigration.php\" title=\"Le Pen: «Je veux arrêter l'immigration»\">« Arrêter l'immigration légale et illégale »</a> est donc la grande priorité du FN. Avec la fermeture des frontières et le durcissement des conditions d'accès à la nationalité, le parti veut instaurer la <a href=\"http://www.humanite.fr/la-verite-sur-le-programme-du-front-national-631681\" title=\"La vérite sur le programme du Front national\">« priorité nationale »</a>. Pour « ériger la citoyenneté française en privilège » et empêcher les immigrés  d'accéder aux droits fondamentaux, au profit des français « de souche », il veut d'abord <a href=\"https://www.mediapart.fr/journal/france/200317/fn-la-priorite-nationale-une-doctrine-contraire-aux-fondements-republicains-0\" title=\"Programme du FN (2). La «priorité nationale», une doctrine contraire aux fondements républicains\">modifier la constitution</a>. Pour les quelques étrangers qui parviendraient à rester sur le territoire, le FN parle d'« assimilation», un concept « développé dans le contexte des guerres coloniales françaises au XIXe siècle », qui s'appliquait donc aux « indigènes » des colonies françaises, <a href=\"https://www.mediapart.fr/journal/france/230317/programme-du-fn-4-l-identite-nationale-machine-de-guerre-contre-l-islam\" title=\"Programme du FN (4). L’identité nationale, machine de guerre contre l’islam\">d'après l’historien Yvan Gastaud</a>. Quant aux musulmans, véritables « ennemis intérieurs » pour ce parti, Marion Maréchal-Le Pen expliquait fin 2015 qu'ils devaient <a href=\"http://www.europe1.fr/politique/pour-marion-marechal-le-pen-les-musulmans-ne-peuvent-etre-francais-que-sous-condition-2629283\" title=\"Pour Marion Maréchal-Le Pen, les musulmans ne peuvent être français que sous condition\">« se plier aux mœurs et au mode de vie que l’influence grecque, romaine, et 16 siècles de chrétienté ont façonnés ».</a>",
@@ -291,7 +291,7 @@
   },
   "economie-finance": {
     "title": "Économie, Finance",
-    "main": false,
+    "main": true,
     "slug": "economie-finance",
     "image": "economie-finance",
     "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
