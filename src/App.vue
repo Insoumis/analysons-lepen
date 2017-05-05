@@ -45,6 +45,10 @@ p {
 
 p a {
   color: inherit;
+  cursor: pointer;
+}
+
+strong a {
   font-weight: 600;
 }
 
