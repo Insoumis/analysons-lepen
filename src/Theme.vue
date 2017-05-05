@@ -40,6 +40,7 @@
     </div>
     <div class="alp-theme__fi-proposals">
       <h2 class="alp-theme__fi-proposals__title">Les propositions de l’Avenir en Commun</h2>
+      <img class="alp-theme__fi__aec" src="./assets/aec.png" alt="Ce qu'en dit l'Avenir en Commun" height="160" width="160">
       <p class="alp-theme__fi-proposals__proposal" v-html="theme.aec"></p>
     </div>
 
@@ -190,6 +191,13 @@ export default {
 .alp-theme__fi-proposals__title {
   font-size: 24px;
   color: #c9462c;
+}
+
+.alp-theme__fi__aec {
+  float: right;
+  margin-bottom: 1px;
+  margin-left: 15px;
+  margin-top: -70px;
 }
 
 .alp-theme__fi-proposals__proposal {
