@@ -4,12 +4,16 @@
       Analysons le projet du <span class="alp-home__title__red">Front National</span>
     </h1>
     <p class="alp-home__intro">
-      Blabla intro on compare le le projet du FN à la FI. Ou blabla on les combats jamais sur le fond
+      Les rapprochements et amalgames entre le programme de la France Insoumise et celui du Front National ont été très nombreux et très virulents. Pourtant, <strong>aucune analyse sérieuse et critique des propositions de Marine Le Pen</strong> n'a été vraiment réalisée pour tenter de les confronter à celles portées par Jean-Luc Mélenchon.
       <br>
-      Blabla des thèmes sur lesquels on soulève des incohérences
+      <br>
+      Le Discord propose donc une analyse des propositions du Front National à travers plusieurs thèmes. Cette analyse est bien évidemment très critique car le projet de société de Marine Le Pen est non seulement à l'opposé de celui de la France Insoumise mais il présente de nombreuses incohérences.
+      <br>
+      <br>
+      L'objectif de ce site est d'être <strong>une source de réflexion</strong> pour favoriser l'esprit critique de la population autour du projet mortifère du Front National. C'est un espace en développement permanent qui sera enrichi au fil des prochaines semaines.
     </p>
     <p class="alp-home__choose">
-      Blabla sélectionnez un thème pour analyser le projet du
+      Sélectionnez un thème pour analyser le projet du
       <span class="alp-home__intro__red">Front National</span>
     </p>
 
@@ -70,6 +74,7 @@ export default {
   margin: 0 auto;
   max-width: 700px;
   padding: 30px 10px;
+  text-align: justify;
 }
 
 .alp-home__choose {

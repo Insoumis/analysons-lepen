@@ -197,7 +197,7 @@ export default {
   float: right;
   margin-bottom: 1px;
   margin-left: 15px;
-  margin-top: -70px;
+  margin-top: -30px;
 }
 
 .alp-theme__fi-proposals__proposal {
