@@ -43,6 +43,11 @@ p {
   line-height: 1.3;
 }
 
+p a {
+  color: inherit;
+  font-weight: 600;
+}
+
 #app {
   display: flex;
   height: 100%;
