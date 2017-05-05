@@ -77,6 +77,7 @@ export default {
 
 .alp-big-theme--no-hover > .alp-big-theme__shadow {
   font-size: 28px;
+  height: 130px;
 }
 
 .alp-big-theme__shadow {
@@ -112,15 +113,15 @@ export default {
     height: 300px;
   }
 
-  .alp-big-theme--no-hover .alp-big-theme__shadow {
-    height: 130px;
-  }
-
   .alp-big-theme__shadow__back {
     left: 50%;
     top: 100%;
     transform: translate(-50%, -50%);
     z-index: 2;
+  }
+
+  .alp-big-theme--no-hover > .alp-big-theme__shadow {
+    font-size: 24px;
   }
 
   .alp-big-theme-wrapper {

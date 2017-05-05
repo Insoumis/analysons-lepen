@@ -96,12 +96,6 @@ export default {
   min-height: 520px;
 }
 
-@media (min-width: 1300px) {
-  .alp-home__themes {
-    min-height: 650px;
-  }
-}
-
 @media (max-width: 768px) {
   .alp-home__themes {
     flex-direction: column;
