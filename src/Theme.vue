@@ -85,6 +85,7 @@ export default {
     },
 
     intro() {
+      console.log(this.theme.parent)
       return this.theme.parent ? themes[this.theme.parent].intro : this.theme.intro
     },
 
