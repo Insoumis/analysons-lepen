@@ -26,8 +26,8 @@ html {
 }
 
 body {
-  color: #222;
-  font-family: 'Source Sans Pro', sans-serif;
+  color: #333;
+  font-family: 'Roboto', sans-serif;
   height: 100%;
   margin: 0;
 }
@@ -40,7 +40,7 @@ h1, h2, h3, h5 {
 }
 
 p {
-  line-height: 1.3;
+  line-height: 1.5;
 }
 
 p a {

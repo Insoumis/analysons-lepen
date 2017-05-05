@@ -3509,9 +3509,9 @@ typeface-montserrat@^0.0.24:
   version "0.0.24"
   resolved "https://registry.yarnpkg.com/typeface-montserrat/-/typeface-montserrat-0.0.24.tgz#dc819a5a8e7e89af4107671c56b7b9e1ab2ceea2"
 
-typeface-source-sans-pro@^0.0.22:
+typeface-roboto@^0.0.22:
   version "0.0.22"
-  resolved "https://registry.yarnpkg.com/typeface-source-sans-pro/-/typeface-source-sans-pro-0.0.22.tgz#e37883197e224d935f7aacc2fb29eff5d8862f0c"
+  resolved "https://registry.yarnpkg.com/typeface-roboto/-/typeface-roboto-0.0.22.tgz#03b60bb02b10f9509a683226b039ae704163e561"
 
 uglify-js@^2.8.5:
   version "2.8.22"

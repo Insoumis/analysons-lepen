@@ -23,12 +23,15 @@
       <alp-big-theme
         v-for="theme in themes"
         key="theme.slug"
-        :link="theme.subs[0].link"
+        :link="getLink(theme)"
         :image="theme.slug">{{ theme.title }}</alp-big-theme>
     </div>
 
     <alp-more-themes></alp-more-themes>
-     Site à l'initiative de citoyens insoumis.
+
+    <div class="alp-home__footer">
+      Site à l'initiative de citoyens insoumis.
+    </div>
   </main>
 </template>
 
@@ -51,6 +54,12 @@ export default {
       return Object.keys(themes)
         .map(themeName => themes[themeName])
         .filter(theme => !theme.invisible && theme.main)
+    }
+  },
+
+  methods: {
+    getLink(theme) {
+      return theme.subs ? theme.subs[0].link : theme.slug
     }
   }
 }
@@ -100,6 +109,12 @@ export default {
   display: flex;
   margin-top: 80px;
   min-height: 520px;
+}
+
+.alp-home__footer {
+  background: #ededed;
+  color: #444;
+  padding: 10px;
 }
 
 @media (max-width: 768px) {
