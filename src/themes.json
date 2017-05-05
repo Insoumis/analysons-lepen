@@ -101,29 +101,70 @@
     "main": true,
     "slug": "urgence-sociale",
     "image": "urgence-sociale",
-    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "intro": "Sur l’économie et les finances publiques, Le FN veut présenter un visage « social » mais son programme nous dit le contraire. Exonération de cotisations et exemptions fiscales, « patriotisme économique » qui défend le capital français mais pas les travailleurs, ni l’écologie : autant d’exemples qui trahissent son pseudo-virage social.",
     "subs": [
-      { "title": "Foo", "link": "urgence-sociale-foo" },
-      { "title": "Foo", "link": "urgence-sociale-foo" }
+      { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
+      { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" }
     ]
   },
-  "urgence-sociale-foo": {
-    "title": "Foo",
+  "urgence-sociale-securite-sociale": {
+    "title": "Sécurité Sociale",
     "main": false,
     "invisible": true,
-    "slug": "urgence-sociale-foo",
+    "slug": "urgence-sociale-securite-sociale",
     "image": "urgence-sociale",
-    "fn": "→ Organiser un référendum en vue de réviser la Constitution et conditionner toute révision future de la Constitution à un référendum. Élargir le champ d’application de l’article 11 de la Constitution.<br>→ Permettre la représentation de tous les Français par le scrutin proportionnel à toutes les élections. À l’Assemblée nationale, la proportionnelle sera intégrale avec une prime majoritaire de 30 % des sièges pour la liste arrivée en tête et un seuil de 5% des suffrages pour obtenir des élus.<br>→ Abaisser le nombre de députés à 300 (contre 577 aujourd’hui) et le nombre de sénateurs à 200 (contre 348 aujourd’hui).",
-    "fi": "Conditionner la révision de la Constitution à un référendum d'approbation serait admirable, si cela permettait de garantir des politiques novatrices. Non seulement le reste du programme ne le laisse pas entendre, mais encore une fois le manque de précision du Front National ne laisse que peu de doute quant à l'aspect électoraliste de la mesure. Le plus grand danger reste néanmoins dans la méthode, puisque l'adoption d'une loi par le biais d'un référendum permet dans les fait de se passer du consentement du parlement.<br><br>La proportionnelle intégrale est ici dévoyée de son objectif premier. La première phrase de la première mesure proposée contredit d'ailleurs la dernière directement. Il est en effet impossible d'assurer la représentation de tous les français dans les élections lorsqu'on commence par imposer un minimum de voix pour obtenir représentation, les petits partis serait évincés de ce parlement de la même manière qu'aujourd'hui.<br><br>Cela est encore plus accentué par la diminution proposée du nombre de représentants. Un nombre plus faible de députés impliqué mathématique que ces derniers représentent un plus grand nombre de français-e-s, et donc moins de représentativité.<br><br>De plus, la prime majoritaire de 30 % (rien que ça) d'élus pour la liste arrivée en tête diminue encore le nombre de sièges effectivement réservés pour les députés élus par suffrage, et ferait qu'en cas d'éclatement des voix, un parti atteignant les 20 % de suffrages exprimés obtiendrait automatiquement la majorité. Une manne donc pour le Front National, qui détient un quasi monopole sur son aile et serait à même d'effectuer n'importe quelle réforme.",
-    "aec": "Afin de véritablement rendre le pouvoir au peuple, nos positions sont centrées sur l'intervention directe de celui-ci, et le contrôle total de la part des français-e-s sur son Parlement et son Gouvernement.<br><br><strong>Convoquer un référendum</strong> pour engager le processus constituant (modalités de la composition de l'Assemblée constituante — mode de scrutin, parité, tirage au sort et incompatibilités ; modalités de la délibération ; association des citoyens aux travaux…)<br><strong>Aucun parlementaire des anciennes assemblées</strong> de la 5e République ne pourra siéger dans cette Assemblée constituante. Les délégués à l'Assemblée constituante ne pourront être candidats aux élections suivant l'entrée en vigueur de la nouvelle Constitution<br>Le projet de Constitution proposé par l'Assemblée constituante sera soumis à un référendum d'approbation<br><strong>Abolir la monarchie présidentielle</strong> en instaurant un régime parlementaire stable dans lequel le gouvernement responsable devant le Parlement, transférer le pouvoir de nomination du Gouvernement au Parlement<br>Élire l'Assemblée nationale à la <strong>proportionnelle totale</strong><br><strong>Supprimer le Sénat</strong> et le Conseil économique, social et environnemental et créer une Assemblée de l'intervention populaire et du long terme émettant un avis sur l'impact écologique et social des lois<br><strong>Supprimer la Cour de justice de la République</strong> et soumettre les membres du gouvernement à la justice ordinaire",
+    "fn": "→ [82] Exonération de cotisations sociales pour « premier emploi »<br>→ [46] Exonération de cotisations et maintien du CICE pour les TPE-PME<br>→ [64] Défiscalisation des heures supplémentaires<br>→ [86] Deux jours de carence pour les arrêts maladie<br>→ [65] « Simplification » de la sécurité sociale",
+    "fi": "Loin de pérenniser la sécurité sociale, le Front National sabote son financement en prolongeant les dispositifs d’allègement de « charges » dont l’effort sera mécaniquement reporté sur l’impôt. Or, ces derniers sont annoncés stables voire à la a baisse, la « simplification » de la sécurité sociale se fera donc par coupes dans nos services publics.<br>De plus, en cessant de rembourser les arrêts maladie court, c’est-à-dire la grande majorité des arrêts, ceux-ci ne seront jamais pris, et on pousse des gens malades à s’user la santé donc à tomber encore plus mal sous prétexte d’économies publiques.",
+    "aec": "<strong><a href=\"https://laec.fr/s26\">Assurer la sécurité sociale intégrale pour tous</a></strong>, en y incluant ce qui est aujourd’hui la part des mutuelles privées.<br><strong>Réduire le temps de travail</strong> en <a href=\"https://laec.fr/s28m2\">appliquant réellement les 35h</a> et en <a href=\"https://laec.fr/s28m1\">généralisant une 6è semaine de congés payés</a><br><br>La suppression de <a href=\"https://laec.fr/s36m2\">nombreuses niches fiscales</a> et <a href=\"https://laec.fr/s18m2\">exonérations de cotisations</a> permet par ailleurs d’abolir des privilèges indus et improductifs pour le pays et de financer une sécurité sociale intégrale.",
     "badge": {
       "text": "Mensonger",
       "color": "red"
     },
     "parent": "urgence-sociale",
     "relatives": [
-      { "title": "Foo", "link": "urgence-sociale-foo" },
-      { "title": "Foo", "link": "urgence-sociale-foo" }
+      { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
+      { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" },
+      { "title": "Protectionnisme", "link": "urgence-sociale-protectionnisme" }
+    ]
+  },
+  "urgence-sociale-fiscalite": {
+    "title": "Fiscalité",
+    "main": false,
+    "invisible": true,
+    "slug": "urgence-sociale-fiscalite",
+    "image": "urgence-sociale",
+    "fn": "→ [56] Augmentation des plafonds de donations défiscalisés aux enfants<br>→ [47] Défiscalisation des ventes de parts sociales et actions dans les PME<br>→ [75] Baisse de 10 % des trois premières tranches d’impôt<br>→ [78] Une taxe contre l’évasion fiscale",
+    "fi": "Les baisses d’impôts sont annoncées <strong>sans logique d’ensemble</strong> de répartition de l’effort. En particulier les impôts des plus riches n’augmenteront pas, et même baisseront puisque ceux-ci pourront transmettre du capital au sein de la famille, ou vendre des parts d’entreprises sans contribuer à l’effort collectif.<br><br>L’idée d’une taxe contre l’évasion fiscale a quelque chose de risible, si l’on était pas certain que le Front National ne l’avançait que pour l’annonce, sans aucune intention de lutter contre la fraude fiscale, dont ses membres son coutumiers.",
+    "aec": "<strong><a href=\"https://laec.fr/s37m1\">Créer un impôt universel</a></strong> qui luttera de manière concrète contre l'évasion fiscale : vivre à l’étranger n’empêche pas de payer la différence entre les impôts du pays d’accueil et celui qui aurait été payé en France.<br><strong><a href=\"https://laec.fr/s36m1\">Lisser sur 14 tranches</a></strong> l'impôt sur le revenu pour répartir l'effort. La plus haute tranche sera à 90%.<br><strong><a href=\"https://laec.fr/s19m3\">Instaurer une taxe sur les transactions financières</a></strong>",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-sociale",
+    "relatives": [
+      { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
+      { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" },
+      { "title": "Protectionnisme", "link": "urgence-sociale-protectionnisme" }
+    ]
+  },
+  "urgence-sociale-protectionnisme": {
+    "title": "Protectionnisme",
+    "main": false,
+    "invisible": true,
+    "slug": "urgence-sociale-protectionnisme",
+    "image": "urgence-sociale",
+    "fn": "→ [37] Priorité nationale par les commandes publiques<br>→ [125] Commande publique pour l’agriculture et la pêche française<br>→ [130] Promotion des exportations agricoles",
+    "fi": "Les logiques écologiques et sociales n’entrent à aucun en compte dans le protectionnisme du Front national. Les entreprises et agriculteurs françaises seront favorisés du simple fait qu’ils sont français, peu importe qu’ils polluent ou maltraitent leurs salariés. L’exemple de l’agriculture est tellement caricatural que l’exigence écologique — vitale pour ce qui est de notre nourriture — est promise à être jetée aux orties au nom des exportations, qui reposent essentiellement sur les grosses exploitations polluantes, qui seront encouragées.<br><br>De plus, aucune marge de manœuvre n’est prévue pour travailler à la coopération internationale en matière sociale ou environnementale, puisque les produits étrangers sont taxés sans distinction. Il s’agit bien de défendre le capitalisme français dans la compétition mondiale et non pas de lutter contre ses ravages, d’où qu’ils viennent.",
+    "aec": "<strong><a href=\"https://laec.fr/s17\">Instaurer un protectionnisme solidaire</a></strong> pour produire en France<br><strong><a href=\"https://laec.fr/s17m2\">Taxer les produits des pays aux droits sociaux limités</a></strong> : il n'est pas normal qu'une marchandise fabriquée via du travail des enfants ou des ouvriers sans protection sociale (et donc moins chers) fassent concurrence aux produits réalisés dans des conditions dignes<br><strong><a href=\"https://laec.fr/s43m3\">Passer au 100% bio et local</a></strong> pour favoriser les circuits court et l'agriculture saine",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-sociale",
+    "relatives": [
+      { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
+      { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" },
+      { "title": "Protectionnisme", "link": "urgence-sociale-protectionnisme" }
     ]
   },
   "urgence-ecologique": {
