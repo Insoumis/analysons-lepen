@@ -40,7 +40,7 @@
     </div>
     <div class="alp-theme__fi-proposals">
       <h2 class="alp-theme__fi-proposals__title">Les propositions de l’Avenir en Commun</h2>
-      <div class="alp-theme__fi-proposals__proposal" v-html="theme.aec"></div>
+      <p class="alp-theme__fi-proposals__proposal" v-html="theme.aec"></p>
     </div>
 
     <div class="alp-theme__more">
@@ -194,6 +194,7 @@ export default {
 .alp-theme__fi-proposals__proposal {
   font-size: 18px;
   padding: 0 10px;
+  text-align: justify;
 }
 
 .alp-theme__fi-proposals__proposal > strong {
