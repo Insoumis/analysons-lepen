@@ -57,6 +57,7 @@ export default {
 .alp-big-theme {
   background-size: cover;
   height: 100%;
+  min-height: 100%;
   transition: .1s transform ease-out;
 }
 
@@ -76,6 +77,7 @@ export default {
 
 .alp-big-theme--no-hover > .alp-big-theme__shadow {
   font-size: 28px;
+  height: 130px;
 }
 
 .alp-big-theme__shadow {
@@ -87,7 +89,7 @@ export default {
   font-family: Montserrat, sans-serif;
   font-size: 20px;
   font-weight: 600;
-  height: 100%;
+  height: 520px;
   justify-content: center;
   text-transform: uppercase;
   transition: .1s background-color ease-out;
@@ -107,11 +109,19 @@ export default {
 }
 
 @media (max-width: 768px) {
+  .alp-big-theme__shadow {
+    height: 300px;
+  }
+
   .alp-big-theme__shadow__back {
     left: 50%;
     top: 100%;
     transform: translate(-50%, -50%);
     z-index: 2;
+  }
+
+  .alp-big-theme--no-hover > .alp-big-theme__shadow {
+    font-size: 24px;
   }
 
   .alp-big-theme-wrapper {
