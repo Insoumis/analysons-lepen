@@ -7,7 +7,7 @@
       Les rapprochements et amalgames entre le programme de la France Insoumise et celui du Front National ont été très nombreux et très virulents. Pourtant, <strong>aucune analyse sérieuse et critique des propositions de Marine Le Pen</strong> n'a été vraiment réalisée pour tenter de les confronter à celles portées par Jean-Luc Mélenchon.
       <br>
       <br>
-      Le Discord propose donc une analyse des propositions du Front National à travers plusieurs thèmes. Cette analyse est bien évidemment très critique car le projet de société de Marine Le Pen est non seulement à l'opposé de celui de la France Insoumise mais il présente de nombreuses incohérences.
+      Le Discord Insoumis propose donc une analyse des propositions du Front National à travers plusieurs thèmes. Cette analyse est bien évidemment très critique car le projet de société de Marine Le Pen est non seulement à l'opposé de celui de la France Insoumise mais il présente de nombreuses incohérences.
       <br>
       <br>
       L'objectif de ce site est d'être <strong>une source de réflexion</strong> pour favoriser l'esprit critique de la population autour du projet mortifère du Front National. C'est un espace en développement permanent qui sera enrichi au fil des prochaines semaines.
@@ -28,6 +28,7 @@
     </div>
 
     <alp-more-themes></alp-more-themes>
+     Site à l'initiative de citoyens insoumis.
   </main>
 </template>
 
