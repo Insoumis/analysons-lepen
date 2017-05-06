@@ -1,0 +1,35 @@
+{
+  "title": "Égalité réelle",
+  "main": false,
+  "invisible": true,
+  "image": "urgence-democratique",
+  "fn":
+    '''
+    → Garantir la liberté d’expression et les libertés numériques par leur inscription dans les libertés fondamentales protégées par la Constitution, tout en renforçant la lutte contre le cyber-djihadisme et la pédo-criminalité.
+    → Créer une charte à valeur constitutionnelle qui inclura la protection des données personnelles des Français, notamment par une obligation de stockage de ces données sur des serveurs localisés en France.
+    ''',
+  "fi":
+    '''
+    **Tout en prétendant défendre les droits des femmes, le FN tente par des propositions sur le salaire des femmes de détourner l'attention** de son axe identitaire et xénophobe de lutte contre l'islam.
+
+    [Il convient de rappeler pourtant les positions de certains de ses membres](http://www.terrafemina.com/article/6-tres-bonnes-raisons-pour-les-femmes-de-fuir-le-fn_a296925/1) vis à vis de l'IVG (Marion Maréchal Le Pen proposait son déremboursement il y a peu), ou vis à vis de la place des femmes dans la société (l'eurodéputé Dominique Martin pronait il y a quelques mois à Strasbourg le retour des femmes au foyer pour régler les problèmes de l'emploi et de la sécurité des enfants) par exemple.
+
+    Pour finir, les députés FN ont systématiquement voté contre les lois ayant trait aux droits des femmes ([loi pour l'égalité réelle entre les femmes et les hommes](http://www2.assemblee-nationale.fr/scrutins/detail/(legislature)/14/(num)/773#G6), [loi pour la lutte contre le système prostitutionnel](http://www2.assemblee-nationale.fr/scrutins/detail/(legislature)/14/(num)/738#G6), extension du délit d'entrave à l'IVG...)
+    ''',
+  "aec":
+    '''
+    Nous pensons que la question de l'égalité réelle femme-homme n'est pas qu'une question de salaire ou de précarité professionnelle.
+    Au delà du symptôme évident matérialisé sur la fiche de paie, la non-marchandisation des corps doit être constitutionalisée, ainsi que les droits fondamentaux qui vont avec.
+    **Étendre à toutes les entreprises** l'obligation d'adopter un plan ou un [accord d'entreprise](https://https://laec.fr/s32) contre les inégalités de salaires et de carrière entre hommes et femmes
+    **Revaloriser les métiers** occupés majoritairement par des femmes et agir pour l'égal accès à toutes les formations et à tous les métiers
+    **Constitutionnaliser le droit à la contraception** et à l'Interruption Volontaire de Grossesse
+    **Imposer [l'égalité de conditions](https://laec.fr/s6m3) entre les femmes et les hommes** dans le secteur public, politique et syndical
+    **Renforer la loi et les moyens** contre les violences faites aux femmes et en adopter une loi de lutte contre le sexisme
+    **Généraliser le Planning familial** dans ses missions de formation et d'éducation
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "urgence-democratique"
+}

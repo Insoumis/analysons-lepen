@@ -1,0 +1,37 @@
+{
+  "title": "Priorité Nationale",
+  "main": false,
+  "invisible": true,
+  "image": "immigration-laicite",
+  "fn":
+    '''
+    → [38] Supprimer sur notre territoire la directive « détachement des travailleurs » (...). Mettre en place une taxe additionnelle sur l’embauche de salariés étrangers.
+    → [55] Mettre en oeuvre une vraie politique nataliste réservée aux familles françaises, en rétablissant l’universalité des allocations familiales et en maintenant leur indexation sur le coût de la vie.
+    → [58] Revaloriser le minimum vieillesse (ASPA) partout en France, y compris Outre-mer, et le conditionner à la nationalité française ou à vingt ans de résidence en France, ce qui permettra également d’augmenter les très petites retraites.
+    → [71] Réaliser des économies en supprimant l’Aide Médicale d’État réservée aux clandestins (…).
+    → [92] Ériger la citoyenneté française en privilège pour tous les Français par l’inscription dans la Constitution de la « priorité nationale ».
+    → [142] Réserver prioritairement aux Français l’attribution du logement social, sans effet rétroactif (…).
+    ''',
+  "fi":
+    '''
+    La plupart des économistes contredisent l'idée que les immigrés seraient une charge pour l'Etat, comme [ceux-ci, qui démontrent qu'ils contribuent davantage au budget de l’État que les natifs](http://archives.lesechos.fr/archives/cercle/2012/04/05/cercle_45347.htm). Et l’idée selon laquelle les étrangers [« voleraient le travail des français »](http://www.lemonde.fr/les-decodeurs/article/2016/10/10/idee-recue-sur-les-migrants-4-6-ils-volent-le-travail-des-francais_5011081_4355770.html) et feraient baisser les salaires [est contredite pas différents travaux](http://www.leparisien.fr/une/la-place-des-travailleurs-immigres-dans-l-economie-24-05-2011-1464212.php). Aussi, [certains métiers ne leurs sont déjà pas accessibles, les démarches pour pouvoir travailler sont souvent longues, et le préfet peut très bien refuser d'accorder une autorisation provisoire de travail](http://www.lemonde.fr/les-decodeurs/article/2016/10/10/idee-recue-sur-les-migrants-4-6-ils-volent-le-travail-des-francais_5011081_4355770.html). En 2009, [le taux de pauvreté des ménages immigrés était de 37 %, contre 13,5 % pour l’ensemble de la population](https://www.insee.fr/fr/statistiques/1374014?sommaire=1374025). Quant à la directive européenne sur les « travailleurs détachés », il faut rappeler que [Marine Le Pen ne s'est pas opposée au vote d'une nouvelle directive plus restrictive sur le sujet](http://www.lefigaro.fr/politique/le-scan/couacs/2014/04/30/25005-20140430ARTFIG00242-a-bruxelles-marine-le-pen-n-a-pas-vote-contre-la-nouvelle-directive-sur-les-travailleurs-detaches.php).
+
+    Actuellement il faut avoir un titre de séjour depuis au moins 10 ans pour avoir droit au minimum vieillesse : Le FN veut étendre ce délai à 20 ans. L'ASPA coûte 2,3 milliards au total. On ne sait pas exactement combien d'étrangers en bénéficient, mais [on sait qu'ils sont très minoritaires parmi les bénéficiaires](http://www.liberation.fr/france/2014/10/31/etrangers-et-minimum-vieillesse-l-intox-infinie-de-l-ump_1131728) : L'augmentation de « très petites retraites » risque donc d'être bien maigre...
+    M. Le Pen disait que « les logements sociaux sont aujourd’hui prioritairement occupés par l’immigration », mais aujourd'hui, [88% des logements sociaux sont occupés par des français. Les sans-papiers ou les demandeurs d’asile n’y ont pas droit, et les dossiers sont anonymisés](http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/03/08/non-marine-le-pen-les-etrangers-ne-sont-pas-prioritaires-pour-obtenir-un-logement-social_1554040).L’Aide Médicale d’Etat permet, sous conditions, la gratuité des soins, mais [son budget 2016 n'est que de 744 millions](http://www.lemonde.fr/les-decodeurs/article/2016/10/07/idee-recue-sur-les-migrants-3-6-ils-viennent-en-france-pour-se-faire-soigner_5009730_4355770.html), et empêcher les migrants de se soigner serait dangereux pour [l'ensemble de la population, par la diffusion d'épidémies](http://www.humanite.fr/la-verite-sur-le-programme-du-front-national-631681).
+
+    Face au chômage, à la pauvreté ou au mal-logement, le FN préfère encore une fois culpabiliser et pénaliser les étrangers et les immigrés, alors qu'il ne propose aucune solution crédible à ces problèmes.
+    ''',
+  "aec":
+    '''
+      **[Cesser d'appliquer unilatéralement la directive sur le détachement](https://laec.fr/s49m2)** de travailleurs en France : la législation nationale doit s'appliquer totalement, y compris concernant les cotisations sociales patronales et salariales.
+      **[Régulariser les travailleurs sans-papiers](https://laec.fr/s25m5)** pour assurer l'égalité sociale entre travailleurs.
+      **[Autoriser les demandeurs d’asile à travailler](https://avenirencommun.fr/le-livret-migrations/)** pendant la période d’attente d’examen de leur dossier.
+      **[Reconnaître le droit de vote aux élections locales](https://laec.fr/s3m5)** [pour les résidents étrangers en situation régulière, comme en bénéficient déjà les ressortissants des pays de l'Union européenne.](https://laec.fr/s3m5)**[Revaloriser les pensions de retraite](https://laec.fr/s31m2)** au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté.
+      **[Augmenter le nombre de classes](https://avenirencommun.fr/le-livret-migrations/)** et les moyens alloués pour les enfants nouvellement arrivés en France.
+    ''',
+  "badge": {
+    "text": "Dangereux",
+    "color": "red"
+  },
+  "parent": "immigration-laicite"
+}

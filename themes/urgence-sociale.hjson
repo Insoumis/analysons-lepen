@@ -1,0 +1,13 @@
+{
+  "title": "Urgence sociale",
+  "main": false,
+  "image": "urgence-sociale",
+  "intro":
+    '''
+    Sur l’économie et les finances publiques, Le FN veut présenter un visage « social » mais son programme nous dit le contraire. Exonération de cotisations et exemptions fiscales, « patriotisme économique » qui défend le capital français mais pas les travailleurs, ni l’écologie : autant d’exemples qui trahissent son pseudo-virage social.
+    ''',
+  "subs": [
+    { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
+    { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" }
+  ]
+}

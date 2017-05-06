@@ -1,0 +1,36 @@
+{
+  "title": "République",
+  "main": false,
+  "invisible": true,
+  "image": "urgence-democratique",
+  "fn":
+    '''
+    → Organiser un référendum en vue de réviser la Constitution et conditionner toute révision future de la Constitution à un référendum. Élargir le champ d’application de l’article 11 de la Constitution.
+    → Permettre la représentation de tous les Français par le scrutin proportionnel à toutes les élections. À l’Assemblée nationale, la proportionnelle sera intégrale avec une prime majoritaire de 30 % des sièges pour la liste arrivée en tête et un seuil de 5% des suffrages pour obtenir des élus.
+    → Abaisser le nombre de députés à 300 (contre 577 aujourd’hui) et le nombre de sénateurs à 200 (contre 348 aujourd’hui).
+    ''',
+  "fi":
+    '''
+  Conditionner la révision de la Constitution à un référendum d'approbation serait admirable, si cela permettait de garantir des politiques novatrices. Non seulement le reste du programme ne le laisse pas entendre, mais encore une fois le manque de précision du Front National ne laisse que peu de doute quant à l'aspect électoraliste de la mesure. Le plus grand danger reste néanmoins dans la méthode, puisque l'adoption d'une loi par le biais d'un référendum permet dans les fait de se passer du consentement du parlement.
+  La proportionnelle intégrale est ici dévoyée de son objectif premier. La première phrase de la première mesure proposée contredit d'ailleurs la dernière directement. Il est en effet impossible d'assurer la représentation de tous les français dans les élections lorsqu'on commence par imposer un minimum de voix pour obtenir représentation, les petits partis serait évincés de ce parlement de la même manière qu'aujourd'hui.
+  Cela est encore plus accentué par la diminution proposée du nombre de représentants. Un nombre plus faible de députés implique mathématiquement que ces derniers représentent un plus grand nombre de français-e-s, et donc moins de représentativité.
+  De plus, la prime majoritaire de 30 % (rien que ça) d'élus pour la liste arrivée en tête diminue encore le nombre de sièges effectivement réservés pour les députés élus par suffrage, et ferait qu'en cas d'éclatement des voix, un parti atteignant les 20 % de suffrages exprimés [obtiendrait automatiquement la majorité](https://www.slate.fr/story/144942/marine-le-pen-presidente-proportionnelle-dissolution). Une manne donc pour le Front National, qui détient un quasi monopole sur son aile et serait à même d'effectuer n'importe quelle réforme.
+    ''',
+  "aec":
+    '''
+    Afin de véritablement rendre le pouvoir au peuple, nos positions sont centrées sur l'intervention directe de celui-ci, et le contrôle total de la part des français-e-s sur son Parlement et son Gouvernement.
+
+  **Convoquer un référendum** pour engager le processus constituant (modalités de la composition de [l'Assemblée constituante](https://laec.fr/s1) — mode de scrutin, parité, tirage au sort et incompatibilités ; modalités de la délibération ; association des citoyens aux travaux…)
+  **Aucun parlementaire des anciennes assemblées** de la 5e République ne pourra siéger dans cette Assemblée constituante. Les délégués à l'Assemblée constituante ne pourront être candidats aux élections suivant l'entrée en vigueur de la nouvelle Constitution
+  Le projet de Constitution proposé par l'Assemblée constituante sera soumis à un référendum d'approbation
+  **Abolir la [monarchie présidentielle](https://laec.fr/s4)** en instaurant un régime parlementaire stable dans lequel le gouvernement responsable devant le Parlement, transférer le pouvoir de nomination du Gouvernement au Parlement
+  Élire l'Assemblée nationale à la **proportionnelle totale**
+  **Supprimer le Sénat** et le Conseil économique, social et environnemental et créer une Assemblée de l'intervention populaire et du long terme émettant un avis sur l'impact écologique et social des lois
+  **Supprimer la Cour de justice de la République** et soumettre les membres du gouvernement à la justice ordinaire
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "urgence-democratique"
+}
