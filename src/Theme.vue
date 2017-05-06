@@ -35,7 +35,7 @@
         </h2>
         <p class="alp-theme__fi__proposals" v-html="theme.fi"></p>
         <br v-if="theme.badge">
-        <strong v-if="theme.badge">Statut: <alp-tag :theme="theme.badge.color">Mensonger</alp-tag></strong>
+        <strong v-if="theme.badge">Conclusion : <alp-tag :theme="theme.badge.color">{{ theme.badge.text }}</alp-tag></strong>
       </alp-card>
     </div>
     <div class="alp-theme__fi-proposals">

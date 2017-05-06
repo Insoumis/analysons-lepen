@@ -1,294 +1,4 @@
 {
-  "urgence-democratique": {
-    "title": "Urgence démocratique",
-    "main": false,
-    "slug": "urgence-democratique",
-    "image": "urgence-democratique",
-    "intro": "<strong>Que ce soit dans le domaine de la démocratie et de la représentation</strong>, dans celui des libertés fondamentales, le Front National a beaucoup de propositions à faire. Celles-ci, souvent floues, sont souvent à double tranchant, et menacent de fracturer la société encore plus qu'elle ne l'est. Quand au sujet de l'égalité, que ce soit celle de tous les citoyens, ou plus spécifiquement de l'égalité femme-homme, certains sujets sont passés sous silence par le parti d'extrême-droite. Pour de bonnes raisons.",
-    "subs": [
-      { "title": "République", "link": "urgence-democratique-republique" },
-      { "title": "Égalité réelle", "link": "urgence-democratique-egalite-reelle" },
-      { "title": "Libertés numériques", "link": "urgence-democratique-libertes-numeriques" },
-      { "title": "Droit à l'éducation", "link": "urgence-democratique-droit-education" }
-    ]
-  },
-  "urgence-democratique-republique": {
-    "title": "République",
-    "main": false,
-    "invisible": true,
-    "slug": "urgence-democratique-republique",
-    "image": "urgence-democratique",
-    "fn": "→ Organiser un référendum en vue de réviser la Constitution et conditionner toute révision future de la Constitution à un référendum. Élargir le champ d’application de l’article 11 de la Constitution.<br>→ Permettre la représentation de tous les Français par le scrutin proportionnel à toutes les élections. À l’Assemblée nationale, la proportionnelle sera intégrale avec une prime majoritaire de 30 % des sièges pour la liste arrivée en tête et un seuil de 5% des suffrages pour obtenir des élus.<br>→ Abaisser le nombre de députés à 300 (contre 577 aujourd’hui) et le nombre de sénateurs à 200 (contre 348 aujourd’hui).",
-    "fi": "Conditionner la révision de la Constitution à un référendum d'approbation serait admirable, si cela permettait de garantir des politiques novatrices. Non seulement le reste du programme ne le laisse pas entendre, mais encore une fois le manque de précision du Front National ne laisse que peu de doute quant à l'aspect électoraliste de la mesure. Le plus grand danger reste néanmoins dans la méthode, puisque l'adoption d'une loi par le biais d'un référendum permet dans les fait de se passer du consentement du parlement.<br><br>La proportionnelle intégrale est ici dévoyée de son objectif premier. La première phrase de la première mesure proposée contredit d'ailleurs la dernière directement. Il est en effet impossible d'assurer la représentation de tous les français dans les élections lorsqu'on commence par imposer un minimum de voix pour obtenir représentation, les petits partis serait évincés de ce parlement de la même manière qu'aujourd'hui.<br><br>Cela est encore plus accentué par la diminution proposée du nombre de représentants. Un nombre plus faible de députés implique mathématiquement que ces derniers représentent un plus grand nombre de français-e-s, et donc moins de représentativité.<br><br>De plus, la prime majoritaire de 30 % (rien que ça) d'élus pour la liste arrivée en tête diminue encore le nombre de sièges effectivement réservés pour les députés élus par suffrage, et ferait qu'en cas d'éclatement des voix, un parti atteignant les 20 % de suffrages exprimés <a href=\"https://www.slate.fr/story/144942/marine-le-pen-presidente-proportionnelle-dissolution\" title=\"La «proportionnelle intégrale» de Le Pen montre l'ampleur de ses pouvoirs si elle gagne\">obtiendrait automatiquement la majorité</a>. Une manne donc pour le Front National, qui détient un quasi monopole sur son aile et serait à même d'effectuer n'importe quelle réforme.",
-    "aec": "Afin de véritablement rendre le pouvoir au peuple, nos positions sont centrées sur l'intervention directe de celui-ci, et le contrôle total de la part des français-e-s sur son Parlement et son Gouvernement.<br><br><strong>Convoquer un référendum</strong> pour engager le processus constituant (modalités de la composition de <a href=\"https://laec.fr/s1\">l'Assemblée constituante</a> — mode de scrutin, parité, tirage au sort et incompatibilités ; modalités de la délibération ; association des citoyens aux travaux…)<br><strong>Aucun parlementaire des anciennes assemblées</strong> de la 5e République ne pourra siéger dans cette Assemblée constituante. Les délégués à l'Assemblée constituante ne pourront être candidats aux élections suivant l'entrée en vigueur de la nouvelle Constitution<br>Le projet de Constitution proposé par l'Assemblée constituante sera soumis à un référendum d'approbation<br><strong>Abolir la <a href=\"https://laec.fr/s4\">monarchie présidentielle</a></strong> en instaurant un régime parlementaire stable dans lequel le gouvernement responsable devant le Parlement, transférer le pouvoir de nomination du Gouvernement au Parlement<br>Élire l'Assemblée nationale à la <strong>proportionnelle totale</strong><br><strong>Supprimer le Sénat</strong> et le Conseil économique, social et environnemental et créer une Assemblée de l'intervention populaire et du long terme émettant un avis sur l'impact écologique et social des lois<br><strong>Supprimer la Cour de justice de la République</strong> et soumettre les membres du gouvernement à la justice ordinaire",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "urgence-democratique",
-    "relatives": [
-      { "title": "République", "link": "urgence-democratique-republique" },
-      { "title": "Égalité réelle", "link": "urgence-democratique-egalite-reelle" },
-      { "title": "Libertés numériques", "link": "urgence-democratique-libertes-numeriques" },
-      { "title": "Droit à l'éducation", "link": "urgence-democratique-droit-education" }
-    ]
-  },
-  "urgence-democratique-egalite-reelle": {
-    "title": "Égalité réelle",
-    "main": false,
-    "invisible": true,
-    "slug": "urgence-democratique-egalite-reelle",
-    "image": "urgence-democratique",
-    "fn": "→ Garantir la liberté d’expression et les libertés numériques par leur inscription dans les libertés fondamentales protégées par la Constitution, tout en renforçant la lutte contre le cyber-djihadisme et la pédo-criminalité.<br>→ Créer une charte à valeur constitutionnelle qui inclura la protection des données personnelles des Français, notamment par une obligation de stockage de ces données sur des serveurs localisés en France.<br>",
-    "fi": "<strong>Tout en prétendant défendre les droits des femmes, le FN tente par des propositions sur le salaire des femmes de détourner l'attention</strong> de son axe identitaire et xénophobe de lutte contre l'islam.<br><br><a href=\"http://www.terrafemina.com/article/6-tres-bonnes-raisons-pour-les-femmes-de-fuir-le-fn_a296925/1\" title=\"6 (très) bonnes raisons pour les femmes de fuir le FN\">Il convient de rappeler pourtant les positions de certains de ses membres</a> vis à vis de l'IVG (Marion Maréchal Le Pen proposait son déremboursement il y a peu), ou vis à vis de la place des femmes dans la société (l'eurodéputé Dominique Martin pronait il y a quelques mois à Strasbourg le retour des femmes au foyer pour régler les problèmes de l'emploi et de la sécurité des enfants) par exemple.<br><br>Pour finir, les députés FN ont systématiquement voté contre les lois ayant trait aux droits des femmes (<a href=\"http://www2.assemblee-nationale.fr/scrutins/detail/(legislature)/14/(num)/773#G6\" title=\"Analyse du scrutin n° 773 Deuxième séance du 28/01/2014\">loi pour l'égalité réelle entre les femmes et les hommes</a>, <a href=\"http://www2.assemblee-nationale.fr/scrutins/detail/(legislature)/14/(num)/738#G6\" title=\"Analyse du scrutin n° 738 Première séance du 04/12/2013\">loi pour la lutte contre le système prostitutionnel</a>, extension du délit d'entrave à l'IVG...)",
-    "aec": "Nous pensons que la question de l'égalité réelle femme-homme n'est pas qu'une question de salaire ou de précarité professionnelle.<br>Au delà du symptôme évident matérialisé sur la fiche de paie, la non-marchandisation des corps doit être constitutionalisée, ainsi que les droits fondamentaux qui vont avec.<br><strong>Étendre à toutes les entreprises</strong> l'obligation d'adopter un plan ou un <a href=\"https://https://laec.fr/s32\">accord d'entreprise</a> contre les inégalités de salaires et de carrière entre hommes et femmes<br><strong>Revaloriser les métiers</strong> occupés majoritairement par des femmes et agir pour l'égal accès à toutes les formations et à tous les métiers<br><strong>Constitutionnaliser le droit à la contraception</strong> et à l'Interruption Volontaire de Grossesse<br><strong>Imposer <a href=\"https://laec.fr/s6m3\">l'égalité de conditions</a> entre les femmes et les hommes</strong> dans le secteur public, politique et syndical<br><strong>Renforer la loi et les moyens</strong> contre les violences faites aux femmes et en adopter une loi de lutte contre le sexisme<br><strong>Généraliser le Planning familial</strong> dans ses missions de formation et d'éducation",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "urgence-democratique",
-    "relatives": [
-      { "title": "République", "link": "urgence-democratique-republique" },
-      { "title": "Égalité réelle", "link": "urgence-democratique-egalite-reelle" },
-      { "title": "Libertés numériques", "link": "urgence-democratique-libertes-numeriques" },
-      { "title": "Droit à l'éducation", "link": "urgence-democratique-droit-education" }
-    ]
-  },
-  "urgence-democratique-libertes-numeriques": {
-    "title": "Libertés numériques",
-    "main": false,
-    "invisible": true,
-    "slug": "urgence-democratique-libertes-numeriques",
-    "image": "urgence-democratique",
-    "fn": "→ Garantir la liberté d’expression et les libertés numériques par leur inscription dans les libertés fondamentales protégées par la Constitution, tout en renforçant la lutte contre le cyber-djihadisme et la pédo-criminalité.<br>→ Créer une charte à valeur constitutionnelle qui inclura la protection des données personnelles des Français, notamment par une obligation de stockage de ces données sur des serveurs localisés en France.<br>",
-    "fi": "Si l'intention de la première proposition peut paraître louable, il faut rappeler que la liberté d'expression est déjà un droit constitutionnel. En effet, bien que n'étant pas présente directement dans la Constitution de 1958, elle est sanctuarisée dans la Déclaration des Droits de l'Homme et du Citoyen de 1789, elle-même incluse dans la Constitution. <a href=\"http://www.lemondepolitique.fr/cours/libertespubliques/libertes/liberte_expression.htm\" title=\"Liberté d'expression en France | Le monde politique\">Le Conseil Constitutionnel a d'ores et déjà établi que cette déclaration avait valeur constitutionnelle lors d'une jurisprudence.<br><br>Concernant la protection des données personnelles, la proposition du Front National brouille encore les cartes. En effet, le stockage des données personnelles sur des serveurs localisés en France ne serait en aucun cas un gage de sécurité, étant donné que la loi Renseignement du 24 juillet 2015 autorise les services de renseignement français à utiliser des dispositifs d'écoute sur les communications françaises ainsi qu'à <a href=\"http://www.lexpress.fr/actualite/politique/infographie-boites-noires-mouchards-la-loi-renseignement-en-un-coup-d-oeil_1692913.html\" title=\"Boîtes noires, mouchards... La loi renseignement en un coup d'oeil\">poser des \"boites noires\"</a> directement chez les fournisseurs d'accès à internet. La charte de protection promise par le programme de Madame Le Pen commencerait donc sa vie avec un sérieux coup de plomb dans l'aile.",
-    "aec": "Nous pensons que les données personnelles n'ont pas de valeur et doivent <a href=\"https://avenirencommun.fr/le-livret-numerique/\">être protégées</a>, qu'elles soient en France ou non. Mais ça ne doit pas s'arrêter là.<br><br><strong>L’évaluation de l’efficacité des solutions</strong> techniques utilisées par les services de renseignement. Les mesures inefficaces, disproportionnées ou contre-productives seront abrogées.<br><strong>La remise en question des pratiques et dispositifs de surveillance</strong> de masse sur Internet et les réseaux téléphoniques.<br><strong>L’interdiction du fichage</strong> généralisé et la suppression du fichier des «gens honnêtes».<br><strong>La protection des données personnelles</strong> de nos citoyens lorsqu'elles sont hébergées à l'étranger, en renégociant notamment l'accord Privacy Shield (régulation du  transfert  de  données  personnelles  de  l'UE  vers  les États-Unis.<br><strong>Obliger à demander un consentement explicite</strong> pour la revente des données personnelles à un tiers.<br><strong>Obliger les acteurs du web</strong> à informer l'utilisateur s'il fait l'objet d'un profilage et lui permettre de le refuser.",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "urgence-democratique",
-    "relatives": [
-      { "title": "République", "link": "urgence-democratique-republique" },
-      { "title": "Égalité réelle", "link": "urgence-democratique-egalite-reelle" },
-      { "title": "Libertés numériques", "link": "urgence-democratique-libertes-numeriques" },
-      { "title": "Droit à l'éducation", "link": "urgence-democratique-droit-education" }
-    ]
-  },
-  "urgence-democratique-droit-education": {
-    "title": "Droit à l'éducation",
-    "main": false,
-    "invisible": true,
-    "slug": "urgence-democratique-droit-education",
-    "image": "urgence-democratique",
-    "fn": "→ Garantir la liberté de scolariser ses enfants selon ses choix, tout en contrôlant plus strictement la compatibilité avec les valeurs de la République des enseignements dispensés dans les établissements privés hors-contrat.",
-    "fi": "La scolarisation \"selon [les] choix [des parents]\" aura des conséquences désastreuses pour la majorité de la population. Concrètement, cela signifie que l'application de la carte scolaire sera plus laxiste et que les parents pourront choisir où scolariser leurs enfants.<br>Bien que l'idée puisse paraitre alléchante, cela signifie que certaines écoles ayant de bons résultats, ou \"bien cotées\" verront le nombre de dossiers de scolarisation qu'elles reçoivent augmenter de manière drastique. Elles seront alors obligées de pratiquer une sélection à l'entrée.<br><br>Cela amènera donc à l'accentuation dramatique d'une situation déjà trop présente: l'éducation à plusieurs vitesses. Selon l'origine socio-culturelle (\"aisés contre pauvres\") des parents et la localisation des écoles (\"beaux quartiers contre banlieues\"), des moyens différents seront alloués, et les élèves se retrouveront dans des écoles où les chances d'obtenir une éducation de qualité ne seront pas les mêmes.<br><br>Au final, alors que madame Le Pen prétend défendre le peuple, elle va le diviser. Ce sont les milieux ouvriers et populaires qui en subiront le plus les conséquences.",
-    "aec": "Parce qu'on règlera pas les problèmes de la société en créant des inégalités éducatives ou en les accentuant, nous proposons:<br><br><strong>Instaurer une <a href=\"https://laec.fr/s73m2\">nouvelle carte scolaire</a></strong> établissant la mixité sociale<br><strong>Mettre en œuvre un plan de lutte contre les inégalités</strong> à l'école maternelle et primaire, notamment avec un droit à la scolarisation dès 2 ans, la baisse du nombre d'élèves par classe en primaire, la présence de davantage d'instituteurs que de classes dans les écoles, le développement des Réseaux d'aide aux élèves en difficulté<br><strong>Assurer la <a href=\"https://laec.fr/s73m3\">gratuité réelle de l'éducation</a> publique</strong>, y compris les cantines, le transport et les activités périscolaires, fournir gratuitement aux élèves les manuels scolaires, ainsi que des fournitures sans marque, pour assurer une réelle égalité des conditions entre élèves et lutter contre l'intrusion marchande à l'école",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "urgence-democratique",
-    "relatives": [
-      { "title": "République", "link": "urgence-democratique-republique" },
-      { "title": "Égalité réelle", "link": "urgence-democratique-egalite-reelle" },
-      { "title": "Libertés numériques", "link": "urgence-democratique-libertes-numeriques" },
-      { "title": "Droit à l'éducation", "link": "urgence-democratique-droit-education" }
-    ]
-  },
-  "urgence-sociale": {
-    "title": "Urgence sociale",
-    "main": false,
-    "slug": "urgence-sociale",
-    "image": "urgence-sociale",
-    "intro": "Sur l’économie et les finances publiques, Le FN veut présenter un visage « social » mais son programme nous dit le contraire. Exonération de cotisations et exemptions fiscales, « patriotisme économique » qui défend le capital français mais pas les travailleurs, ni l’écologie : autant d’exemples qui trahissent son pseudo-virage social.",
-    "subs": [
-      { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
-      { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" }
-    ]
-  },
-  "urgence-sociale-securite-sociale": {
-    "title": "Sécurité Sociale",
-    "main": false,
-    "invisible": true,
-    "slug": "urgence-sociale-securite-sociale",
-    "image": "urgence-sociale",
-    "fn": "→ [82] Exonération de cotisations sociales pour « premier emploi »<br>→ [46] Exonération de cotisations et maintien du CICE pour les TPE-PME<br>→ [64] Défiscalisation des heures supplémentaires<br>→ [86] Deux jours de carence pour les arrêts maladie<br>→ [65] « Simplification » de la sécurité sociale",
-    "fi": "Loin de pérenniser la sécurité sociale, le Front National sabote son financement en prolongeant les dispositifs d’allègement de « charges » dont l’effort sera mécaniquement reporté sur l’impôt. Or, ces derniers sont annoncés stables voire à la a baisse, la « simplification » de la sécurité sociale se fera donc par coupes dans nos services publics.<br>De plus, en cessant de rembourser les arrêts maladie court, c’est-à-dire la grande majorité des arrêts, ceux-ci ne seront jamais pris, et on pousse des gens malades à s’user la santé donc à tomber encore plus mal sous prétexte d’économies publiques.",
-    "aec": "<strong><a href=\"https://laec.fr/s26\">Assurer la sécurité sociale intégrale pour tous</a></strong>, en y incluant ce qui est aujourd’hui la part des mutuelles privées.<br><strong>Réduire le temps de travail</strong> en <a href=\"https://laec.fr/s28m2\">appliquant réellement les 35h</a> et en <a href=\"https://laec.fr/s28m1\">généralisant une 6è semaine de congés payés</a><br><br>La suppression de <a href=\"https://laec.fr/s36m2\">nombreuses niches fiscales</a> et <a href=\"https://laec.fr/s18m2\">exonérations de cotisations</a> permet par ailleurs d’abolir des privilèges indus et improductifs pour le pays et de financer une sécurité sociale intégrale.",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "urgence-sociale",
-    "relatives": [
-      { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
-      { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" },
-      { "title": "Protectionnisme", "link": "urgence-sociale-protectionnisme" }
-    ]
-  },
-  "urgence-sociale-fiscalite": {
-    "title": "Fiscalité",
-    "main": false,
-    "invisible": true,
-    "slug": "urgence-sociale-fiscalite",
-    "image": "urgence-sociale",
-    "fn": "→ [56] Augmentation des plafonds de donations défiscalisés aux enfants<br>→ [47] Défiscalisation des ventes de parts sociales et actions dans les PME<br>→ [75] Baisse de 10 % des trois premières tranches d’impôt<br>→ [78] Une taxe contre l’évasion fiscale",
-    "fi": "Les baisses d’impôts sont annoncées <strong>sans logique d’ensemble</strong> de répartition de l’effort. En particulier les impôts des plus riches n’augmenteront pas, et même baisseront puisque ceux-ci pourront transmettre du capital au sein de la famille, ou vendre des parts d’entreprises sans contribuer à l’effort collectif.<br><br>L’idée d’une taxe contre l’évasion fiscale a quelque chose de risible, si l’on était pas certain que le Front National ne l’avançait que pour l’annonce, sans aucune intention de lutter contre la fraude fiscale, dont ses membres son coutumiers.",
-    "aec": "<strong><a href=\"https://laec.fr/s37m1\">Créer un impôt universel</a></strong> qui luttera de manière concrète contre l'évasion fiscale : vivre à l’étranger n’empêche pas de payer la différence entre les impôts du pays d’accueil et celui qui aurait été payé en France.<br><strong><a href=\"https://laec.fr/s36m1\">Lisser sur 14 tranches</a></strong> l'impôt sur le revenu pour répartir l'effort. La plus haute tranche sera à 90%.<br><strong><a href=\"https://laec.fr/s19m3\">Instaurer une taxe sur les transactions financières</a></strong>",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "urgence-sociale",
-    "relatives": [
-      { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
-      { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" },
-      { "title": "Protectionnisme", "link": "urgence-sociale-protectionnisme" }
-    ]
-  },
-  "urgence-sociale-protectionnisme": {
-    "title": "Protectionnisme",
-    "main": false,
-    "invisible": true,
-    "slug": "urgence-sociale-protectionnisme",
-    "image": "urgence-sociale",
-    "fn": "→ [37] Priorité nationale par les commandes publiques<br>→ [125] Commande publique pour l’agriculture et la pêche française<br>→ [130] Promotion des exportations agricoles",
-    "fi": "Les logiques écologiques et sociales n’entrent à aucun en compte dans le protectionnisme du Front national. Les entreprises et agriculteurs françaises seront favorisés du simple fait qu’ils sont français, peu importe qu’ils polluent ou maltraitent leurs salariés. L’exemple de l’agriculture est tellement caricatural que l’exigence écologique — vitale pour ce qui est de notre nourriture — est promise à être jetée aux orties au nom des exportations, qui reposent essentiellement sur les grosses exploitations polluantes, qui seront encouragées.<br><br>De plus, aucune marge de manœuvre n’est prévue pour travailler à la coopération internationale en matière sociale ou environnementale, puisque les produits étrangers sont taxés sans distinction. Il s’agit bien de défendre le capitalisme français dans la compétition mondiale et non pas de lutter contre ses ravages, d’où qu’ils viennent.",
-    "aec": "<strong><a href=\"https://laec.fr/s17\">Instaurer un protectionnisme solidaire</a></strong> pour produire en France<br><strong><a href=\"https://laec.fr/s17m2\">Taxer les produits des pays aux droits sociaux limités</a></strong> : il n'est pas normal qu'une marchandise fabriquée via du travail des enfants ou des ouvriers sans protection sociale (et donc moins chers) fassent concurrence aux produits réalisés dans des conditions dignes<br><strong><a href=\"https://laec.fr/s43m3\">Passer au 100% bio et local</a></strong> pour favoriser les circuits court et l'agriculture saine",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "urgence-sociale",
-    "relatives": [
-      { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
-      { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" },
-      { "title": "Protectionnisme", "link": "urgence-sociale-protectionnisme" }
-    ]
-  },
-  "urgence-ecologique": {
-    "title": "Urgence écologique",
-    "main": false,
-    "slug": "urgence-ecologique",
-    "image": "urgence-ecologique",
-    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
-    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    "aec": "Proposal",
-    "subs": [
-      { "title": "Foo", "link": "urgence-ecologique-foo" },
-      { "title": "Foo", "link": "urgence-ecologique-foo" }
-    ]
-  },
-  "urgence-ecologique-foo": {
-    "title": "Foo",
-    "main": false,
-    "invisible": true,
-    "slug": "urgence-ecologique-foo",
-    "image": "urgence-ecologique",
-    "fn": "→ Organiser un référendum en vue de réviser la Constitution et conditionner toute révision future de la Constitution à un référendum. Élargir le champ d’application de l’article 11 de la Constitution.<br>→ Permettre la représentation de tous les Français par le scrutin proportionnel à toutes les élections. À l’Assemblée nationale, la proportionnelle sera intégrale avec une prime majoritaire de 30 % des sièges pour la liste arrivée en tête et un seuil de 5% des suffrages pour obtenir des élus.<br>→ Abaisser le nombre de députés à 300 (contre 577 aujourd’hui) et le nombre de sénateurs à 200 (contre 348 aujourd’hui).",
-    "fi": "Conditionner la révision de la Constitution à un référendum d'approbation serait admirable, si cela permettait de garantir des politiques novatrices. Non seulement le reste du programme ne le laisse pas entendre, mais encore une fois le manque de précision du Front National ne laisse que peu de doute quant à l'aspect électoraliste de la mesure. Le plus grand danger reste néanmoins dans la méthode, puisque l'adoption d'une loi par le biais d'un référendum permet dans les fait de se passer du consentement du parlement.<br><br>La proportionnelle intégrale est ici dévoyée de son objectif premier. La première phrase de la première mesure proposée contredit d'ailleurs la dernière directement. Il est en effet impossible d'assurer la représentation de tous les français dans les élections lorsqu'on commence par imposer un minimum de voix pour obtenir représentation, les petits partis serait évincés de ce parlement de la même manière qu'aujourd'hui.<br><br>Cela est encore plus accentué par la diminution proposée du nombre de représentants. Un nombre plus faible de députés impliqué mathématique que ces derniers représentent un plus grand nombre de français-e-s, et donc moins de représentativité.<br><br>De plus, la prime majoritaire de 30 % (rien que ça) d'élus pour la liste arrivée en tête diminue encore le nombre de sièges effectivement réservés pour les députés élus par suffrage, et ferait qu'en cas d'éclatement des voix, un parti atteignant les 20 % de suffrages exprimés obtiendrait automatiquement la majorité. Une manne donc pour le Front National, qui détient un quasi monopole sur son aile et serait à même d'effectuer n'importe quelle réforme.",
-    "aec": "Afin de véritablement rendre le pouvoir au peuple, nos positions sont centrées sur l'intervention directe de celui-ci, et le contrôle total de la part des français-e-s sur son Parlement et son Gouvernement.<br><br><strong>Convoquer un référendum</strong> pour engager le processus constituant (modalités de la composition de l'Assemblée constituante — mode de scrutin, parité, tirage au sort et incompatibilités ; modalités de la délibération ; association des citoyens aux travaux…)<br><strong>Aucun parlementaire des anciennes assemblées</strong> de la 5e République ne pourra siéger dans cette Assemblée constituante. Les délégués à l'Assemblée constituante ne pourront être candidats aux élections suivant l'entrée en vigueur de la nouvelle Constitution<br>Le projet de Constitution proposé par l'Assemblée constituante sera soumis à un référendum d'approbation<br><strong>Abolir la monarchie présidentielle</strong> en instaurant un régime parlementaire stable dans lequel le gouvernement responsable devant le Parlement, transférer le pouvoir de nomination du Gouvernement au Parlement<br>Élire l'Assemblée nationale à la <strong>proportionnelle totale</strong><br><strong>Supprimer le Sénat</strong> et le Conseil économique, social et environnemental et créer une Assemblée de l'intervention populaire et du long terme émettant un avis sur l'impact écologique et social des lois<br><strong>Supprimer la Cour de justice de la République</strong> et soumettre les membres du gouvernement à la justice ordinaire",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "urgence-ecologique",
-    "relatives": [
-      { "title": "Foo", "link": "urgence-ecologique-foo" },
-      { "title": "Foo", "link": "urgence-ecologique-foo" }
-    ]
-  },
-  "securite-terrorisme": {
-    "title": "Sécurité, Terrorisme",
-    "main": true,
-    "slug": "securite-terrorisme",
-    "image": "securite-terrorisme",
-    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
-    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    "aec": "Proposal",
-    "sources": [
-      { "title": "Source test", "href": "https://google.fr/" }
-    ],
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    }
-  },
-  "immigration-laicite": {
-    "title": "Immigration, Laïcité",
-    "main": true,
-    "slug": "immigration-laicite",
-    "image": "immigration-laicite",
-    "intro": "Pour le FN, depuis plusieurs décennies déjà, le clivage essentiel est celui qui oppose <a href=\"http://www.monde-diplomatique.fr/2017/05/LAMBERT/57493\" title=\"Duplicité économique du Front national\">« le parti des étrangers contre le parti de la France »</a>, et l'immigration est le problème central et le cœur de toute son argumentation. Marine Le Pen, dont le programme de 2012 prévoyait d' <a href=\"http://www.frontnational.com/pdf/projet_mlp2012.pdf\">« interdire les manifestations de soutien aux clandestins »</a>, voit l'immigration comme un véritable « raz-de-marée », une <a href=\"http://www.lepoint.fr/politique/marine-le-pen-compare-l-afflux-de-migrants-aux-invasions-barbares-14-09-2015-1964773_20.php\" title=\"Marine Le Pen compare l'afflux de migrants aux invasions barbares\">« invasion » comparable à celles des barbares du IVème siècle</a>. <br><br><a href=\"http://www.lefigaro.fr/flash-actu/2017/03/20/97001-20170320FILWWW00355-le-pen-je-veux-arreter-l-immigration.php\" title=\"Le Pen: «Je veux arrêter l'immigration»\">« Arrêter l'immigration légale et illégale »</a> est donc la grande priorité du FN. Avec la fermeture des frontières et le durcissement des conditions d'accès à la nationalité, le parti veut instaurer la <a href=\"http://www.humanite.fr/la-verite-sur-le-programme-du-front-national-631681\" title=\"La vérite sur le programme du Front national\">« priorité nationale »</a>. Pour « ériger la citoyenneté française en privilège » et empêcher les immigrés  d'accéder aux droits fondamentaux, au profit des français « de souche », il veut d'abord <a href=\"https://www.mediapart.fr/journal/france/200317/fn-la-priorite-nationale-une-doctrine-contraire-aux-fondements-republicains-0\" title=\"Programme du FN (2). La «priorité nationale», une doctrine contraire aux fondements républicains\">modifier la constitution</a>. Pour les quelques étrangers qui parviendraient à rester sur le territoire, le FN parle d'« assimilation», un concept « développé dans le contexte des guerres coloniales françaises au XIXe siècle », qui s'appliquait donc aux « indigènes » des colonies françaises, <a href=\"https://www.mediapart.fr/journal/france/230317/programme-du-fn-4-l-identite-nationale-machine-de-guerre-contre-l-islam\" title=\"Programme du FN (4). L’identité nationale, machine de guerre contre l’islam\">d'après l’historien Yvan Gastaud</a>. Quant aux musulmans, véritables « ennemis intérieurs » pour ce parti, Marion Maréchal-Le Pen expliquait fin 2015 qu'ils devaient <a href=\"http://www.europe1.fr/politique/pour-marion-marechal-le-pen-les-musulmans-ne-peuvent-etre-francais-que-sous-condition-2629283\" title=\"Pour Marion Maréchal-Le Pen, les musulmans ne peuvent être français que sous condition\">« se plier aux mœurs et au mode de vie que l’influence grecque, romaine, et 16 siècles de chrétienté ont façonnés ».</a>",
-    "subs": [
-      { "title": "Immigration", "link": "immigration-laicite-immigration" },
-      { "title": "Priorité Nationale", "link": "immigration-laicite-priorite-nationale" },
-      { "title": "Laïcité", "link": "immigration-laicite-laicite" }
-    ]
-  },
-  "immigration-laicite-immigration": {
-    "title": "Immigration",
-    "main": false,
-    "invisible": true,
-    "slug": "immigration-laicite-immigration",
-    "image": "immigration-laicite",
-    "fn": "→ [24] Rétablir les frontières nationales et sortir de l’espace Schengen (...).<br>→ [25] Rendre impossible la régularisation ou la naturalisation des étrangers en situation illégale. Simplifier et automatiser leur expulsion.<br>→ [26] Réduire l’immigration légale à un solde annuel de 10 000 (…).<br>→ [27] Supprimer le droit du sol : l’acquisition de la nationalité française sera possible uniquement par la filiation ou la naturalisation dont les conditions seront par ailleurs plus exigeantes (…).<br>→ [28] Revenir à l’esprit initial du droit d’asile qui ne pourra par ailleurs être accordé qu’à la suite de demandes déposées dans les ambassades et consulats français dans les pays d’origine ou les pays limitrophes.",
-    "fi": "Un « solde annuel de 10 000 » pour l'immigration légale induirait une fermeture quasi-totale du pays : En 2013, pour les immigrés, <a href=\"http://www.lemonde.fr/societe/article/2015/10/13/l-insee-bouscule-les-idees-recues-sur-l-immigration_4788773_3224.html\" title=\"L’Insee bouscule les idées reçues sur l’immigration\">le solde migratoire était de 140 000</a>. Cela impliquerait une explosion du nombre d'expulsions, alors qu'il y en a déjà <a href=\"http://www.la-croix.com/France/Immigration/Les-expulsions-migrants-illegaux-diminuent-elles-2016-09-02-1200786321\" title=\"Les expulsions de migrants illégaux diminuent-elles ?\">environ 30 000</a> par an. La suppression du droit du sol, pour ne plus appliquer que ce qu'on appelle le « droit du sang », est une mesure xénophobe qui remet en cause un <a href=\"https://fr.wikipedia.org/wiki/Droit_du_sol\" title=\"Droit du sol\">principe en vigueur depuis plus de 150 ans</a>.<br><br>Il faut aussi comprendre que l'immigration est de plus en plus nécessaire pour la France afin de combler ses besoins en main d'oeuvre. D'après <a href=\"https://www.insee.fr/fr/statistiques/1280826\" title=\"Projections de population pour la France métropolitaine à l’horizon 2050\">l'INSEE</a>, les plus de 65 ans représenteront plus de 40% de la population en 2050, tandis qu'<a href=\"https://www.ined.fr/fr/tout-savoir-population/chiffres/france/flux-immigration/sexe-age/\" title=\"Flux d’immigration par sexe et âge en 2014\">en 2014, 62% des bénéficiaires d'un titre de séjour avaient entre 18 et 34 ans</a>.<br><br>En 2011, M. Le Pen affirmait vouloir <a href=\"http://www.lepoint.fr/politique/marine-le-pen-il-faut-repousser-les-migrants-dans-les-eaux-internationales-25-02-2011-1299694_20.php\" title=\"Marine Le Pen: il faut \"repousser les migrants dans les eaux internationales\"\">« repousser dans les eaux internationales les migrants qui voudraient entrer en Europe »</a>. Mais en 2016, <a href=\"http://www.liberation.fr/planete/2016/12/23/plus-de-5-000-migrants-sont-morts-en-mediterranee-en-2016-un-nouveau-triste-record_1537174\" title=\"Plus de 5 000 migrants sont morts en Méditerranée en 2016, un nouveau (triste) record\">plus de 5 000 migrants sont morts en Méditerranée</a>, de loin la frontière migratoire la plus mortifère au monde.<br><br>Sur le droit d'asile, le FN vise en fait le contraire de ce qu'il prétend, puisque « l'esprit initial » de ce droit, c'est à dire la <a href=\"https://fr.wikipedia.org/wiki/Convention_relative_au_statut_des_r%C3%A9fugi%C3%A9s\" title=\"Convention relative au statut des réfugiés\">convention de Genève</a>, ne <a href=\"https://www.mediapart.fr/journal/france/230317/programme-du-fn-5-immigration-une-politique-irrealiste-qui-met-la-france-en-peril\" title=\"Programme du FN (5). Immigration: une politique irréaliste qui met la France en péril\">permet pas d'accepter d'étudier uniquement les demandes qui auraient été déposées dans « les pays d'origine ou limitrophes », ni l'expulsion des demandeurs qui ne l'auraient pas fait</a>.<br>La sortie de l'espace Schengen, <a href=\"http://www.strategie.gouv.fr/publications/consequences-economiques-dun-abandon-accords-de-schengen\" title=\"Les conséquences économiques d'un abandon des accords de Schengen\">coûterait plus de 10 milliards d’euros</a> à la France, et affaiblirait son poids en cas de négociations pour sortir de l'UE.<br><br>Derrière l'obsession du FN sur l'immigration se cache une profonde xénophobie, qui masque son absence de solutions crédibles face aux vrais problèmes, qui sont sociaux, économiques, écologiques et internationaux.",
-    "aec": "<strong><a href=\"https://laec.fr/s6m1\">Défendre le droit du sol intégral</a></strong> pour les enfants nés en France, y compris dans les Outre-mer.<br><strong><a href=\"https://laec.fr/s59m4\">Respecter la dignité humaine des migrants</a></strong>, leurs droits fondamentaux et accompagner les mineurs isolés ; Réaffirmer et faire vivre le droit d'asile, accueillir les réfugiés qui en relèvent; En finir avec le placement en centre de rétention d'enfants ; Construire des centres d'accueil aux normes internationales.<br><a href=\"https://avenirencommun.fr/le-livret-migrations/\">Soumettre l’octroi des titres de séjour à des critères objectifs</a> ne souffrant aucune différence d’interprétation d’une Préfecture à l’autre.<br><strong><a href=\"https://avenirencommun.fr/le-livret-migrations/\">Renégociation des accords de Schengen</a></strong> et remplacement de Frontex par une agence dont la mission première sera le sauvetage en mer ; Refonder la politique européenne de contrôle des frontières extérieures; Construire un programme pour l'aide au retour des réfugiés qui le souhaitent.<br><strong><a href=\"https://laec.fr/s59m2\">Éviter aux migrants de devoir fuir leur pays</a></strong> : Arrêter les guerres par une diplomatie active et indépendante au service de la paix ; Mettre fin aux accords commerciaux inégaux ; Agir contre le dérèglement climatique.<br><strong><a href=\"https://laec.fr/s59m1\">Gérer enfin les migrations à l'échelle internationale</a></strong> : Créer une organisation mondiale des migrations liée à l'ONU et organiser une conférence internationale annuelle sur les migrations pour les réponses d'urgence.",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "immigration-laicite",
-    "relatives": [
-      { "title": "Immigration", "link": "immigration-laicite-immigration" },
-      { "title": "Priorité Nationale", "link": "immigration-laicite-priorite-nationale" },
-      { "title": "Laïcité", "link": "immigration-laicite-laicite" }
-    ]
-  },
-  "immigration-laicite-priorite-nationale": {
-    "title": "Priorité Nationale",
-    "main": false,
-    "invisible": true,
-    "slug": "immigration-laicite-priorite-nationale",
-    "image": "immigration-laicite",
-    "fn": "→ [38] Supprimer sur notre territoire la directive « détachement des travailleurs » (...). Mettre en place une taxe additionnelle sur l’embauche de salariés étrangers.<br>→ [55] Mettre en oeuvre une vraie politique nataliste réservée aux familles françaises, en rétablissant l’universalité des allocations familiales et en maintenant leur indexation sur le coût de la vie.<br>→ [58] Revaloriser le minimum vieillesse (ASPA) partout en France, y compris Outre-mer, et le conditionner à la nationalité française ou à vingt ans de résidence en France, ce qui permettra également d’augmenter les très petites retraites.<br>→ [71] Réaliser des économies en supprimant l’Aide Médicale d’État réservée aux clandestins (…).<br>→ [92] Ériger la citoyenneté française en privilège pour tous les Français par l’inscription dans la Constitution de la priorité nationale.<br>→ [142] Réserver prioritairement aux Français l’attribution du logement social, sans effet rétroactif (…).",
-    "fi": "La plupart des économistes contredisent l'idée que les immigrés seraient une charge pour l'Etat, comme <a href=\"http://archives.lesechos.fr/archives/cercle/2012/04/05/cercle_45347.htm\" title=\"Extraits de \"On entend dire que... L'immigration coûte cher à la France\" par Xavier Chojnicki et Lionel Ragot\">ceux-ci, qui démontrent qu'ils contribuent davantage au budget de l’État que les natifs</a>. Et l’idée selon laquelle les étrangers <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/10/10/idee-recue-sur-les-migrants-4-6-ils-volent-le-travail-des-francais_5011081_4355770.html\" title=\"Idée reçue sur les migrants (4/6) : « Ils volent le travail des Français »\">« voleraient le travail des français »</a> et feraient baisser les salaires <a href=\"http://www.leparisien.fr/une/la-place-des-travailleurs-immigres-dans-l-economie-24-05-2011-1464212.php\" title=\"La place des travailleurs immigrés dans l'économie\">est contredite pas différents travaux</a>. Aussi, <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/10/10/idee-recue-sur-les-migrants-4-6-ils-volent-le-travail-des-francais_5011081_4355770.html\" title=\"Idée reçue sur les migrants (4/6) : « Ils volent le travail des Français »\">certains métiers ne leurs sont déjà pas accessibles, les démarches pour pouvoir travailler sont souvent longues, et le préfet peut très bien refuser d'accorder une autorisation provisoire de travail</a>. En 2009, <a href=\"https://www.insee.fr/fr/statistiques/1374014?sommaire=1374025\" title=\"Immigrés et descendants d'immigrés en France\">le taux de pauvreté des ménages immigrés était de 37 %, contre 13,5 % pour l’ensemble de la population</a>. Quant à la directive européenne sur les « travailleurs détachés », il faut rappeler que <a href=\"http://www.lefigaro.fr/politique/le-scan/couacs/2014/04/30/25005-20140430ARTFIG00242-a-bruxelles-marine-le-pen-n-a-pas-vote-contre-la-nouvelle-directive-sur-les-travailleurs-detaches.php\" title=\"Travailleurs détachés: l'incohérence de Le Pen entre son discours et son vote\">Marine Le Pen ne s'est pas opposée au vote d'une nouvelle directive plus restrictive sur le sujet</a>.<br><br>Actuellement il faut avoir un titre de séjour depuis au moins 10 ans pour avoir droit au minimum vieillesse : Le FN veut étendre ce délai à 20 ans. L'ASPA coûte 2,3 milliards au total. On ne sait pas exactement combien d'étrangers en bénéficient, mais <a href=\"http://www.liberation.fr/france/2014/10/31/etrangers-et-minimum-vieillesse-l-intox-infinie-de-l-ump_1131728\" title=\"Etrangers et minimum vieillesse, l’intox infinie de l’UMP\">on sait qu'ils sont très minoritaires parmi les bénéficiaires</a> : L'augmentation de « très petites retraites » risque donc d'être bien maigre...<br>M. Le Pen disait que « les logements sociaux sont aujourd’hui prioritairement occupés par l’immigration », mais aujourd'hui, <a href=\"http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/03/08/non-marine-le-pen-les-etrangers-ne-sont-pas-prioritaires-pour-obtenir-un-logement-social_1554040\" title=\"Non, Marine Le Pen, les étrangers ne sont pas prioritaires pour obtenir un logement social\">88% des logements sociaux sont occupés par des français. Les sans-papiers ou les demandeurs d’asile n’y ont pas droit, et les dossiers sont anonymisés</a>.L’Aide Médicale d’Etat permet, sous conditions, la gratuité des soins, mais <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/10/07/idee-recue-sur-les-migrants-3-6-ils-viennent-en-france-pour-se-faire-soigner_5009730_4355770.html\" title=\"Idées reçues sur les migrants (3/6) : « Ils viennent en France pour se faire soigner »\">son budget 2016 n'est que de 744 millions</a>, et empêcher les migrants de se soigner serait dangereux pour <a href=\"http://www.humanite.fr/la-verite-sur-le-programme-du-front-national-631681\" title=\"La vérite sur le programme du Front national\">l'ensemble de la population, par la diffusion d'épidémies</a>.<br><br>Face au chômage, à la pauvreté ou au mal-logement, le FN préfère encore une fois culpabiliser et pénaliser les étrangers et les immigrés, alors qu'il ne propose aucune solution crédible à ces problèmes.",
-    "aec": "<strong><a href=\"https://laec.fr/s49m2\">Cesser d'appliquer unilatéralement la directive sur le détachement</a></strong> de travailleurs en France : la législation nationale doit s'appliquer totalement, y compris concernant les cotisations sociales patronales et salariales.<br><strong><a href=\"https://laec.fr/s25m5\">Régulariser les travailleurs sans-papiers</a></strong> pour assurer l'égalité sociale entre travailleurs.<br><strong><a href=\"https://avenirencommun.fr/le-livret-migrations/\">Autoriser les demandeurs d’asile à travailler</a></strong> pendant la période d’attente d’examen de leur dossier.<br><strong><a href=\"https://laec.fr/s3m5\">Reconnaître le droit de vote aux élections locales</strong></strong> pour les résidents étrangers en situation régulière, comme en bénéficient déjà les ressortissants des pays de l'Union européenne.<br><strong><a href=\"https://laec.fr/s31m2\">Revaloriser les pensions de retraite</a></strong> au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté.<br><strong><a href=\"https://avenirencommun.fr/le-livret-migrations/\">Augmenter le nombre de classes</a></strong> et les moyens alloués pour les enfants nouvellement arrivés en France.",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "immigration-laicite",
-    "relatives": [
-      { "title": "Immigration", "link": "immigration-laicite-immigration" },
-      { "title": "Priorité Nationale", "link": "immigration-laicite-priorite-nationale" },
-      { "title": "Laïcité", "link": "immigration-laicite-laicite" }
-    ]
-  },
-  "immigration-laicite-laicite": {
-    "title": "Laïcité",
-    "main": false,
-    "invisible": true,
-    "slug": "immigration-laicite-laicite",
-    "image": "immigration-laicite",
-    "fn": "→ [9] Défendre les droits des femmes : lutter contre l’islamisme qui fait reculer leurs libertés fondamentales (…).<br>→ [11] Garantir la liberté de scolariser ses enfants selon ses choix (...).<br>→ [29] Interdire et dissoudre les organismes de toute nature liés au fondamentalistes islamistes (...).<br>→ [30] Fermer toutes les mosquées extrémistes recensées par le ministère de l’Intérieur (...). Interdire tout financement public (…) des lieux de culte et des activités cultuelles.<br>→ [91] Défendre l’identité nationale, les valeurs et les traditions de la civilisation française. Inscrire dans la Constitution la défense et la promotion de notre patrimoine historique et culturel.<br>→ [95] Promouvoir la laïcité et lutter contre le communautarisme (…).<br>→ [98] Promouvoir l’assimilation républicaine, principe plus exigeant que celui d’intégration.",
-    "fi": "Pour M. Le Pen, <a href=\"http://www.rtl.fr/girls/identites/marine-le-pen-le-fn-applique-t-il-ses-discours-sur-l-egalite-hommes-femmes-7787275502\" title=\"Marine Le Pen : le FN applique-t-il ses discours sur l'égalité hommes-femmes ?\">« si nous perdons, le voile sera imposé à toutes les femmes, la charia remplacera notre Constitution, la barbarie s'installera »</a>. Sur les prières de rue de musulmans, elle parlait d' une <a href=\"http://www.lefigaro.fr/politique/2010/12/11/01002-20101211ARTFIG00475-islam-et-occupation-la-provocation-de-marine-le-pen.php\" title=\"Islam et Occupation : Marine Le Pen provoque un tollé\">« occupation de territoire » et évoquait la « seconde guerre mondiale »</a>. Mais la loi de 1905 n'interdit pas les prières de rue, et le <a href=\"http://www.humanite.fr/pourquoi-marine-le-pen-ne-condamne-pas-les-prieres-de-rue-des-catholiques-integristes\" title=\"Pourquoi Marine Le Pen ne condamne pas les prières de rue des catholiques intégristes\">FN n'a jamais condamné</a> celles de catholiques intégristes comme <a href=\"http://www.huffingtonpost.fr/2013/01/29/linstitut-civitas-fait-priere-rue-devahnt-assemblee-nationale-contre-mariage-gay_n_2575468.html\" title=\"'LInstitut Civitas fait une prière de rue devant l'Assemblée nationale contre le mariage gay\">« Civitas »</a>.<br>Le FN souhaite <a href=\"http://www.famillechretienne.fr/politique-societe/presidentielle-2017/marine-le-pen-certains-catholiques-aiment-se-faire-peur-214377\" title=\"Marine Le Pen : « Certains catholiques aiment se faire peur »\">élargir à l'espace public la loi interdisant les signes religieux à l'école</a>, mais pour sa candidate, <a href=\"http://www.la-croix.com/Religion/France/La-laicite-geometrie-variable-Marine-Le-Pen-2017-02-13-1200824424\" title=\"La laïcité à géométrie variable de Marine Le Pen\">« les religions chrétiennes n’ont pas de signes ostensibles »</a>. Pour elle, dans le « patrimoine historique et culturel » de la France, <a href=\"http://www.famillechretienne.fr/politique-societe/presidentielle-2017/marine-le-pen-certains-catholiques-aiment-se-faire-peur-214377\" title=\"Marine Le Pen : « Certains catholiques aiment se faire peur »\">« les racines chrétiennes ont évidemment un poids important »</a>, et les crèches <a href=\"https://www.youtube.com/watch?v=NgDx6yRa2fM\">« ne sont pas des symboles religieux », mais des « traditions »</a>.<br><br>Les droits des femmes n'intéressent le FN que quand il s'agit d'islamisme. M. Le Pen le dit clairement : <a href=\"http://www.rtl.fr/girls/identites/marine-le-pen-le-fn-applique-t-il-ses-discours-sur-l-egalite-hommes-femmes-7787275502\" title=\"Marine Le Pen : le FN applique-t-il ses discours sur l'égalité hommes-femmes ?\">« Je ne sais pas ce que ça recouvre, le féminisme. Ce que je vois c'est qu'un certain nombre de droits des femmes sont en train de reculer, notamment sous la poussée du fondamentalisme islamiste (...) »</a>.<br>En soutenant « la liberté de scolariser ses enfants », le FN affiche son soutien à la loi Debré qui permet le financement public des établissements privés (<a href=\"https://blogs.mediapart.fr/emancipation/blog/030413/financement-public-de-lenseignement-prive-lomerta-continue\" title=\"Financement public de l'enseignement privé, l'omerta continue\">7 milliards d'euros en 2013</a>), alors que <a href=\"http://www.laligue.org/wp-content/uploads/2017/03/Educ4_Liberte%CC%81Enseignement_Zoom3.pdf\" title=\"SCOLARISATION DANS LE PRIVÉ : LES CHIFFRES\">97,5% de ces établissements sous contrat</a> sont catholiques. Le FN ne remet pas non plus en cause le <a href=\"https://fr.wikipedia.org/wiki/Concordat_en_Alsace-Moselle\" title=\"Concordat en Alsace-Moselle\">« concordat » en Alsace/Moselle</a>, ou la loi de séparation de l'Eglise et de l'Etat ne s'applique pas.<br><br>Quant à l'interdiction et la dissolution des « organismes liés aux fondamentalistes », <a href=\"http://www.associations.gouv.fr/1006-dissoudre-une-association.html#cas-8f2a79-4)\" title=\"Dissolution d'une association\">elle est déjà possible</a>, et <a href=\"http://www.la-croix.com/Religion/Islam/Dissolution-de-trois-associations-cultuelles-liees-a-la-mosquee-de-Lagny-2016-01-13-1404007\" title=\"Dissolution de trois associations cultuelles liées à la mosquée de Lagny\">plusieurs associations culturelles l'ont été ces dernières années</a>. Idem pour la fermeture des « mosquées extrémistes » (<a href=\"http://www.rtl.fr/actu/societe-faits-divers/terrorisme-etat-d-urgence-operation-sentinelle-un-bilan-mitige-pour-des-mesures-critiquees-7783973780\" title=\"État d'urgence, opération Sentinelle... un bilan mitigé pour des mesures critiquées\">12 fermées en 2015</a>), ou pour <a href=\"http://www.slate.fr/story/121757/infographie-lieux-de-culte-france\" title=\"Comment fonctionne le financement des lieux de culte?\">l'interdiction du « financement public des lieux de culte »</a>.<br><br>Le FN ne s'intéresse donc pas vraiment à la laïcité, ni au féminisme, mais si il met en avant ces thèmes, c'est avant tout pour s'attaquer aux musulmans et aux banlieues.",
-    "aec": "<strong><a href=\"https://avenirencommun.fr/le-livret-laicite/\">Abrogation de la Loi Debré</a></strong> pour mettre fin au détournement de fonds publics attribués à l’enseignement confessionnel privé, tout en respectant la « liberté de l’enseignement ».<br><strong><a href=\"https://laec.fr/s7m1\">Étendre le bénéfice de l'application de la loi de 1905</a></strong> à tout le territoire de la République (abroger le concordat d'Alsace-Moselle et les divers statuts spécifiques en vigueur dans les Outre-mer).<br><strong><a href=\"https://laec.fr/s7m2\">Garantir la liberté de conscience</a></strong> et l'égalité de toutes les options spirituelles devant la loi.<br><strong><a href=\"https://laec.fr/s7m3\">Combattre tous les communautarismes</a></strong> et l'usage politique des religions.<br><strong><a href=\"https://laec.fr/s7m5\">Refuser de rencontrer d'État à État ceux qui obligent nos ministres femmes à porter des accoutrements</a></strong> contraires à la dignité républicaine.<br><strong><a href=\"https://laec.fr/s7m6\">Interdire la présence de ministres et préfets aux cérémonies religieuses</a></strong> et refuser le titre de chanoine de Latran pour le président de la République.",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "immigration-laicite",
-    "relatives": [
-      { "title": "Immigration", "link": "immigration-laicite-immigration" },
-      { "title": "Priorité Nationale", "link": "immigration-laicite-priorite-nationale" },
-      { "title": "Laïcité", "link": "immigration-laicite-laicite" }
-    ]
-  },
   "economie-finance": {
     "title": "Économie, Finance",
     "main": true,
@@ -298,12 +8,397 @@
     "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
     "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
     "aec": "Proposal",
-    "sources": [
-      { "title": "Source test", "href": "https://google.fr/" }
-    ],
     "badge": {
       "text": "Mensonger",
       "color": "red"
     }
+  },
+  "immigration-laicite-immigration": {
+    "title": "Immigration",
+    "main": false,
+    "invisible": true,
+    "image": "immigration-laicite",
+    "fn": "→ [24] Rétablir les frontières nationales et sortir de l’espace Schengen (...).<br>→ [25] Rendre impossible la régularisation ou la naturalisation des étrangers en situation illégale. Simplifier et automatiser leur expulsion.<br>→ [26] Réduire l’immigration légale à un solde annuel de 10 000 (…).<br>→ [27] Supprimer le droit du sol : l’acquisition de la nationalité française sera possible uniquement par la filiation ou la naturalisation dont les conditions seront par ailleurs plus exigeantes (…).<br>→ [28] Revenir à l’esprit initial du droit d’asile qui ne pourra par ailleurs être accordé qu’à la suite de demandes déposées dans les ambassades et consulats français dans les pays d’origine ou les pays limitrophes.",
+    "fi": "Un « solde annuel de 10 000 » pour l&#39;immigration légale induirait une fermeture quasi-totale du pays : En 2013, pour les immigrés, <a href=\"http://www.lemonde.fr/societe/article/2015/10/13/l-insee-bouscule-les-idees-recues-sur-l-immigration_4788773_3224.html\">le solde migratoire était de 140 000</a>. Cela impliquerait une explosion du nombre d&#39;expulsions, alors qu&#39;il y en a déjà <a href=\"http://www.la-croix.com/France/Immigration/Les-expulsions-migrants-illegaux-diminuent-elles-2016-09-02-1200786321\">environ 30 000</a> par an. La suppression du droit du sol, pour ne plus appliquer que ce qu&#39;on appelle le « droit du sang », est une mesure xénophobe qui remet en cause un <a href=\"https://fr.wikipedia.org/wiki/Droit_du_sol\">principe en vigueur depuis plus de 150 ans</a>.</p>\n<p>Il faut aussi comprendre que l&#39;immigration est de plus en plus nécessaire pour la France afin de combler ses besoins en main d&#39;oeuvre. D&#39;après <a href=\"https://www.insee.fr/fr/statistiques/1280826\">l&#39;INSEE</a>, les plus de 65 ans représenteront plus de 40% de la population en 2050, tandis qu&#39;<a href=\"https://www.ined.fr/fr/tout-savoir-population/chiffres/france/flux-immigration/sexe-age/\">en 2014, 62% des bénéficiaires d&#39;un titre de séjour avaient entre 18 et 34 ans</a>.</p>\n<p>En 2011, M. Le Pen affirmait vouloir <a href=\"http://www.lepoint.fr/politique/marine-le-pen-il-faut-repousser-les-migrants-dans-les-eaux-internationales-25-02-2011-1299694_20.ph\">« repousser dans les eaux internationales les migrants qui voudraient entrer en Europe »</a>. Mais en 2016, <a href=\"http://www.liberation.fr/planete/2016/12/23/plus-de-5-000-migrants-sont-morts-en-mediterranee-en-2016-un-nouveau-triste-record_1537174\">plus de 5 000 migrants sont morts en Méditerranée</a>, de loin la frontière migratoire la plus mortifère au monde.</p>\n<p>Sur le droit d&#39;asile, le FN vise en fait le contraire de ce qu&#39;il prétend, puisque « l&#39;esprit initial » de ce droit, c&#39;est à dire la <a href=\"https://fr.wikipedia.org/wiki/Convention_relative_au_statut_des_r%C3%A9fugi%C3%A9s\">convention de Genève</a>, ne <a href=\"https://www.mediapart.fr/journal/france/230317/programme-du-fn-5-immigration-une-politique-irrealiste-qui-met-la-france-en-peril\">permet pas d&#39;accepter d&#39;étudier uniquement les demandes qui auraient été déposées dans « les pays d&#39;origine ou limitrophes », ni l&#39;expulsion des demandeurs qui ne l&#39;auraient pas fait</a>.<br>La sortie de l&#39;espace Schengen, <a href=\"http://www.strategie.gouv.fr/publications/consequences-economiques-dun-abandon-accords-de-schengen\">coûterait plus de 10 milliards d’euros</a> à la France, et affaiblirait son poids en cas de négociations pour sortir de l&#39;UE.</p>\n<p>Derrière l&#39;obsession du FN sur l&#39;immigration se cache une profonde xénophobie, qui masque son absence de solutions crédibles face aux vrais problèmes, qui sont sociaux, économiques, écologiques et internationaux.",
+    "aec": "<strong><a href=\"https://laec.fr/s6m1\">Défendre le droit du sol intégral</a></strong> pour les enfants nés en France, y compris dans les Outre-mer.<br><strong><a href=\"https://laec.fr/s59m4\">Respecter la dignité humaine des migrants</a></strong>, leurs droits fondamentaux et accompagner les mineurs isolés ; Réaffirmer et faire vivre le droit d&#39;asile, accueillir les réfugiés qui en relèvent; En finir avec le placement en centre de rétention d&#39;enfants ; Construire des centres d&#39;accueil aux normes internationales.<br><a href=\"https://avenirencommun.fr/le-livret-migrations/\">Soumettre l’octroi des titres de séjour à des critères objectifs</a> ne souffrant aucune différence d’interprétation d’une Préfecture à l’autre.<br><strong><a href=\"https://avenirencommun.fr/le-livret-migrations/\">Renégociation des accords de Schengen</a></strong> et remplacement de Frontex par une agence dont la mission première sera le sauvetage en mer ; Refonder la politique européenne de contrôle des frontières extérieures; Construire un programme pour l&#39;aide au retour des réfugiés qui le souhaitent.<br><strong><a href=\"https://laec.fr/s59m2\">Éviter aux migrants de devoir fuir leur pays</a></strong> : Arrêter les guerres par une diplomatie active et indépendante au service de la paix ; Mettre fin aux accords commerciaux inégaux ; Agir contre le dérèglement climatique.<br><strong><a href=\"https://laec.fr/s59m1\">Gérer enfin les migrations à l&#39;échelle internationale</a></strong> : Créer une organisation mondiale des migrations liée à l&#39;ONU et organiser une conférence internationale annuelle sur les migrations pour les réponses d&#39;urgence.",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "immigration-laicite",
+    "slug": "immigration-laicite-immigration",
+    "relatives": [
+      {
+        "title": "Immigration",
+        "link": "immigration-laicite-immigration"
+      },
+      {
+        "title": "Priorité Nationale",
+        "link": "immigration-laicite-priorite-nationale"
+      },
+      {
+        "title": "Laïcité",
+        "link": "immigration-laicite-laicite"
+      }
+    ]
+  },
+  "immigration-laicite-laicite": {
+    "title": "Laïcité",
+    "main": false,
+    "invisible": true,
+    "slug": "immigration-laicite-laicite",
+    "image": "immigration-laicite",
+    "fn": "→ [9] Défendre les droits des femmes : lutter contre l’islamisme qui fait reculer leurs libertés fondamentales (…).<br>→ [11] Garantir la liberté de scolariser ses enfants selon ses choix (...).<br>→ [29] Interdire et dissoudre les organismes de toute nature liés au fondamentalistes islamistes (...).<br>→ [30] Fermer toutes les mosquées extrémistes recensées par le ministère de l’Intérieur (...). Interdire tout financement public (…) des lieux de culte et des activités cultuelles.<br>→ [91] Défendre l’identité nationale, les valeurs et les traditions de la civilisation française. Inscrire dans la Constitution la défense et la promotion de notre patrimoine historique et culturel.<br>→ [95] Promouvoir la laïcité et lutter contre le communautarisme (…).<br>→ [98] Promouvoir l’assimilation républicaine, principe plus exigeant que celui d’intégration.",
+    "fi": "Pour M. Le Pen, <a href=\"http://www.rtl.fr/girls/identites/marine-le-pen-le-fn-applique-t-il-ses-discours-sur-l-egalite-hommes-femmes-7787275502\">« si nous perdons, le voile sera imposé à toutes les femmes, la charia remplacera notre Constitution, la barbarie s&#39;installera »</a>. Sur les prières de rue de musulmans, elle parlait d&#39; une <a href=\"http://www.lefigaro.fr/politique/2010/12/11/01002-20101211ARTFIG00475-islam-et-occupation-la-provocation-de-marine-le-pen.php\">« occupation de territoire » et évoquait la « seconde guerre mondiale »</a>. Mais la loi de 1905 n&#39;interdit pas les prières de rue, et le <a href=\"http://www.humanite.fr/pourquoi-marine-le-pen-ne-condamne-pas-les-prieres-de-rue-des-catholiques-integristes\">FN n&#39;a jamais condamné</a> celles de catholiques intégristes comme <a href=\"http://www.huffingtonpost.fr/2013/01/29/linstitut-civitas-fait-priere-rue-devahnt-assemblee-nationale-contre-mariage-gay_n_2575468.html\">« Civitas »</a>.<br>Le FN souhaite <a href=\"http://www.famillechretienne.fr/politique-societe/presidentielle-2017/marine-le-pen-certains-catholiques-aiment-se-faire-peur-214377\">élargir à l&#39;espace public la loi interdisant les signes religieux à l&#39;école</a>, mais pour sa candidate, <a href=\"http://www.la-croix.com/Religion/France/La-laicite-geometrie-variable-Marine-Le-Pen-2017-02-13-1200824424\">« les religions chrétiennes n’ont pas de signes ostensibles »</a>. Pour elle, dans le « patrimoine historique et culturel » de la France, <a href=\"http://www.famillechretienne.fr/politique-societe/presidentielle-2017/marine-le-pen-certains-catholiques-aiment-se-faire-peur-214377\">« les racines chrétiennes ont évidemment un poids important »</a>, et les crèches <a href=\"https://www.youtube.com/watch?v=NgDx6yRa2fM\">« ne sont pas des symboles religieux », mais des « traditions »</a>.</p>\n<p>Les droits des femmes n&#39;intéressent le FN que quand il s&#39;agit d&#39;islamisme. M. Le Pen le dit clairement : <a href=\"http://www.rtl.fr/girls/identites/marine-le-pen-le-fn-applique-t-il-ses-discours-sur-l-egalite-hommes-femmes-7787275502\">« Je ne sais pas ce que ça recouvre, le féminisme. Ce que je vois c&#39;est qu&#39;un certain nombre de droits des femmes sont en train de reculer, notamment sous la poussée du fondamentalisme islamiste (...) »</a>.<br>En soutenant « la liberté de scolariser ses enfants », le FN affiche son soutien à la loi Debré qui permet le financement public des établissements privés (<a href=\"https://blogs.mediapart.fr/emancipation/blog/030413/financement-public-de-lenseignement-prive-lomerta-continue\">7 milliards d&#39;euros en 2013</a>), alors que <a href=\"http://www.laligue.org/wp-content/uploads/2017/03/Educ4_Liberte%CC%81Enseignement_Zoom3.pdf\">97,5% de ces établissements sous contrat</a> sont catholiques. Le FN ne remet pas non plus en cause le <a href=\"https://fr.wikipedia.org/wiki/Concordat_en_Alsace-Moselle\">« concordat » en Alsace/Moselle</a>, ou la loi de séparation de l&#39;Eglise et de l&#39;Etat ne s&#39;applique pas.</p>\n<p>Quant à l&#39;interdiction et la dissolution des « organismes liés aux fondamentalistes », <a href=\"http://www.associations.gouv.fr/1006-dissoudre-une-association.html#cas-8f2a79-4\">elle est déjà possible</a>, et <a href=\"http://www.la-croix.com/Religion/Islam/Dissolution-de-trois-associations-cultuelles-liees-a-la-mosquee-de-Lagny-2016-01-13-1404007\">plusieurs associations culturelles l&#39;ont été ces dernières années</a>. Idem pour la fermeture des « mosquées extrémistes » (<a href=\"http://www.rtl.fr/actu/societe-faits-divers/terrorisme-etat-d-urgence-operation-sentinelle-un-bilan-mitige-pour-des-mesures-critiquees-7783973780\">12 fermées en 2015</a>), ou pour <a href=\"http://www.slate.fr/story/121757/infographie-lieux-de-culte-france\">l&#39;interdiction du « financement public des lieux de culte »</a>.</p>\n<p>Le FN ne s&#39;intéresse donc pas vraiment à la laïcité, ni au féminisme, mais si il met en avant ces thèmes, c&#39;est avant tout pour s&#39;attaquer aux musulmans et aux banlieues.",
+    "aec": "<strong><a href=\"https://avenirencommun.fr/le-livret-laicite/\">Abrogation de la Loi Debré</a></strong> pour mettre fin au détournement de fonds publics attribués à l’enseignement confessionnel privé, tout en respectant la « liberté de l’enseignement ».<br><strong><a href=\"https://laec.fr/s7m1\">Étendre le bénéfice de l&#39;application de la loi de 1905</a></strong> à tout le territoire de la République (abroger le concordat d&#39;Alsace-Moselle et les divers statuts spécifiques en vigueur dans les Outre-mer).<br><strong><a href=\"https://laec.fr/s7m2\">Garantir la liberté de conscience</a></strong> et l&#39;égalité de toutes les options spirituelles devant la loi.<br><strong><a href=\"https://laec.fr/s7m3\">Combattre tous les communautarismes</a></strong> et l&#39;usage politique des religions.<br><strong><a href=\"https://laec.fr/s7m5\">Refuser de rencontrer d&#39;État à État ceux qui obligent nos ministres femmes à porter des accoutrements</a></strong> contraires à la dignité républicaine.<br><strong><a href=\"https://laec.fr/s7m6\">Interdire la présence de ministres et préfets aux cérémonies religieuses</a></strong> et refuser le titre de chanoine de Latran pour le président de la République.",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "immigration-laicite",
+    "relatives": [
+      {
+        "title": "Immigration",
+        "link": "immigration-laicite-immigration"
+      },
+      {
+        "title": "Priorité Nationale",
+        "link": "immigration-laicite-priorite-nationale"
+      },
+      {
+        "title": "Laïcité",
+        "link": "immigration-laicite-laicite"
+      }
+    ]
+  },
+  "immigration-laicite-priorite-nationale": {
+    "title": "Priorité Nationale",
+    "main": false,
+    "invisible": true,
+    "image": "immigration-laicite",
+    "fn": "→ [38] Supprimer sur notre territoire la directive « détachement des travailleurs » (...). Mettre en place une taxe additionnelle sur l’embauche de salariés étrangers.<br>→ [55] Mettre en oeuvre une vraie politique nataliste réservée aux familles françaises, en rétablissant l’universalité des allocations familiales et en maintenant leur indexation sur le coût de la vie.<br>→ [58] Revaloriser le minimum vieillesse (ASPA) partout en France, y compris Outre-mer, et le conditionner à la nationalité française ou à vingt ans de résidence en France, ce qui permettra également d’augmenter les très petites retraites.<br>→ [71] Réaliser des économies en supprimant l’Aide Médicale d’État réservée aux clandestins (…).<br>→ [92] Ériger la citoyenneté française en privilège pour tous les Français par l’inscription dans la Constitution de la « priorité nationale ».<br>→ [142] Réserver prioritairement aux Français l’attribution du logement social, sans effet rétroactif (…).",
+    "fi": "La plupart des économistes contredisent l&#39;idée que les immigrés seraient une charge pour l&#39;Etat, comme <a href=\"http://archives.lesechos.fr/archives/cercle/2012/04/05/cercle_45347.htm\">ceux-ci, qui démontrent qu&#39;ils contribuent davantage au budget de l’État que les natifs</a>. Et l’idée selon laquelle les étrangers <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/10/10/idee-recue-sur-les-migrants-4-6-ils-volent-le-travail-des-francais_5011081_4355770.html\">« voleraient le travail des français »</a> et feraient baisser les salaires <a href=\"http://www.leparisien.fr/une/la-place-des-travailleurs-immigres-dans-l-economie-24-05-2011-1464212.php\">est contredite pas différents travaux</a>. Aussi, <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/10/10/idee-recue-sur-les-migrants-4-6-ils-volent-le-travail-des-francais_5011081_4355770.html\">certains métiers ne leurs sont déjà pas accessibles, les démarches pour pouvoir travailler sont souvent longues, et le préfet peut très bien refuser d&#39;accorder une autorisation provisoire de travail</a>. En 2009, <a href=\"https://www.insee.fr/fr/statistiques/1374014?sommaire=1374025\">le taux de pauvreté des ménages immigrés était de 37 %, contre 13,5 % pour l’ensemble de la population</a>. Quant à la directive européenne sur les « travailleurs détachés », il faut rappeler que <a href=\"http://www.lefigaro.fr/politique/le-scan/couacs/2014/04/30/25005-20140430ARTFIG00242-a-bruxelles-marine-le-pen-n-a-pas-vote-contre-la-nouvelle-directive-sur-les-travailleurs-detaches.php\">Marine Le Pen ne s&#39;est pas opposée au vote d&#39;une nouvelle directive plus restrictive sur le sujet</a>.</p>\n<p>Actuellement il faut avoir un titre de séjour depuis au moins 10 ans pour avoir droit au minimum vieillesse : Le FN veut étendre ce délai à 20 ans. L&#39;ASPA coûte 2,3 milliards au total. On ne sait pas exactement combien d&#39;étrangers en bénéficient, mais <a href=\"http://www.liberation.fr/france/2014/10/31/etrangers-et-minimum-vieillesse-l-intox-infinie-de-l-ump_1131728\">on sait qu&#39;ils sont très minoritaires parmi les bénéficiaires</a> : L&#39;augmentation de « très petites retraites » risque donc d&#39;être bien maigre...<br>M. Le Pen disait que « les logements sociaux sont aujourd’hui prioritairement occupés par l’immigration », mais aujourd&#39;hui, <a href=\"http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/03/08/non-marine-le-pen-les-etrangers-ne-sont-pas-prioritaires-pour-obtenir-un-logement-social_1554040\">88% des logements sociaux sont occupés par des français. Les sans-papiers ou les demandeurs d’asile n’y ont pas droit, et les dossiers sont anonymisés</a>.L’Aide Médicale d’Etat permet, sous conditions, la gratuité des soins, mais <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/10/07/idee-recue-sur-les-migrants-3-6-ils-viennent-en-france-pour-se-faire-soigner_5009730_4355770.html\">son budget 2016 n&#39;est que de 744 millions</a>, et empêcher les migrants de se soigner serait dangereux pour <a href=\"http://www.humanite.fr/la-verite-sur-le-programme-du-front-national-631681\">l&#39;ensemble de la population, par la diffusion d&#39;épidémies</a>.</p>\n<p>Face au chômage, à la pauvreté ou au mal-logement, le FN préfère encore une fois culpabiliser et pénaliser les étrangers et les immigrés, alors qu&#39;il ne propose aucune solution crédible à ces problèmes.",
+    "aec": "  <strong><a href=\"https://laec.fr/s49m2\">Cesser d&#39;appliquer unilatéralement la directive sur le détachement</a></strong> de travailleurs en France : la législation nationale doit s&#39;appliquer totalement, y compris concernant les cotisations sociales patronales et salariales.<br>  <strong><a href=\"https://laec.fr/s25m5\">Régulariser les travailleurs sans-papiers</a></strong> pour assurer l&#39;égalité sociale entre travailleurs.<br>  <strong><a href=\"https://avenirencommun.fr/le-livret-migrations/\">Autoriser les demandeurs d’asile à travailler</a></strong> pendant la période d’attente d’examen de leur dossier.<br>  <strong><a href=\"https://laec.fr/s3m5\">Reconnaître le droit de vote aux élections locales</a></strong> <a href=\"https://laec.fr/s3m5\">pour les résidents étrangers en situation régulière, comme en bénéficient déjà les ressortissants des pays de l&#39;Union européenne.</a><strong><a href=\"https://laec.fr/s31m2\">Revaloriser les pensions de retraite</a></strong> au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté.<br>  <strong><a href=\"https://avenirencommun.fr/le-livret-migrations/\">Augmenter le nombre de classes</a></strong> et les moyens alloués pour les enfants nouvellement arrivés en France.",
+    "badge": {
+      "text": "Dangereux",
+      "color": "red"
+    },
+    "parent": "immigration-laicite",
+    "slug": "immigration-laicite-priorite-nationale",
+    "relatives": [
+      {
+        "title": "Immigration",
+        "link": "immigration-laicite-immigration"
+      },
+      {
+        "title": "Priorité Nationale",
+        "link": "immigration-laicite-priorite-nationale"
+      },
+      {
+        "title": "Laïcité",
+        "link": "immigration-laicite-laicite"
+      }
+    ]
+  },
+  "immigration-laicite": {
+    "title": "Immigration, Laïcité",
+    "main": true,
+    "image": "immigration-laicite",
+    "intro": "Pour le FN, depuis plusieurs décennies déjà, le clivage essentiel est celui qui oppose <a href=\"http://www.monde-diplomatique.fr/2017/05/LAMBERT/57493\">« le parti des étrangers contre le parti de la France »</a>, et l&#39;immigration est le problème central et le cœur de toute son argumentation. Marine Le Pen, dont le programme de 2012 prévoyait d&#39; <a href=\"http://www.frontnational.com/pdf/projet_mlp2012.pdf\">« interdire les manifestations de soutien aux clandestins »</a>, voit l&#39;immigration comme un véritable « raz-de-marée », une <a href=\"http://www.lepoint.fr/politique/marine-le-pen-compare-l-afflux-de-migrants-aux-invasions-barbares-14-09-2015-1964773_20.php\">« invasion » comparable à celles des barbares du IVème siècle</a>.</p>\n<p><a href=\"http://www.lefigaro.fr/flash-actu/2017/03/20/97001-20170320FILWWW00355-le-pen-je-veux-arreter-l-immigration.php\">« Arrêter l&#39;immigration légale et illégale »</a> est donc la grande priorité du FN. Avec la fermeture des frontières et le durcissement des conditions d&#39;accès à la nationalité, le parti veut instaurer la <a href=\"http://www.humanite.fr/la-verite-sur-le-programme-du-front-national-631681\">« priorité nationale »</a>. Pour « ériger la citoyenneté française en privilège » et empêcher les immigrés d&#39;accéder aux droits fondamentaux, au profit des français « de souche », il veut d&#39;abord <a href=\"https://www.mediapart.fr/journal/france/200317/fn-la-priorite-nationale-une-doctrine-contraire-aux-fondements-republicains-0\">modifier la constitution</a>. Pour les quelques étrangers qui parviendraient à rester sur le territoire, le FN parle d&#39;« assimilation», un concept « développé dans le contexte des guerres coloniales françaises au XIXe siècle », qui s&#39;appliquait donc aux « indigènes » des colonies françaises, <a href=\"https://www.mediapart.fr/journal/france/230317/programme-du-fn-4-l-identite-nationale-machine-de-guerre-contre-l-islam\">d&#39;après l’historien Yvan Gastaud</a>. Quant aux musulmans, véritables « ennemis intérieurs » pour ce parti, Marion Maréchal-Le Pen expliquait fin 2015 qu&#39;ils devaient <a href=\"http://www.europe1.fr/politique/pour-marion-marechal-le-pen-les-musulmans-ne-peuvent-etre-francais-que-sous-condition-2629283\">« se plier aux mœurs et au mode de vie que l’influence grecque, romaine, et 16 siècles de chrétienté ont façonnés ».</a>",
+    "subs": [
+      {
+        "title": "Immigration",
+        "link": "immigration-laicite-immigration"
+      },
+      {
+        "title": "Priorité Nationale",
+        "link": "immigration-laicite-priorite-nationale"
+      },
+      {
+        "title": "Laïcité",
+        "link": "immigration-laicite-laicite"
+      }
+    ],
+    "slug": "immigration-laicite"
+  },
+  "securite-terrorisme": {
+    "title": "Sécurité, Terrorisme",
+    "main": true,
+    "image": "securite-terrorisme",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
+    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "aec": "Proposal",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "slug": "securite-terrorisme"
+  },
+  "urgence-democratique-droit-education": {
+    "title": "Droit à l'éducation",
+    "main": false,
+    "invisible": true,
+    "image": "urgence-democratique",
+    "fn": "→ Garantir la liberté de scolariser ses enfants selon ses choix, tout en contrôlant plus strictement la compatibilité avec les valeurs de la République des enseignements dispensés dans les établissements privés hors-contrat.",
+    "fi": "La scolarisation « selon [les] choix [des parents] » aura des conséquences désastreuses pour la majorité de la population. Concrètement, cela signifie que l&#39;application de la carte scolaire sera plus laxiste et que les parents pourront choisir où scolariser leurs enfants.<br>Bien que l&#39;idée puisse paraitre alléchante, cela signifie que certaines écoles ayant de bons résultats, ou « bien cotées » verront le nombre de dossiers de scolarisation qu&#39;elles reçoivent augmenter de manière drastique. Elles seront alors obligées de pratiquer une sélection à l&#39;entrée.</p>\n<p>Cela amènera donc à l&#39;accentuation dramatique d&#39;une situation déjà trop présente: l&#39;éducation à plusieurs vitesses. Selon l&#39;origine socio-culturelle (« aisés contre pauvres ») des parents et la localisation des écoles (« beaux quartiers contre banlieues »), des moyens différents seront alloués, et les élèves se retrouveront dans des écoles où les chances d&#39;obtenir une éducation de qualité ne seront pas les mêmes.</p>\n<p>Au final, alors que madame Le Pen prétend défendre le peuple, elle va le diviser. Ce sont les milieux ouvriers et populaires qui en subiront le plus les conséquences.",
+    "aec": "Parce qu&#39;on ne règlera pas les problèmes de la société en créant des inégalités éducatives ou en les accentuant, nous proposons:</p>\n<p><strong>Instaurer une <a href=\"https://laec.fr/s73m2\">nouvelle carte scolaire</a></strong> établissant la mixité sociale<br><strong>Mettre en œuvre un plan de lutte contre les inégalités</strong> à l&#39;école maternelle et primaire, notamment avec un droit à la scolarisation dès 2 ans, la baisse du nombre d&#39;élèves par classe en primaire, la présence de davantage d&#39;instituteurs que de classes dans les écoles, le développement des Réseaux d&#39;aide aux élèves en difficulté<br><strong>Assurer la <a href=\"https://laec.fr/s73m3\">gratuité réelle de l&#39;éducation</a> publique</strong>, y compris les cantines, le transport et les activités périscolaires, fournir gratuitement aux élèves les manuels scolaires, ainsi que des fournitures sans marque, pour assurer une réelle égalité des conditions entre élèves et lutter contre l&#39;intrusion marchande à l&#39;école",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-democratique",
+    "slug": "urgence-democratique-droit-education",
+    "relatives": [
+      {
+        "title": "République",
+        "link": "urgence-democratique-republique"
+      },
+      {
+        "title": "Égalité réelle",
+        "link": "urgence-democratique-egalite-reelle"
+      },
+      {
+        "title": "Libertés numériques",
+        "link": "urgence-democratique-libertes-numeriques"
+      },
+      {
+        "title": "Droit à l'éducation",
+        "link": "urgence-democratique-droit-education"
+      }
+    ]
+  },
+  "urgence-democratique-egalite-reelle": {
+    "title": "Égalité réelle",
+    "main": false,
+    "invisible": true,
+    "image": "urgence-democratique",
+    "fn": "→ Garantir la liberté d’expression et les libertés numériques par leur inscription dans les libertés fondamentales protégées par la Constitution, tout en renforçant la lutte contre le cyber-djihadisme et la pédo-criminalité.<br>→ Créer une charte à valeur constitutionnelle qui inclura la protection des données personnelles des Français, notamment par une obligation de stockage de ces données sur des serveurs localisés en France.",
+    "fi": "<strong>Tout en prétendant défendre les droits des femmes, le FN tente par des propositions sur le salaire des femmes de détourner l&#39;attention</strong> de son axe identitaire et xénophobe de lutte contre l&#39;islam.</p>\n<p><a href=\"http://www.terrafemina.com/article/6-tres-bonnes-raisons-pour-les-femmes-de-fuir-le-fn_a296925/1\">Il convient de rappeler pourtant les positions de certains de ses membres</a> vis à vis de l&#39;IVG (Marion Maréchal Le Pen proposait son déremboursement il y a peu), ou vis à vis de la place des femmes dans la société (l&#39;eurodéputé Dominique Martin pronait il y a quelques mois à Strasbourg le retour des femmes au foyer pour régler les problèmes de l&#39;emploi et de la sécurité des enfants) par exemple.</p>\n<p>Pour finir, les députés FN ont systématiquement voté contre les lois ayant trait aux droits des femmes (<a href=\"http://www2.assemblee-nationale.fr/scrutins/detail/(legislature\">loi pour l&#39;égalité réelle entre les femmes et les hommes</a>/14/(num)/773#G6), <a href=\"http://www2.assemblee-nationale.fr/scrutins/detail/(legislature\">loi pour la lutte contre le système prostitutionnel</a>/14/(num)/738#G6), extension du délit d&#39;entrave à l&#39;IVG...)",
+    "aec": "Nous pensons que la question de l&#39;égalité réelle femme-homme n&#39;est pas qu&#39;une question de salaire ou de précarité professionnelle.<br>Au delà du symptôme évident matérialisé sur la fiche de paie, la non-marchandisation des corps doit être constitutionalisée, ainsi que les droits fondamentaux qui vont avec.<br><strong>Étendre à toutes les entreprises</strong> l&#39;obligation d&#39;adopter un plan ou un <a href=\"https://https://laec.fr/s32\">accord d&#39;entreprise</a> contre les inégalités de salaires et de carrière entre hommes et femmes<br><strong>Revaloriser les métiers</strong> occupés majoritairement par des femmes et agir pour l&#39;égal accès à toutes les formations et à tous les métiers<br><strong>Constitutionnaliser le droit à la contraception</strong> et à l&#39;Interruption Volontaire de Grossesse<br><strong>Imposer <a href=\"https://laec.fr/s6m3\">l&#39;égalité de conditions</a> entre les femmes et les hommes</strong> dans le secteur public, politique et syndical<br><strong>Renforer la loi et les moyens</strong> contre les violences faites aux femmes et en adopter une loi de lutte contre le sexisme<br><strong>Généraliser le Planning familial</strong> dans ses missions de formation et d&#39;éducation",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-democratique",
+    "slug": "urgence-democratique-egalite-reelle",
+    "relatives": [
+      {
+        "title": "République",
+        "link": "urgence-democratique-republique"
+      },
+      {
+        "title": "Égalité réelle",
+        "link": "urgence-democratique-egalite-reelle"
+      },
+      {
+        "title": "Libertés numériques",
+        "link": "urgence-democratique-libertes-numeriques"
+      },
+      {
+        "title": "Droit à l'éducation",
+        "link": "urgence-democratique-droit-education"
+      }
+    ]
+  },
+  "urgence-democratique-libertes-numeriques": {
+    "title": "Libertés numériques",
+    "main": false,
+    "invisible": true,
+    "image": "urgence-democratique",
+    "fn": "→ Garantir la liberté d’expression et les libertés numériques par leur inscription dans les libertés fondamentales protégées par la Constitution, tout en renforçant la lutte contre le cyber-djihadisme et la pédo-criminalité.<br>→ Créer une charte à valeur constitutionnelle qui inclura la protection des données personnelles des Français, notamment par une obligation de stockage de ces données sur des serveurs localisés en France.",
+    "fi": "Si l&#39;intention de la première proposition peut paraître louable, il faut rappeler que la liberté d&#39;expression est déjà un droit constitutionnel. En effet, bien que n&#39;étant pas présente directement dans la Constitution de 1958, elle est sanctuarisée dans la Déclaration des Droits de l&#39;Homme et du Citoyen de 1789, elle-même incluse dans la Constitution. [Le Conseil Constitutionnel a d&#39;ores et déjà établi que cette déclaration avait valeur constitutionnelle lors d&#39;une jurisprudence.</p>\n<p>Concernant la protection des données personnelles, la proposition du Front National brouille encore les cartes. En effet, le stockage des données personnelles sur des serveurs localisés en France ne serait en aucun cas un gage de sécurité, étant donné que la loi Renseignement du 24 juillet 2015 autorise les services de renseignement français à utiliser des dispositifs d&#39;écoute sur les communications françaises ainsi qu&#39;à](<a href=\"http://www.lemondepolitique.fr/cours/libertespubliques/libertes/liberte_expression.htm\">http://www.lemondepolitique.fr/cours/libertespubliques/libertes/liberte_expression.htm</a>) <a href=\"http://www.lexpress.fr/actualite/politique/infographie-boites-noires-mouchards-la-loi-renseignement-en-un-coup-d-oeil_1692913.html\">poser des &quot;boites noires&quot;</a> directement chez les fournisseurs d&#39;accès à internet. La charte de protection promise par le programme de Madame Le Pen commencerait donc sa vie avec un sérieux coup de plomb dans l&#39;aile.",
+    "aec": "  Nous pensons que les données personnelles n&#39;ont pas de valeur et doivent <a href=\"https://avenirencommun.fr/le-livret-numerique/\">être protégées</a>, qu&#39;elles soient en France ou non. Mais ça ne doit pas s&#39;arrêter là.</p>\n<p>  <strong>L’évaluation de l’efficacité des solutions</strong> techniques utilisées par les services de renseignement. Les mesures inefficaces, disproportionnées ou contre-productives seront abrogées.<br>  <strong>La remise en question des pratiques et dispositifs de surveillance</strong> de masse sur Internet et les réseaux téléphoniques.<br>  <strong>L’interdiction du fichage</strong> généralisé et la suppression du fichier des «gens honnêtes».<br>  <strong>La protection des données personnelles</strong> de nos citoyens lorsqu&#39;elles sont hébergées à l&#39;étranger, en renégociant notamment l&#39;accord Privacy Shield (régulation du transfert de données personnelles de l&#39;UE vers les États-Unis.<br>  <strong>Obliger à demander un consentement explicite</strong> pour la revente des données personnelles à un tiers.<br>  <strong>Obliger les acteurs du web</strong> à informer l&#39;utilisateur s&#39;il fait l&#39;objet d&#39;un profilage et lui permettre de le refuser.",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-democratique",
+    "slug": "urgence-democratique-libertes-numeriques",
+    "relatives": [
+      {
+        "title": "République",
+        "link": "urgence-democratique-republique"
+      },
+      {
+        "title": "Égalité réelle",
+        "link": "urgence-democratique-egalite-reelle"
+      },
+      {
+        "title": "Libertés numériques",
+        "link": "urgence-democratique-libertes-numeriques"
+      },
+      {
+        "title": "Droit à l'éducation",
+        "link": "urgence-democratique-droit-education"
+      }
+    ]
+  },
+  "urgence-democratique-republique": {
+    "title": "République",
+    "main": false,
+    "invisible": true,
+    "image": "urgence-democratique",
+    "fn": "→ Organiser un référendum en vue de réviser la Constitution et conditionner toute révision future de la Constitution à un référendum. Élargir le champ d’application de l’article 11 de la Constitution.<br>→ Permettre la représentation de tous les Français par le scrutin proportionnel à toutes les élections. À l’Assemblée nationale, la proportionnelle sera intégrale avec une prime majoritaire de 30 % des sièges pour la liste arrivée en tête et un seuil de 5% des suffrages pour obtenir des élus.<br>→ Abaisser le nombre de députés à 300 (contre 577 aujourd’hui) et le nombre de sénateurs à 200 (contre 348 aujourd’hui).",
+    "fi": "Conditionner la révision de la Constitution à un référendum d&#39;approbation serait admirable, si cela permettait de garantir des politiques novatrices. Non seulement le reste du programme ne le laisse pas entendre, mais encore une fois le manque de précision du Front National ne laisse que peu de doute quant à l&#39;aspect électoraliste de la mesure. Le plus grand danger reste néanmoins dans la méthode, puisque l&#39;adoption d&#39;une loi par le biais d&#39;un référendum permet dans les fait de se passer du consentement du parlement.<br>La proportionnelle intégrale est ici dévoyée de son objectif premier. La première phrase de la première mesure proposée contredit d&#39;ailleurs la dernière directement. Il est en effet impossible d&#39;assurer la représentation de tous les français dans les élections lorsqu&#39;on commence par imposer un minimum de voix pour obtenir représentation, les petits partis serait évincés de ce parlement de la même manière qu&#39;aujourd&#39;hui.<br>Cela est encore plus accentué par la diminution proposée du nombre de représentants. Un nombre plus faible de députés implique mathématiquement que ces derniers représentent un plus grand nombre de français-e-s, et donc moins de représentativité.<br>De plus, la prime majoritaire de 30 % (rien que ça) d&#39;élus pour la liste arrivée en tête diminue encore le nombre de sièges effectivement réservés pour les députés élus par suffrage, et ferait qu&#39;en cas d&#39;éclatement des voix, un parti atteignant les 20 % de suffrages exprimés <a href=\"https://www.slate.fr/story/144942/marine-le-pen-presidente-proportionnelle-dissolution\">obtiendrait automatiquement la majorité</a>. Une manne donc pour le Front National, qui détient un quasi monopole sur son aile et serait à même d&#39;effectuer n&#39;importe quelle réforme.",
+    "aec": "Afin de véritablement rendre le pouvoir au peuple, nos positions sont centrées sur l&#39;intervention directe de celui-ci, et le contrôle total de la part des français-e-s sur son Parlement et son Gouvernement.</p>\n<p><strong>Convoquer un référendum</strong> pour engager le processus constituant (modalités de la composition de <a href=\"https://laec.fr/s1\">l&#39;Assemblée constituante</a> — mode de scrutin, parité, tirage au sort et incompatibilités ; modalités de la délibération ; association des citoyens aux travaux…)<br><strong>Aucun parlementaire des anciennes assemblées</strong> de la 5e République ne pourra siéger dans cette Assemblée constituante. Les délégués à l&#39;Assemblée constituante ne pourront être candidats aux élections suivant l&#39;entrée en vigueur de la nouvelle Constitution<br>Le projet de Constitution proposé par l&#39;Assemblée constituante sera soumis à un référendum d&#39;approbation<br><strong>Abolir la <a href=\"https://laec.fr/s4\">monarchie présidentielle</a></strong> en instaurant un régime parlementaire stable dans lequel le gouvernement responsable devant le Parlement, transférer le pouvoir de nomination du Gouvernement au Parlement<br>Élire l&#39;Assemblée nationale à la <strong>proportionnelle totale</strong><br><strong>Supprimer le Sénat</strong> et le Conseil économique, social et environnemental et créer une Assemblée de l&#39;intervention populaire et du long terme émettant un avis sur l&#39;impact écologique et social des lois<br><strong>Supprimer la Cour de justice de la République</strong> et soumettre les membres du gouvernement à la justice ordinaire",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-democratique",
+    "slug": "urgence-democratique-republique",
+    "relatives": [
+      {
+        "title": "République",
+        "link": "urgence-democratique-republique"
+      },
+      {
+        "title": "Égalité réelle",
+        "link": "urgence-democratique-egalite-reelle"
+      },
+      {
+        "title": "Libertés numériques",
+        "link": "urgence-democratique-libertes-numeriques"
+      },
+      {
+        "title": "Droit à l'éducation",
+        "link": "urgence-democratique-droit-education"
+      }
+    ]
+  },
+  "urgence-democratique": {
+    "title": "Urgence démocratique",
+    "main": false,
+    "image": "urgence-democratique",
+    "intro": "  <strong> Que ce soit dans le domaine de la démocratie et de la représentation </strong>, dans celui des libertés fondamentales, le Front National a beaucoup de propositions à faire. Celles-ci, souvent floues, sont souvent à double tranchant, et menacent de fracturer la société encore plus qu&#39;elle ne l&#39;est. Quand au sujet de l&#39;égalité, que ce soit celle de tous les citoyens, ou plus spécifiquement de l&#39;égalité femme-homme, certains sujets sont passés sous silence par le parti d&#39;extrême-droite. Pour de bonnes raisons.",
+    "subs": [
+      {
+        "title": "République",
+        "link": "urgence-democratique-republique"
+      },
+      {
+        "title": "Égalité réelle",
+        "link": "urgence-democratique-egalite-reelle"
+      },
+      {
+        "title": "Libertés numériques",
+        "link": "urgence-democratique-libertes-numeriques"
+      },
+      {
+        "title": "Droit à l'éducation",
+        "link": "urgence-democratique-droit-education"
+      }
+    ],
+    "slug": "urgence-democratique"
+  },
+  "urgence-ecologique": {
+    "title": "Urgence écologique",
+    "main": false,
+    "image": "urgence-ecologique",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "subs": [
+      {
+        "title": "Foo",
+        "link": "urgence-ecologique-foo"
+      },
+      {
+        "title": "Foo",
+        "link": "urgence-ecologique-foo"
+      }
+    ],
+    "slug": "urgence-ecologique"
+  },
+  "urgence-sociale-fiscalite": {
+    "title": "Fiscalité",
+    "main": false,
+    "invisible": true,
+    "image": "urgence-sociale",
+    "fn": "→ [56] Augmentation des plafonds de donations défiscalisés aux enfants<br>→ [47] Défiscalisation des ventes de parts sociales et actions dans les PME<br>→ [75] Baisse de 10 % des trois premières tranches d’impôt<br>→ [78] Une taxe contre l’évasion fiscale",
+    "fi": "Les baisses d’impôts sont annoncées <strong>sans logique d’ensemble</strong> de répartition de l’effort. En particulier les impôts des plus riches n’augmenteront pas, et même baisseront puisque ceux-ci pourront transmettre du capital au sein de la famille, ou vendre des parts d’entreprises sans contribuer à l’effort collectif.</p>\n<p>L’idée d’une taxe contre l’évasion fiscale a quelque chose de risible, si l’on était pas certain que le Front National ne l’avançait que pour l’annonce, sans aucune intention de lutter contre la fraude fiscale, dont ses membres son coutumiers.",
+    "aec": "<strong><a href=\"https://laec.fr/s37m1\">Créer un impôt universel</a></strong> qui luttera de manière concrète contre l&#39;évasion fiscale : vivre à l’étranger n’empêche pas de payer la différence entre les impôts du pays d’accueil et celui qui aurait été payé en France.<br><strong><a href=\"https://laec.fr/s36m1\">Lisser sur 14 tranches</a></strong> l&#39;impôt sur le revenu pour répartir l&#39;effort. La plus haute tranche sera à 90%.<br><strong><a href=\"https://laec.fr/s19m3\">Instaurer une taxe sur les transactions financières</a></strong>",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-sociale",
+    "slug": "urgence-sociale-fiscalite",
+    "relatives": [
+      {
+        "title": "Sécurité Sociale",
+        "link": "urgence-sociale-securite-sociale"
+      },
+      {
+        "title": "Fiscalité",
+        "link": "urgence-sociale-fiscalite"
+      }
+    ]
+  },
+  "urgence-sociale-protectionnisme": {
+    "title": "Protectionnisme",
+    "main": false,
+    "invisible": true,
+    "image": "urgence-sociale",
+    "fn": "→ [37] Priorité nationale par les commandes publiques<br>→ [125] Commande publique pour l’agriculture et la pêche française<br>→ [130] Promotion des exportations agricoles",
+    "fi": "Les logiques écologiques et sociales n’entrent à aucun en compte dans le protectionnisme du Front national. Les entreprises et agriculteurs françaises seront favorisés du simple fait qu’ils sont français, peu importe qu’ils polluent ou maltraitent leurs salariés. L’exemple de l’agriculture est tellement caricatural que l’exigence écologique — vitale pour ce qui est de notre nourriture — est promise à être jetée aux orties au nom des exportations, qui reposent essentiellement sur les grosses exploitations polluantes, qui seront encouragées.</p>\n<p>De plus, aucune marge de manœuvre n’est prévue pour travailler à la coopération internationale en matière sociale ou environnementale, puisque les produits étrangers sont taxés sans distinction. Il s’agit bien de défendre le capitalisme français dans la compétition mondiale et non pas de lutter contre ses ravages, d’où qu’ils viennent.",
+    "aec": "<strong><a href=\"https://laec.fr/s17\">Instaurer un protectionnisme solidaire</a></strong> pour produire en France<br><strong><a href=\"https://laec.fr/s17m2\">Taxer les produits des pays aux droits sociaux limités</a></strong> : il n&#39;est pas normal qu&#39;une marchandise fabriquée via du travail des enfants ou des ouvriers sans protection sociale (et donc moins chers) fassent concurrence aux produits réalisés dans des conditions dignes<br><strong><a href=\"https://laec.fr/s43m3\">Passer au 100% bio et local</a></strong> pour favoriser les circuits court et l&#39;agriculture saine",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-sociale",
+    "slug": "urgence-sociale-protectionnisme",
+    "relatives": [
+      {
+        "title": "Sécurité Sociale",
+        "link": "urgence-sociale-securite-sociale"
+      },
+      {
+        "title": "Fiscalité",
+        "link": "urgence-sociale-fiscalite"
+      }
+    ]
+  },
+  "urgence-sociale-securite-sociale": {
+    "title": "Sécurité Sociale",
+    "main": false,
+    "invisible": true,
+    "image": "urgence-sociale",
+    "fn": "→ [82] Exonération de cotisations sociales pour « premier emploi »<br>→ [46] Exonération de cotisations et maintien du CICE pour les TPE-PME<br>→ [64] Défiscalisation des heures supplémentaires<br>→ [86] Deux jours de carence pour les arrêts maladie<br>→ [65] « Simplification » de la sécurité sociale",
+    "fi": "Loin de pérenniser la sécurité sociale, le Front National sabote son financement en prolongeant les dispositifs d’allègement de « charges » dont l’effort sera mécaniquement reporté sur l’impôt. Or, ces derniers sont annoncés stables voire à la a baisse, la « simplification » de la sécurité sociale se fera donc par coupes dans nos services publics.<br>De plus, en cessant de rembourser les arrêts maladie court, c’est-à-dire la grande majorité des arrêts, ceux-ci ne seront jamais pris, et on pousse des gens malades à s’user la santé donc à tomber encore plus mal sous prétexte d’économies publiques.",
+    "aec": "<strong><a href=\"https://laec.fr/s26\">Assurer la sécurité sociale intégrale pour tous</a></strong>, en y incluant ce qui est aujourd’hui la part des mutuelles privées.<br><strong>Réduire le temps de travail</strong> en <a href=\"https://laec.fr/s28m2\">appliquant réellement les 35h</a> et en <a href=\"https://laec.fr/s28m1\">généralisant une 6è semaine de congés payés</a></p>\n<p>La suppression de <a href=\"https://laec.fr/s36m2\">nombreuses niches fiscales</a> et <a href=\"https://laec.fr/s18m2\">exonérations de cotisations</a> permet par ailleurs d’abolir des privilèges indus et improductifs pour le pays et de financer une sécurité sociale intégrale.",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-sociale",
+    "slug": "urgence-sociale-securite-sociale",
+    "relatives": [
+      {
+        "title": "Sécurité Sociale",
+        "link": "urgence-sociale-securite-sociale"
+      },
+      {
+        "title": "Fiscalité",
+        "link": "urgence-sociale-fiscalite"
+      }
+    ]
+  },
+  "urgence-sociale": {
+    "title": "Urgence sociale",
+    "main": false,
+    "image": "urgence-sociale",
+    "intro": "Sur l’économie et les finances publiques, Le FN veut présenter un visage « social » mais son programme nous dit le contraire. Exonération de cotisations et exemptions fiscales, « patriotisme économique » qui défend le capital français mais pas les travailleurs, ni l’écologie : autant d’exemples qui trahissent son pseudo-virage social.",
+    "subs": [
+      {
+        "title": "Sécurité Sociale",
+        "link": "urgence-sociale-securite-sociale"
+      },
+      {
+        "title": "Fiscalité",
+        "link": "urgence-sociale-fiscalite"
+      }
+    ],
+    "slug": "urgence-sociale"
   }
 }

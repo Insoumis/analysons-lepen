@@ -1,0 +1,29 @@
+{
+  "title": "Protectionnisme",
+  "main": false,
+  "invisible": true,
+  "image": "urgence-sociale",
+  "fn":
+    '''
+    → [37] Priorité nationale par les commandes publiques
+    → [125] Commande publique pour l’agriculture et la pêche française
+    → [130] Promotion des exportations agricoles
+    ''',
+  "fi":
+    '''
+    Les logiques écologiques et sociales n’entrent à aucun en compte dans le protectionnisme du Front national. Les entreprises et agriculteurs françaises seront favorisés du simple fait qu’ils sont français, peu importe qu’ils polluent ou maltraitent leurs salariés. L’exemple de l’agriculture est tellement caricatural que l’exigence écologique — vitale pour ce qui est de notre nourriture — est promise à être jetée aux orties au nom des exportations, qui reposent essentiellement sur les grosses exploitations polluantes, qui seront encouragées.
+
+    De plus, aucune marge de manœuvre n’est prévue pour travailler à la coopération internationale en matière sociale ou environnementale, puisque les produits étrangers sont taxés sans distinction. Il s’agit bien de défendre le capitalisme français dans la compétition mondiale et non pas de lutter contre ses ravages, d’où qu’ils viennent.
+    ''',
+  "aec":
+    '''
+    **[Instaurer un protectionnisme solidaire](https://laec.fr/s17)** pour produire en France
+    **[Taxer les produits des pays aux droits sociaux limités](https://laec.fr/s17m2)** : il n'est pas normal qu'une marchandise fabriquée via du travail des enfants ou des ouvriers sans protection sociale (et donc moins chers) fassent concurrence aux produits réalisés dans des conditions dignes
+    **[Passer au 100% bio et local](https://laec.fr/s43m3)** pour favoriser les circuits court et l'agriculture saine
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "urgence-sociale"
+}

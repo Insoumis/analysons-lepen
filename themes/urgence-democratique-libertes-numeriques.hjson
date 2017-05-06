@@ -1,0 +1,33 @@
+{
+  "title": "Libertés numériques",
+  "main": false,
+  "invisible": true,
+  "image": "urgence-democratique",
+  "fn":
+    '''
+    → Garantir la liberté d’expression et les libertés numériques par leur inscription dans les libertés fondamentales protégées par la Constitution, tout en renforçant la lutte contre le cyber-djihadisme et la pédo-criminalité.
+    → Créer une charte à valeur constitutionnelle qui inclura la protection des données personnelles des Français, notamment par une obligation de stockage de ces données sur des serveurs localisés en France.
+    ''',
+  "fi":
+    '''
+    Si l'intention de la première proposition peut paraître louable, il faut rappeler que la liberté d'expression est déjà un droit constitutionnel. En effet, bien que n'étant pas présente directement dans la Constitution de 1958, elle est sanctuarisée dans la Déclaration des Droits de l'Homme et du Citoyen de 1789, elle-même incluse dans la Constitution. [Le Conseil Constitutionnel a d'ores et déjà établi que cette déclaration avait valeur constitutionnelle lors d'une jurisprudence.
+
+    Concernant la protection des données personnelles, la proposition du Front National brouille encore les cartes. En effet, le stockage des données personnelles sur des serveurs localisés en France ne serait en aucun cas un gage de sécurité, étant donné que la loi Renseignement du 24 juillet 2015 autorise les services de renseignement français à utiliser des dispositifs d'écoute sur les communications françaises ainsi qu'à](http://www.lemondepolitique.fr/cours/libertespubliques/libertes/liberte_expression.htm) [poser des "boites noires"](http://www.lexpress.fr/actualite/politique/infographie-boites-noires-mouchards-la-loi-renseignement-en-un-coup-d-oeil_1692913.html) directement chez les fournisseurs d'accès à internet. La charte de protection promise par le programme de Madame Le Pen commencerait donc sa vie avec un sérieux coup de plomb dans l'aile.
+    ''',
+  "aec":
+    '''
+      Nous pensons que les données personnelles n'ont pas de valeur et doivent [être protégées](https://avenirencommun.fr/le-livret-numerique/), qu'elles soient en France ou non. Mais ça ne doit pas s'arrêter là.
+
+      **L’évaluation de l’efficacité des solutions** techniques utilisées par les services de renseignement. Les mesures inefficaces, disproportionnées ou contre-productives seront abrogées.
+      **La remise en question des pratiques et dispositifs de surveillance** de masse sur Internet et les réseaux téléphoniques.
+      **L’interdiction du fichage** généralisé et la suppression du fichier des «gens honnêtes».
+      **La protection des données personnelles** de nos citoyens lorsqu'elles sont hébergées à l'étranger, en renégociant notamment l'accord Privacy Shield (régulation du transfert de données personnelles de l'UE vers les États-Unis.
+      **Obliger à demander un consentement explicite** pour la revente des données personnelles à un tiers.
+      **Obliger les acteurs du web** à informer l'utilisateur s'il fait l'objet d'un profilage et lui permettre de le refuser.
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "urgence-democratique"
+}

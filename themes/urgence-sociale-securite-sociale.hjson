@@ -1,0 +1,31 @@
+{
+  "title": "Sécurité Sociale",
+  "main": false,
+  "invisible": true,
+  "image": "urgence-sociale",
+  "fn":
+    '''
+    → [82] Exonération de cotisations sociales pour « premier emploi »
+    → [46] Exonération de cotisations et maintien du CICE pour les TPE-PME
+    → [64] Défiscalisation des heures supplémentaires
+    → [86] Deux jours de carence pour les arrêts maladie
+    → [65] « Simplification » de la sécurité sociale
+    ''',
+  "fi":
+    '''
+    Loin de pérenniser la sécurité sociale, le Front National sabote son financement en prolongeant les dispositifs d’allègement de « charges » dont l’effort sera mécaniquement reporté sur l’impôt. Or, ces derniers sont annoncés stables voire à la a baisse, la « simplification » de la sécurité sociale se fera donc par coupes dans nos services publics.
+    De plus, en cessant de rembourser les arrêts maladie court, c’est-à-dire la grande majorité des arrêts, ceux-ci ne seront jamais pris, et on pousse des gens malades à s’user la santé donc à tomber encore plus mal sous prétexte d’économies publiques.
+    ''',
+  "aec":
+    '''
+    **[Assurer la sécurité sociale intégrale pour tous](https://laec.fr/s26)**, en y incluant ce qui est aujourd’hui la part des mutuelles privées.
+    **Réduire le temps de travail** en [appliquant réellement les 35h](https://laec.fr/s28m2) et en [généralisant une 6è semaine de congés payés](https://laec.fr/s28m1)
+
+    La suppression de [nombreuses niches fiscales](https://laec.fr/s36m2) et [exonérations de cotisations](https://laec.fr/s18m2) permet par ailleurs d’abolir des privilèges indus et improductifs pour le pays et de financer une sécurité sociale intégrale.
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "urgence-sociale"
+}
