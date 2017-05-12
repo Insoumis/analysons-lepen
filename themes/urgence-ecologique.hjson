@@ -1,6 +1,6 @@
 {
   "title": "Urgence écologique",
-  "main": false,
+  "main": true,
   "image": "urgence-ecologique",
   "intro":
     '''

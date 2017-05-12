@@ -119,6 +119,10 @@ export default {
   height: 130px;
 }
 
+.alp-theme__header .alp-big-theme-wrapper {
+  flex: 1;
+}
+
 .alp-theme__header .alp-big-theme__shadow {
   cursor: default;
 }

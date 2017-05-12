@@ -269,7 +269,7 @@
   },
   "urgence-democratique": {
     "title": "Urgence démocratique",
-    "main": false,
+    "main": true,
     "image": "urgence-democratique",
     "intro": "  <strong> Que ce soit dans le domaine de la démocratie et de la représentation </strong>, dans celui des libertés fondamentales, le Front National a beaucoup de propositions à faire. Celles-ci, souvent floues, sont souvent à double tranchant, et menacent de fracturer la société encore plus qu&#39;elle ne l&#39;est. Quand au sujet de l&#39;égalité, que ce soit celle de tous les citoyens, ou plus spécifiquement de l&#39;égalité femme-homme, certains sujets sont passés sous silence par le parti d&#39;extrême-droite. Pour de bonnes raisons.",
     "subs": [
@@ -294,7 +294,7 @@
   },
   "urgence-ecologique": {
     "title": "Urgence écologique",
-    "main": false,
+    "main": true,
     "image": "urgence-ecologique",
     "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "subs": [
@@ -398,7 +398,7 @@
   },
   "urgence-sociale": {
     "title": "Urgence sociale",
-    "main": false,
+    "main": true,
     "image": "urgence-sociale",
     "intro": "Le Front National nous parle beaucoup de la précarité des travailleurs, des retraités, du chômage ; il accuse le gouvernement sortant et se proclame le parti du Peuple.<br>Parmis les 144 points de Mme Le Pen, certains abordent des thèmes importants de la situation sociale de la France. Nous voudrions revenir sur quelques-uns de ces points, car certaines positions défendues par les élus du Front National dans les séances parlementaires de ces dernières années sont en contradiction avec ce dont se réclame la « candidate du Peuple ». Par ailleurs, il est malheureusement peu question dans son programme des incroyables inégalités sociales de plus en plus évidentes aujourd&#39;hui.",
     "subs": [
