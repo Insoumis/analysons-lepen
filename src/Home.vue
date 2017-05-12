@@ -102,7 +102,8 @@ export default {
 }
 
 .alp-home__themes {
-  margin-top: 80px;
+  margin: 80px auto 30px auto;
+  max-width: 1200px;
   text-align: center;
   padding: 0 10px;
   overflow: auto;
