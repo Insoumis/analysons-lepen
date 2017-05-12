@@ -49,7 +49,6 @@ export default {
 <style>
 .alp-big-theme-wrapper {
   text-decoration: none;
-  flex: 1;
   overflow: hidden;
   position: relative;
 }
@@ -59,6 +58,9 @@ export default {
   height: 100%;
   min-height: 100%;
   transition: .1s transform ease-out;
+}
+
+.alp-big-theme:not(.alp-big-theme--no-hover) {
 }
 
 .alp-big-theme:not(.alp-big-theme--no-hover):hover {
@@ -89,7 +91,7 @@ export default {
   font-family: Montserrat, sans-serif;
   font-size: 20px;
   font-weight: 600;
-  height: 520px;
+  height: 300px;
   justify-content: center;
   text-transform: uppercase;
   transition: .1s background-color ease-out;

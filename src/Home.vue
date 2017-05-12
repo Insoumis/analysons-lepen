@@ -27,8 +27,6 @@
         :image="theme.slug">{{ theme.title }}</alp-big-theme>
     </div>
 
-    <alp-more-themes></alp-more-themes>
-
     <div class="alp-home__footer">
       Site à l'initiative de citoyens insoumis.
     </div>
@@ -40,13 +38,11 @@ import themes from './themes.json'
 
 import Button from './Button.vue'
 import BigTheme from './BigTheme.vue'
-import MoreThemes from './Home-MoreThemes.vue'
 
 export default {
   components: {
     'alp-button': Button,
-    'alp-big-theme': BigTheme,
-    'alp-more-themes': MoreThemes
+    'alp-big-theme': BigTheme
   },
 
   computed: {
@@ -106,9 +102,22 @@ export default {
 }
 
 .alp-home__themes {
-  display: flex;
   margin-top: 80px;
-  min-height: 520px;
+  text-align: center;
+  padding: 0 10px;
+  overflow: auto;
+  zoom: 1;
+}
+
+.alp-home__themes .alp-big-theme-wrapper {
+  float: left;
+  display: block;
+  margin-bottom: 10px;
+  width: calc(33.3333333% - (20px / 3));
+}
+
+.alp-home__themes .alp-big-theme-wrapper:not(:nth-child(3n)) {
+  margin-right: 10px;
 }
 
 .alp-home__footer {
