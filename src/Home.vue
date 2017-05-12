@@ -132,5 +132,13 @@ export default {
     flex-direction: column;
     height: 900px;
   }
+
+  .alp-home__themes .alp-big-theme-wrapper {
+    width: 100%;
+  }
+
+  .alp-home__themes .alp-big-theme-wrapper:not(:nth-child(3n)) {
+    margin-right: 0;
+  }
 }
 </style>
