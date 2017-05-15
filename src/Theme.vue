@@ -82,6 +82,7 @@ export default {
 
   computed: {
     theme() {
+      console.log(themes, this.$route.params.theme)
       return themes[this.$route.params.theme]
     },
 
