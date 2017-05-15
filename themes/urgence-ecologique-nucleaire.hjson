@@ -1,0 +1,33 @@
+{
+  "title": "Nucléaire",
+  "main": false,
+  "invisible": true,
+  "image": "urgence-ecologique",
+  "fn":
+    '''
+    → [134] Pour maintenir, moderniser et sécuriser la filière nucléaire française, engager le Grand Carénage, et garder le contrôle de l’État sur EDF, en lui redonnant une véritable mission de service public. Refuser la fermeture de la centrale de Fessenheim.
+    ''',
+  "fi":
+    '''
+    Le maintien du nucléaire pourrait coûter très cher : [Le coût de l'électricité nucléaire explose](http://www.capital.fr/enquetes/strategie/votre-electricite-bientot-hors-de-prix-a-cause-du-nucleaire-1125816), et surtout, le grand carénage, pour prolonger l’exploitation des réacteurs nucléaires, est estimé à 51 milliards par EDF, [et à 1,35 milliards par greenpeace](http://www.sortirdunucleaire.org/Greenpeace-fait-grimper-le-cout-du-grand-carenage). De plus, la France n'est pas à l'abri d'un accident. [Le coût d'un accident grave en France est estimé à plus de 400 milliards](https://www.lesechos.fr/06/02/2013/lesechos.fr/0202550379350_le-cout-d-un-accident-nucleaire-en-france---plus-de-400-milliards-d-euros.htm), sans parler du coût sanitaire et en vies humaines. [Un réacteur nucléaire de 900 MW (le minimum actuel en France) contient environ 900 fois la quantité de produits de fission radioactifs de la bombe d’Hiroshima](http://www.sortirdunucleaire.org/Pourquoi-il-faut-fermer-Fessenheim). A l'origine, la durée de vie prévue des 58 réacteurs français se situait entre 25 et 40 ans. [Leur âge moyen actuel est de 33 ans](http://www.connaissancedesenergies.org/fiche-pedagogique/parc-nucleaire-francais), et [greenpeace recommande de limiter leur durée de vie à 40 ans](http://www.lefigaro.fr/sciences/2014/02/25/01008-20140225ARTFIG00230-nucleaire-greenpeace-veut-limiter-a-40-ans-la-duree-de-vie-des-centrales.php). Il y a aussi régulièrement [des nouvelles inquiétantes](https://resistanceinventerre.wordpress.com/2017/03/16/oublions-fukushima/) .
+
+    L'uranium (principal combustible) utilisé dans les centrales françaises provient surtout de mines du Niger. Les travailleurs y sont [exposés en permanence à des radiations](https://www.bastamag.net/Comment-Areva-laisse-mourir-ses), et certains travaillent jusqu’à 12h par jour, 7 jours sur 7. La région connait des [niveaux très élevés de pollution qui ont fait fuir jusqu’à la faune sauvage](http://www.sortirdunucleaire.org/Les-mines-d-uranium-a-l-etranger-l). Les réserves d’uranium connues et [exploitables à prix raisonnable seront épuisées d’ici moins de 50 ans](http://www.sortirdunucleaire.org/Pourquoi-il-faut-fermer-Fessenheim), et les opérations d’extraction [émettent de plus en plus de CO2](http://www.sortirdunucleaire.org/Eoliennes-vent-de-polemique-p-24). Si les centrales elles mêmes n'émettent pas de gaz à effet de serre, c'est le cas lors de leur démantèlement, de l'extraction de l'uranium, ou de la gestion des déchets. Au contraire des [chiffres d'EDF](http://www.latribune.fr/entreprises-finance/industrie/energie-environnement/le-nucleaire-solution-miracle-pour-le-climat-pas-vraiment-517312.html), [une étude d'un chercheur](http://www.terraeco.net/Oui-le-nucleaire-emet-bien-du-CO2,16535.html), et [une autre de l'ADEME](http://23dd.fr/images/stories/Documents/PV/Ademe_Metro_Chapitre_2_Energie.pdf), parlent de 66g d'émission de CO2/kWh pour une centrale, soit une empreinte largement supérieure à celle des énergies renouvelables.
+
+    [Fessenheim, la plus vieille centrale du pays](https://fr.wikipedia.org/wiki/Liste_des_r%C3%A9acteurs_nucl%C3%A9aires_en_France#R.C3.A9acteurs_en_service,%20celle%20de%20Fessenheim) (1978), est située dans une région avec [d'importants risques sismiques](http://www.sortirdunucleaire.org/Pourquoi-il-faut-fermer-Fessenheim), face auxquels elle est très peu protégée, et il y a aussi un[ risque d'inondations en cas de rupture de la digue du grand canal d'Alsace](http://www.sortirdunucleaire.org/Pourquoi-il-faut-fermer-Fessenheim). Autant de raisons qui nous incitent à envisager une sortie du nucléaire, pour permettre le développement d'énergies renouvelables plus propres et moins dangereuses.
+    ''',
+  "aec":
+    '''
+    **[Plan d'investissement de 100 milliards](https://www.lafaqdelavenirencommun.com/article/13/23/fr/quel-est-le-co%C3%BBt-du-programme-l_avenir-en-commun-.htm)** financé par un emprunt auprès de la Banque Publique d'Investissements (BPI), dont 25 milliards sont prévus pour entamer la transition vers le 100% renouvelable.<br>
+    **[Sortir du nucléaire](https://laec.fr/s39m2)** :
+    -Fermer immédiatement Fessenheim en garantissant l'emploi des salariés et leur formation pour en faire un site pilote du démantèlement
+    -Abandonner l'opération du grand carénage visant à prolonger la vie des centrales nucléaires au-delà de quarante ans
+    -Abandonner les projets d'EPR (Flamanville et Hinkley Point) et d'enfouissement des déchets nucléaires à Bure
+    -Rendre publiques les données sur l'enfouissement des déchets nucléaires depuis soixante ans et informer sur les dangers sanitaires avérés et/ou éventuels<br>
+    **[Créer un pôle public de l'énergie](https://laec.fr/s39m3)** pour mener une politique cohérente, en renationalisant EDF et Engie (ex-GDF) en lien avec des coopératives locales de production et de consommation d'énergies renouvelables et en favorisant l'autoproduction et le partage des excédents.
+    ''',
+  "badge": {
+    "text": "Coûteux et dangereux",
+    "color": "red"
+  },
+  "parent": "urgence-ecologique"
+}
