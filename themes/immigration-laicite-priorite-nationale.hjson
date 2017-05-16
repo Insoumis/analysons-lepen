@@ -1,5 +1,5 @@
 {
-  "title": "Priorité Nationale",
+  "title": "« Priorité Nationale »",
   "main": false,
   "invisible": true,
   "image": "immigration-laicite",
@@ -30,7 +30,7 @@
       **[Augmenter le nombre de classes](https://avenirencommun.fr/le-livret-migrations/)** et les moyens alloués pour les enfants nouvellement arrivés en France.
     ''',
   "badge": {
-    "text": "Dangereux",
+    "text": "Démagogique et dangereux",
     "color": "red"
   },
   "parent": "immigration-laicite"
