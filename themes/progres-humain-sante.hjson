@@ -35,7 +35,7 @@
     ''',
   "badge": {
     "text": "Insuffisant",
-    "color": "red"
+    "color": "orange"
   },
   "parent": "progres-humain"
 }
