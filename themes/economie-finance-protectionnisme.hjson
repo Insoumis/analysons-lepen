@@ -2,7 +2,7 @@
   "title": "Protectionnisme",
   "main": false,
   "invisible": true,
-  "image": "urgence-sociale",
+  "image": "economie-finance",
   "fn":
     '''
     → [37] Priorité nationale par les commandes publiques
@@ -25,5 +25,5 @@
     "text": "Mensonger",
     "color": "red"
   },
-  "parent": "urgence-sociale"
+  "parent": "economie-finance"
 }

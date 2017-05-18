@@ -1,0 +1,20 @@
+{
+  "title": "Pouvoir d'achat",
+  "main": false,
+  "invisible": true,
+  "image": "urgence-sociale",
+  "fn":
+    '''
+    ''',
+  "fi":
+    '''
+    ''',
+  "aec":
+    '''
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "urgence-sociale"
+}

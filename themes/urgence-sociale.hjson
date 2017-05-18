@@ -8,8 +8,9 @@
     Parmis les 144 points de Mme Le Pen, certains abordent des thèmes importants de la situation sociale de la France. Nous voudrions revenir sur quelques-uns de ces points, car certaines positions défendues par les élus du Front National dans les séances parlementaires de ces dernières années sont en contradiction avec ce dont se réclame la « candidate du Peuple ». Par ailleurs, il est malheureusement peu question dans son programme des incroyables inégalités sociales de plus en plus évidentes aujourd'hui.
     ''',
   "subs": [
-    { "title": "Sécurité Sociale", "link": "urgence-sociale-securite-sociale" },
-    { "title": "Fiscalité", "link": "urgence-sociale-fiscalite" },
-    { "title": "Protectionnisme", "link": "urgence-sociale-protectionnisme"}
+    { "title": "Travail/Chômage/Précarité", "link": "urgence-sociale-travail" },
+    { "title": "Pouvoir d'achat", "link": "urgence-sociale-pouvoir-achat" },
+    { "title": "Logement", "link": "urgence-sociale-logement" },
+    { "title": "Retraites", "link": "urgence-sociale-retraites" }
   ]
 }

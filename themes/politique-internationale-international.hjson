@@ -1,0 +1,20 @@
+{
+  "title": "International",
+  "main": false,
+  "invisible": true,
+  "image": "politique-internationale",
+  "fn":
+    '''
+    ''',
+  "fi":
+    '''
+    ''',
+  "aec":
+    '''
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "politique-internationale"
+}

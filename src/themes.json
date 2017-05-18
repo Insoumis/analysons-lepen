@@ -1,17 +1,160 @@
 {
+  "economie-finance-budget": {
+    "title": "Financement / Budget",
+    "main": false,
+    "invisible": true,
+    "image": "economie-finance",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "economie-finance",
+    "slug": "economie-finance-budget",
+    "relatives": [
+      {
+        "title": "Financement / Budget",
+        "link": "economie-finance-budget"
+      },
+      {
+        "title": "Economie Générale",
+        "link": "economie-finance-economie"
+      },
+      {
+        "title": "Finance",
+        "link": "economie-finance-finance"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "economie-finance-protectionnisme"
+      }
+    ]
+  },
+  "economie-finance-economie": {
+    "title": "Economie Générale",
+    "main": false,
+    "invisible": true,
+    "image": "economie-finance",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "economie-finance",
+    "slug": "economie-finance-economie",
+    "relatives": [
+      {
+        "title": "Financement / Budget",
+        "link": "economie-finance-budget"
+      },
+      {
+        "title": "Economie Générale",
+        "link": "economie-finance-economie"
+      },
+      {
+        "title": "Finance",
+        "link": "economie-finance-finance"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "economie-finance-protectionnisme"
+      }
+    ]
+  },
+  "economie-finance-finance": {
+    "title": "Finance",
+    "main": false,
+    "invisible": true,
+    "image": "economie-finance",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "economie-finance",
+    "slug": "economie-finance-finance",
+    "relatives": [
+      {
+        "title": "Financement / Budget",
+        "link": "economie-finance-budget"
+      },
+      {
+        "title": "Economie Générale",
+        "link": "economie-finance-economie"
+      },
+      {
+        "title": "Finance",
+        "link": "economie-finance-finance"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "economie-finance-protectionnisme"
+      }
+    ]
+  },
+  "economie-finance-protectionnisme": {
+    "title": "Protectionnisme",
+    "main": false,
+    "invisible": true,
+    "image": "economie-finance",
+    "fn": "→ [37] Priorité nationale par les commandes publiques<br>→ [125] Commande publique pour l’agriculture et la pêche française<br>→ [130] Promotion des exportations agricoles",
+    "fi": "Les logiques écologiques et sociales n’entrent à aucun en compte dans le protectionnisme du Front national. Les entreprises et agriculteurs françaises seront favorisés du simple fait qu’ils sont français, peu importe qu’ils polluent ou maltraitent leurs salariés. L’exemple de l’agriculture est tellement caricatural que l’exigence écologique — vitale pour ce qui est de notre nourriture — est promise à être jetée aux orties au nom des exportations, qui reposent essentiellement sur les grosses exploitations polluantes, qui seront encouragées.</p>\n<p>De plus, aucune marge de manœuvre n’est prévue pour travailler à la coopération internationale en matière sociale ou environnementale, puisque les produits étrangers sont taxés sans distinction. Il s’agit bien de défendre le capitalisme français dans la compétition mondiale et non pas de lutter contre ses ravages, d’où qu’ils viennent.",
+    "aec": "<strong><a href=\"https://laec.fr/s17\">Instaurer un protectionnisme solidaire</a></strong> pour produire en France<br><strong><a href=\"https://laec.fr/s17m2\">Taxer les produits des pays aux droits sociaux limités</a></strong> : il n&#39;est pas normal qu&#39;une marchandise fabriquée via du travail des enfants ou des ouvriers sans protection sociale (et donc moins chers) fassent concurrence aux produits réalisés dans des conditions dignes<br><strong><a href=\"https://laec.fr/s43m3\">Passer au 100% bio et local</a></strong> pour favoriser les circuits court et l&#39;agriculture saine",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "economie-finance",
+    "slug": "economie-finance-protectionnisme",
+    "relatives": [
+      {
+        "title": "Financement / Budget",
+        "link": "economie-finance-budget"
+      },
+      {
+        "title": "Economie Générale",
+        "link": "economie-finance-economie"
+      },
+      {
+        "title": "Finance",
+        "link": "economie-finance-finance"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "economie-finance-protectionnisme"
+      }
+    ]
+  },
   "economie-finance": {
     "title": "Économie, Finance",
     "main": true,
     "slug": "economie-finance",
     "image": "economie-finance",
     "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
-    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    "aec": "Proposal",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    }
+    "subs": [
+      {
+        "title": "Financement / Budget",
+        "link": "economie-finance-budget"
+      },
+      {
+        "title": "Economie Générale",
+        "link": "economie-finance-economie"
+      },
+      {
+        "title": "Finance",
+        "link": "economie-finance-finance"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "economie-finance-protectionnisme"
+      }
+    ]
   },
   "immigration-laicite-immigration": {
     "title": "Immigration",
@@ -33,7 +176,7 @@
         "link": "immigration-laicite-immigration"
       },
       {
-        "title": "Priorité Nationale",
+        "title": "« Priorité Nationale »",
         "link": "immigration-laicite-priorite-nationale"
       },
       {
@@ -62,7 +205,7 @@
         "link": "immigration-laicite-immigration"
       },
       {
-        "title": "Priorité Nationale",
+        "title": "« Priorité Nationale »",
         "link": "immigration-laicite-priorite-nationale"
       },
       {
@@ -91,7 +234,7 @@
         "link": "immigration-laicite-immigration"
       },
       {
-        "title": "Priorité Nationale",
+        "title": "« Priorité Nationale »",
         "link": "immigration-laicite-priorite-nationale"
       },
       {
@@ -111,7 +254,7 @@
         "link": "immigration-laicite-immigration"
       },
       {
-        "title": "Priorité Nationale",
+        "title": "« Priorité Nationale »",
         "link": "immigration-laicite-priorite-nationale"
       },
       {
@@ -121,19 +264,386 @@
     ],
     "slug": "immigration-laicite"
   },
-  "securite-terrorisme": {
-    "title": "Sécurité, Terrorisme",
-    "main": true,
-    "image": "securite-terrorisme",
-    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "fn": "→ Utiliser le référendum d’initiative populaire<br>→ Rester dans la 5e République<br>→ Etc.<br>→ Etc.<br>→ Etc.<br>→ Etc.",
-    "fi": "<strong>Explication FI</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    "aec": "Proposal",
+  "politique-internationale-europe": {
+    "title": "Europe",
+    "main": false,
+    "invisible": true,
+    "image": "politique-internationale",
+    "fn": "",
+    "fi": "",
+    "aec": "",
     "badge": {
       "text": "Mensonger",
       "color": "red"
     },
-    "slug": "securite-terrorisme"
+    "parent": "politique-internationale",
+    "slug": "politique-internationale-europe",
+    "relatives": [
+      {
+        "title": "Europe",
+        "link": "politique-internationale-europe"
+      },
+      {
+        "title": "International",
+        "link": "politique-internationale-international"
+      }
+    ]
+  },
+  "politique-internationale-international": {
+    "title": "International",
+    "main": false,
+    "invisible": true,
+    "image": "politique-internationale",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "politique-internationale",
+    "slug": "politique-internationale-international",
+    "relatives": [
+      {
+        "title": "Europe",
+        "link": "politique-internationale-europe"
+      },
+      {
+        "title": "International",
+        "link": "politique-internationale-international"
+      }
+    ]
+  },
+  "politique-internationale": {
+    "title": "Politique Internationale",
+    "main": true,
+    "slug": "politique-internationale",
+    "image": "politique-internationale",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "subs": [
+      {
+        "title": "Europe",
+        "link": "politique-internationale-europe"
+      },
+      {
+        "title": "International",
+        "link": "politique-internationale-international"
+      }
+    ]
+  },
+  "progres-humain-culture": {
+    "title": "Culture",
+    "main": false,
+    "invisible": true,
+    "image": "progres-humain",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "progres-humain",
+    "slug": "progres-humain-culture",
+    "relatives": [
+      {
+        "title": "Santé",
+        "link": "progres-humain-sante"
+      },
+      {
+        "title": "Éducation",
+        "link": "progres-humain-education"
+      },
+      {
+        "title": "Culture",
+        "link": "progres-humain-culture"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "progres-humain-protectionnisme"
+      }
+    ]
+  },
+  "progres-humain-education": {
+    "title": "Éducation",
+    "main": false,
+    "invisible": true,
+    "image": "progres-humain",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "progres-humain",
+    "slug": "progres-humain-education",
+    "relatives": [
+      {
+        "title": "Santé",
+        "link": "progres-humain-sante"
+      },
+      {
+        "title": "Éducation",
+        "link": "progres-humain-education"
+      },
+      {
+        "title": "Culture",
+        "link": "progres-humain-culture"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "progres-humain-protectionnisme"
+      }
+    ]
+  },
+  "progres-humain-protectionnisme": {
+    "title": "Protectionnisme",
+    "main": false,
+    "invisible": true,
+    "image": "progres-humain",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "progres-humain",
+    "slug": "progres-humain-protectionnisme",
+    "relatives": [
+      {
+        "title": "Santé",
+        "link": "progres-humain-sante"
+      },
+      {
+        "title": "Éducation",
+        "link": "progres-humain-education"
+      },
+      {
+        "title": "Culture",
+        "link": "progres-humain-culture"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "progres-humain-protectionnisme"
+      }
+    ]
+  },
+  "progres-humain-sante": {
+    "title": "Santé",
+    "main": false,
+    "invisible": true,
+    "image": "progres-humain",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "progres-humain",
+    "slug": "progres-humain-sante",
+    "relatives": [
+      {
+        "title": "Santé",
+        "link": "progres-humain-sante"
+      },
+      {
+        "title": "Éducation",
+        "link": "progres-humain-education"
+      },
+      {
+        "title": "Culture",
+        "link": "progres-humain-culture"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "progres-humain-protectionnisme"
+      }
+    ]
+  },
+  "progres-humain": {
+    "title": "Progrès humain",
+    "main": true,
+    "slug": "progres-humain",
+    "image": "progres-humain",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "subs": [
+      {
+        "title": "Santé",
+        "link": "progres-humain-sante"
+      },
+      {
+        "title": "Éducation",
+        "link": "progres-humain-education"
+      },
+      {
+        "title": "Culture",
+        "link": "progres-humain-culture"
+      },
+      {
+        "title": "Protectionnisme",
+        "link": "progres-humain-protectionnisme"
+      }
+    ]
+  },
+  "securite-justice-defense-defense": {
+    "title": "Défense",
+    "main": false,
+    "invisible": true,
+    "image": "securite-justice-defense",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "securite-justice-defense",
+    "slug": "securite-justice-defense-defense",
+    "relatives": [
+      {
+        "title": "Sécurité",
+        "link": "securite-justice-defense-securite"
+      },
+      {
+        "title": "Justice",
+        "link": "securite-justice-defense-justice"
+      },
+      {
+        "title": "Terrorisme",
+        "link": "securite-justice-defense-terrorisme"
+      },
+      {
+        "title": "Défense",
+        "link": "securite-justice-defense-defense"
+      }
+    ]
+  },
+  "securite-justice-defense-justice": {
+    "title": "Justice",
+    "main": false,
+    "invisible": true,
+    "image": "securite-justice-defense",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "securite-justice-defense",
+    "slug": "securite-justice-defense-justice",
+    "relatives": [
+      {
+        "title": "Sécurité",
+        "link": "securite-justice-defense-securite"
+      },
+      {
+        "title": "Justice",
+        "link": "securite-justice-defense-justice"
+      },
+      {
+        "title": "Terrorisme",
+        "link": "securite-justice-defense-terrorisme"
+      },
+      {
+        "title": "Défense",
+        "link": "securite-justice-defense-defense"
+      }
+    ]
+  },
+  "securite-justice-defense-securite": {
+    "title": "Sécurité",
+    "main": false,
+    "invisible": true,
+    "image": "securite-justice-defense",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "securite-justice-defense",
+    "slug": "securite-justice-defense-securite",
+    "relatives": [
+      {
+        "title": "Sécurité",
+        "link": "securite-justice-defense-securite"
+      },
+      {
+        "title": "Justice",
+        "link": "securite-justice-defense-justice"
+      },
+      {
+        "title": "Terrorisme",
+        "link": "securite-justice-defense-terrorisme"
+      },
+      {
+        "title": "Défense",
+        "link": "securite-justice-defense-defense"
+      }
+    ]
+  },
+  "securite-justice-defense-terrorisme": {
+    "title": "Terrorisme",
+    "main": false,
+    "invisible": true,
+    "image": "securite-justice-defense",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "securite-justice-defense",
+    "slug": "securite-justice-defense-terrorisme",
+    "relatives": [
+      {
+        "title": "Sécurité",
+        "link": "securite-justice-defense-securite"
+      },
+      {
+        "title": "Justice",
+        "link": "securite-justice-defense-justice"
+      },
+      {
+        "title": "Terrorisme",
+        "link": "securite-justice-defense-terrorisme"
+      },
+      {
+        "title": "Défense",
+        "link": "securite-justice-defense-defense"
+      }
+    ]
+  },
+  "securite-justice-defense": {
+    "title": "Sécurité / Justice / Défense",
+    "main": true,
+    "image": "securite-justice-defense",
+    "intro": "<strong>Explication sujet.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "subs": [
+      {
+        "title": "Sécurité",
+        "link": "securite-justice-defense-securite"
+      },
+      {
+        "title": "Justice",
+        "link": "securite-justice-defense-justice"
+      },
+      {
+        "title": "Terrorisme",
+        "link": "securite-justice-defense-terrorisme"
+      },
+      {
+        "title": "Défense",
+        "link": "securite-justice-defense-defense"
+      }
+    ],
+    "slug": "securite-justice-defense"
   },
   "urgence-democratique-droit-education": {
     "title": "Droit à l'éducation",
@@ -449,90 +959,135 @@
     ],
     "slug": "urgence-ecologique"
   },
-  "urgence-sociale-fiscalite": {
-    "title": "Fiscalité",
+  "urgence-sociale-logement": {
+    "title": "Logement",
     "main": false,
     "invisible": true,
     "image": "urgence-sociale",
-    "fn": "→ [56] Augmentation des plafonds de donations défiscalisés aux enfants<br>→ [47] Défiscalisation des ventes de parts sociales et actions dans les PME<br>→ [75] Baisse de 10 % des trois premières tranches d’impôt<br>→ [78] Une taxe contre l’évasion fiscale",
-    "fi": "Les baisses d’impôts sont annoncées <strong>sans logique d’ensemble</strong> de répartition de l’effort. En particulier les impôts des plus riches n’augmenteront pas, et même baisseront puisque ceux-ci pourront transmettre du capital au sein de la famille, ou vendre des parts d’entreprises sans contribuer à l’effort collectif.</p>\n<p>L’idée d’une taxe contre l’évasion fiscale a quelque chose de risible, si l’on était pas certain que le Front National ne l’avançait que pour l’annonce, sans aucune intention de lutter contre la fraude fiscale, dont ses membres son coutumiers.",
-    "aec": "<strong><a href=\"https://laec.fr/s37m1\">Créer un impôt universel</a></strong> qui luttera de manière concrète contre l&#39;évasion fiscale : vivre à l’étranger n’empêche pas de payer la différence entre les impôts du pays d’accueil et celui qui aurait été payé en France.<br><strong><a href=\"https://laec.fr/s36m1\">Lisser sur 14 tranches</a></strong> l&#39;impôt sur le revenu pour répartir l&#39;effort. La plus haute tranche sera à 90%.<br><strong><a href=\"https://laec.fr/s19m3\">Instaurer une taxe sur les transactions financières</a></strong>",
+    "fn": "",
+    "fi": "",
+    "aec": "",
     "badge": {
       "text": "Mensonger",
       "color": "red"
     },
     "parent": "urgence-sociale",
-    "slug": "urgence-sociale-fiscalite",
+    "slug": "urgence-sociale-logement",
     "relatives": [
       {
-        "title": "Sécurité Sociale",
-        "link": "urgence-sociale-securite-sociale"
+        "title": "Travail/Chômage/Précarité",
+        "link": "urgence-sociale-travail"
       },
       {
-        "title": "Fiscalité",
-        "link": "urgence-sociale-fiscalite"
+        "title": "Pouvoir d'achat",
+        "link": "urgence-sociale-pouvoir-achat"
       },
       {
-        "title": "Protectionnisme",
-        "link": "urgence-sociale-protectionnisme"
+        "title": "Logement",
+        "link": "urgence-sociale-logement"
+      },
+      {
+        "title": "Retraites",
+        "link": "urgence-sociale-retraites"
       }
     ]
   },
-  "urgence-sociale-protectionnisme": {
-    "title": "Protectionnisme",
+  "urgence-sociale-pouvoir-achat": {
+    "title": "Pouvoir d'achat",
     "main": false,
     "invisible": true,
     "image": "urgence-sociale",
-    "fn": "→ [37] Priorité nationale par les commandes publiques<br>→ [125] Commande publique pour l’agriculture et la pêche française<br>→ [130] Promotion des exportations agricoles",
-    "fi": "Les logiques écologiques et sociales n’entrent à aucun en compte dans le protectionnisme du Front national. Les entreprises et agriculteurs françaises seront favorisés du simple fait qu’ils sont français, peu importe qu’ils polluent ou maltraitent leurs salariés. L’exemple de l’agriculture est tellement caricatural que l’exigence écologique — vitale pour ce qui est de notre nourriture — est promise à être jetée aux orties au nom des exportations, qui reposent essentiellement sur les grosses exploitations polluantes, qui seront encouragées.</p>\n<p>De plus, aucune marge de manœuvre n’est prévue pour travailler à la coopération internationale en matière sociale ou environnementale, puisque les produits étrangers sont taxés sans distinction. Il s’agit bien de défendre le capitalisme français dans la compétition mondiale et non pas de lutter contre ses ravages, d’où qu’ils viennent.",
-    "aec": "<strong><a href=\"https://laec.fr/s17\">Instaurer un protectionnisme solidaire</a></strong> pour produire en France<br><strong><a href=\"https://laec.fr/s17m2\">Taxer les produits des pays aux droits sociaux limités</a></strong> : il n&#39;est pas normal qu&#39;une marchandise fabriquée via du travail des enfants ou des ouvriers sans protection sociale (et donc moins chers) fassent concurrence aux produits réalisés dans des conditions dignes<br><strong><a href=\"https://laec.fr/s43m3\">Passer au 100% bio et local</a></strong> pour favoriser les circuits court et l&#39;agriculture saine",
+    "fn": "",
+    "fi": "",
+    "aec": "",
     "badge": {
       "text": "Mensonger",
       "color": "red"
     },
     "parent": "urgence-sociale",
-    "slug": "urgence-sociale-protectionnisme",
+    "slug": "urgence-sociale-pouvoir-achat",
     "relatives": [
       {
-        "title": "Sécurité Sociale",
-        "link": "urgence-sociale-securite-sociale"
+        "title": "Travail/Chômage/Précarité",
+        "link": "urgence-sociale-travail"
       },
       {
-        "title": "Fiscalité",
-        "link": "urgence-sociale-fiscalite"
+        "title": "Pouvoir d'achat",
+        "link": "urgence-sociale-pouvoir-achat"
       },
       {
-        "title": "Protectionnisme",
-        "link": "urgence-sociale-protectionnisme"
+        "title": "Logement",
+        "link": "urgence-sociale-logement"
+      },
+      {
+        "title": "Retraites",
+        "link": "urgence-sociale-retraites"
       }
     ]
   },
-  "urgence-sociale-securite-sociale": {
-    "title": "Sécurité Sociale",
+  "urgence-sociale-retraites": {
+    "title": "Retraites",
     "main": false,
     "invisible": true,
     "image": "urgence-sociale",
-    "fn": "→ [82] Exonération de cotisations sociales pour « premier emploi »<br>→ [46] Exonération de cotisations et maintien du CICE pour les TPE-PME<br>→ [64] Défiscalisation des heures supplémentaires<br>→ [86] Deux jours de carence pour les arrêts maladie<br>→ [65] « Simplification » de la sécurité sociale",
-    "fi": "Loin de pérenniser la sécurité sociale, le Front National sabote son financement en prolongeant les dispositifs d’allègement de « charges » dont l’effort sera mécaniquement reporté sur l’impôt. Or, ces derniers sont annoncés stables voire à la a baisse, la « simplification » de la sécurité sociale se fera donc par coupes dans nos services publics.<br>De plus, en cessant de rembourser les arrêts maladie court, c’est-à-dire la grande majorité des arrêts, ceux-ci ne seront jamais pris, et on pousse des gens malades à s’user la santé donc à tomber encore plus mal sous prétexte d’économies publiques.",
-    "aec": "<strong><a href=\"https://laec.fr/s26\">Assurer la sécurité sociale intégrale pour tous</a></strong>, en y incluant ce qui est aujourd’hui la part des mutuelles privées.<br><strong>Réduire le temps de travail</strong> en <a href=\"https://laec.fr/s28m2\">appliquant réellement les 35h</a> et en <a href=\"https://laec.fr/s28m1\">généralisant une 6è semaine de congés payés</a></p>\n<p>La suppression de <a href=\"https://laec.fr/s36m2\">nombreuses niches fiscales</a> et <a href=\"https://laec.fr/s18m2\">exonérations de cotisations</a> permet par ailleurs d’abolir des privilèges indus et improductifs pour le pays et de financer une sécurité sociale intégrale.",
+    "fn": "",
+    "fi": "",
+    "aec": "",
     "badge": {
       "text": "Mensonger",
       "color": "red"
     },
     "parent": "urgence-sociale",
-    "slug": "urgence-sociale-securite-sociale",
+    "slug": "urgence-sociale-retraites",
     "relatives": [
       {
-        "title": "Sécurité Sociale",
-        "link": "urgence-sociale-securite-sociale"
+        "title": "Travail/Chômage/Précarité",
+        "link": "urgence-sociale-travail"
       },
       {
-        "title": "Fiscalité",
-        "link": "urgence-sociale-fiscalite"
+        "title": "Pouvoir d'achat",
+        "link": "urgence-sociale-pouvoir-achat"
       },
       {
-        "title": "Protectionnisme",
-        "link": "urgence-sociale-protectionnisme"
+        "title": "Logement",
+        "link": "urgence-sociale-logement"
+      },
+      {
+        "title": "Retraites",
+        "link": "urgence-sociale-retraites"
+      }
+    ]
+  },
+  "urgence-sociale-travail": {
+    "title": "Travail/Chômage/Précarité",
+    "main": false,
+    "invisible": true,
+    "image": "urgence-sociale",
+    "fn": "",
+    "fi": "",
+    "aec": "",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-sociale",
+    "slug": "urgence-sociale-travail",
+    "relatives": [
+      {
+        "title": "Travail/Chômage/Précarité",
+        "link": "urgence-sociale-travail"
+      },
+      {
+        "title": "Pouvoir d'achat",
+        "link": "urgence-sociale-pouvoir-achat"
+      },
+      {
+        "title": "Logement",
+        "link": "urgence-sociale-logement"
+      },
+      {
+        "title": "Retraites",
+        "link": "urgence-sociale-retraites"
       }
     ]
   },
@@ -543,16 +1098,20 @@
     "intro": "Le Front National nous parle beaucoup de la précarité des travailleurs, des retraités, du chômage ; il accuse le gouvernement sortant et se proclame le parti du Peuple.<br>Parmis les 144 points de Mme Le Pen, certains abordent des thèmes importants de la situation sociale de la France. Nous voudrions revenir sur quelques-uns de ces points, car certaines positions défendues par les élus du Front National dans les séances parlementaires de ces dernières années sont en contradiction avec ce dont se réclame la « candidate du Peuple ». Par ailleurs, il est malheureusement peu question dans son programme des incroyables inégalités sociales de plus en plus évidentes aujourd&#39;hui.",
     "subs": [
       {
-        "title": "Sécurité Sociale",
-        "link": "urgence-sociale-securite-sociale"
+        "title": "Travail/Chômage/Précarité",
+        "link": "urgence-sociale-travail"
       },
       {
-        "title": "Fiscalité",
-        "link": "urgence-sociale-fiscalite"
+        "title": "Pouvoir d'achat",
+        "link": "urgence-sociale-pouvoir-achat"
       },
       {
-        "title": "Protectionnisme",
-        "link": "urgence-sociale-protectionnisme"
+        "title": "Logement",
+        "link": "urgence-sociale-logement"
+      },
+      {
+        "title": "Retraites",
+        "link": "urgence-sociale-retraites"
       }
     ],
     "slug": "urgence-sociale"
