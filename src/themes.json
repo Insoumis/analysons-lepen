@@ -357,10 +357,6 @@
       {
         "title": "Culture",
         "link": "progres-humain-culture"
-      },
-      {
-        "title": "Protectionnisme",
-        "link": "progres-humain-protectionnisme"
       }
     ]
   },
@@ -390,43 +386,6 @@
       {
         "title": "Culture",
         "link": "progres-humain-culture"
-      },
-      {
-        "title": "Protectionnisme",
-        "link": "progres-humain-protectionnisme"
-      }
-    ]
-  },
-  "progres-humain-protectionnisme": {
-    "title": "Protectionnisme",
-    "main": false,
-    "invisible": true,
-    "image": "progres-humain",
-    "fn": "",
-    "fi": "",
-    "aec": "",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "progres-humain",
-    "slug": "progres-humain-protectionnisme",
-    "relatives": [
-      {
-        "title": "Santé",
-        "link": "progres-humain-sante"
-      },
-      {
-        "title": "Éducation",
-        "link": "progres-humain-education"
-      },
-      {
-        "title": "Culture",
-        "link": "progres-humain-culture"
-      },
-      {
-        "title": "Protectionnisme",
-        "link": "progres-humain-protectionnisme"
       }
     ]
   },
@@ -456,10 +415,6 @@
       {
         "title": "Culture",
         "link": "progres-humain-culture"
-      },
-      {
-        "title": "Protectionnisme",
-        "link": "progres-humain-protectionnisme"
       }
     ]
   },
@@ -481,10 +436,6 @@
       {
         "title": "Culture",
         "link": "progres-humain-culture"
-      },
-      {
-        "title": "Protectionnisme",
-        "link": "progres-humain-protectionnisme"
       }
     ]
   },
