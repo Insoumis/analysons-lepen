@@ -10,7 +10,6 @@
   "subs": [
     { "title": "Santé", "link": "progres-humain-sante" },
     { "title": "Éducation", "link": "progres-humain-education" },
-    { "title": "Culture", "link": "progres-humain-culture" },
-    { "title": "Protectionnisme", "link": "progres-humain-protectionnisme" }
+    { "title": "Culture", "link": "progres-humain-culture" }
   ]
 }
