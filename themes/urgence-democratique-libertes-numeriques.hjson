@@ -16,13 +16,12 @@
     ''',
   "aec":
     '''
-      Nous pensons que les données personnelles n'ont pas de valeur et doivent [être protégées](https://avenirencommun.fr/le-livret-numerique/), qu'elles soient en France ou non. Mais ça ne doit pas s'arrêter là.
-
-      **L’évaluation de l’efficacité des solutions** techniques utilisées par les services de renseignement. Les mesures inefficaces, disproportionnées ou contre-productives seront abrogées.
-      **La remise en question des pratiques et dispositifs de surveillance** de masse sur Internet et les réseaux téléphoniques.
-      **L’interdiction du fichage** généralisé et la suppression du fichier des «gens honnêtes».
-      **La protection des données personnelles** de nos citoyens lorsqu'elles sont hébergées à l'étranger, en renégociant notamment l'accord Privacy Shield (régulation du transfert de données personnelles de l'UE vers les États-Unis.
-      **Obliger à demander un consentement explicite** pour la revente des données personnelles à un tiers.
+      Nous pensons que les données personnelles n'ont pas de valeur et doivent [être protégées](https://avenirencommun.fr/le-livret-numerique/), qu'elles soient en France ou non. Mais ça ne doit pas s'arrêter là.<br/>
+      **L’évaluation de l’efficacité des solutions** techniques utilisées par les services de renseignement. Les mesures inefficaces, disproportionnées ou contre-productives seront abrogées.<br/>
+      **La remise en question des pratiques et dispositifs de surveillance** de masse sur Internet et les réseaux téléphoniques.<br/>
+      **L’interdiction du fichage** généralisé et la suppression du fichier des «gens honnêtes».<br/>
+      **La protection des données personnelles** de nos citoyens lorsqu'elles sont hébergées à l'étranger, en renégociant notamment l'accord Privacy Shield (régulation du transfert de données personnelles de l'UE vers les États-Unis.<br/>
+      **Obliger à demander un consentement explicite** pour la revente des données personnelles à un tiers.<br/>
       **Obliger les acteurs du web** à informer l'utilisateur s'il fait l'objet d'un profilage et lui permettre de le refuser.
     ''',
   "badge": {
