@@ -55,6 +55,7 @@ export default {
 
 .alp-big-theme {
   background-size: cover;
+  background-position: center;
   height: 100%;
   min-height: 100%;
   transition: .1s transform ease-out;

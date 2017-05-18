@@ -82,12 +82,10 @@ export default {
 
   computed: {
     theme() {
-      console.log(themes, this.$route.params.theme)
       return themes[this.$route.params.theme]
     },
 
     intro() {
-      console.log(this.theme.parent)
       return this.theme.parent ? themes[this.theme.parent].intro : this.theme.intro
     },
 

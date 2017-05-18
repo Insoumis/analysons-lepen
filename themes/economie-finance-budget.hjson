@@ -1,0 +1,20 @@
+{
+  "title": "Financement / Budget",
+  "main": false,
+  "invisible": true,
+  "image": "economie-finance",
+  "fn":
+    '''
+    ''',
+  "fi":
+    '''
+    ''',
+  "aec":
+    '''
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "economie-finance"
+}

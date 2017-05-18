@@ -1,0 +1,20 @@
+{
+  "title": "Travail/Chômage/Précarité",
+  "main": false,
+  "invisible": true,
+  "image": "urgence-sociale",
+  "fn":
+    '''
+    ''',
+  "fi":
+    '''
+    ''',
+  "aec":
+    '''
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "urgence-sociale"
+}

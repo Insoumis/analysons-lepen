@@ -1,0 +1,20 @@
+{
+  "title": "Éducation",
+  "main": false,
+  "invisible": true,
+  "image": "progres-humain",
+  "fn":
+    '''
+    ''',
+  "fi":
+    '''
+    ''',
+  "aec":
+    '''
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "progres-humain"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Justice",
+  "main": false,
+  "invisible": true,
+  "image": "securite-justice-defense",
+  "fn":
+    '''
+    ''',
+  "fi":
+    '''
+    ''',
+  "aec":
+    '''
+    ''',
+  "badge": {
+    "text": "Mensonger",
+    "color": "red"
+  },
+  "parent": "securite-justice-defense"
+}

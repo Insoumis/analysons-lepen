@@ -13,5 +13,6 @@ const routes = [
 
 export default new VueRouter({
   mode: 'history',
+  scrollBehavior: (to, from, savedPosition) => (savedPosition) ? savedPosition : { x: 0, y: 0 },
   routes
 })
