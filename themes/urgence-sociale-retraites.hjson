@@ -21,10 +21,18 @@ Pour le FN, la politique familiale relève comme d'autres domaines de la [« pr
     ''',
   "aec":
     '''
+**[Restaurer le droit à la retraite à 60 ans](https://laec.fr/s31m1)** à taux plein, ramener la durée de cotisation pour une retraite complète à quarante ans.
+**[Revaloriser les pensions de retraite](https://laec.fr/s31m2)** au niveau du smic pour une carrière complète et porter le minimum vieillesse au niveau du seuil de pauvreté.
+Verser une **[allocation familiale dès le premier enfant](https://laec.fr/s72m1)**.
+**[Développer un réseau public de maisons de retraite](https://laec.fr/s71m3)** avec des tarifs harmonisés et accessibles, créer 10 000 places par an en EHPAD publics pendant cinq ans.
+**[Assurer le financement durable des régimes de retraites solidaires](https://laec.fr/s31m3)**, intergénérationnelles et par répartition, par la mise en contribution des revenus financiers des entreprises, par l'augmentation du nombre de cotisants et de l'assiette des cotisations (créations d'emplois, hausse des salaires, recul de la précarité, hausse de l'activité des femmes, etc.) et de leur taux, la fin des exonérations fiscales pour les régimes de retraite par capitalisation.
+**[Réduire le reste à charge de 500 euros par mois](https://laec.fr/s71m1)** pour les personnes en établissement et augmenter de 50 % le montant de l'APA (aujourd'hui de 700 euros) pour les personnes restant à domicile, pour faire face en urgence aux frais engagés par les personnes concernées.
+Créer un **[service public de la petite enfance et ouvrir 500 000 places en crèche](https://laec.fr/s72m2)** et modes de garde adaptés dans les cinq ans.
+**[Favoriser](https://laec.fr/s32m4)** des congés parentaux de durée identique entre les parents.
     ''',
   "badge": {
-    "text": "Mensonger",
-    "color": "red"
+    "text": "Méfiance",
+    "color": "orange"
   },
   "parent": "urgence-sociale"
 }
