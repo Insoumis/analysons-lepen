@@ -269,9 +269,9 @@
     "main": false,
     "invisible": true,
     "image": "politique-internationale",
-    "fn": "En cours de rédaction",
-    "fi": "En cours de rédaction",
-    "aec": "En cours de rédaction",
+    "fn": "",
+    "fi": "",
+    "aec": "",
     "badge": {
       "text": "Mensonger",
       "color": "red"
@@ -294,9 +294,9 @@
     "main": false,
     "invisible": true,
     "image": "politique-internationale",
-    "fn": "En cours de rédaction",
-    "fi": "En cours de rédaction",
-    "aec": "En cours de rédaction",
+    "fn": "",
+    "fi": "",
+    "aec": "",
     "badge": {
       "text": "Mensonger",
       "color": "red"
@@ -319,7 +319,7 @@
     "main": true,
     "slug": "politique-internationale",
     "image": "politique-internationale",
-    "intro": "En cours de rédaction",
+    "intro": "",
     "subs": [
       {
         "title": "Europe",
