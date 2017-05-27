@@ -1,12 +1,19 @@
 <template>
-  <div class="alp-theme">
+  <div :class="themeClasses">
     <div class="alp-theme__header">
       <alp-big-theme :image="theme.slug">{{ title }}</alp-big-theme>
     </div>
 
-    <p class="alp-theme__intro" v-html="intro"></p>
+    <div class="alp-theme__writing" v-if="isWriting">
+      <h2>Thème en cours de rédaction</h2>
+      <p class="alp-theme__intro">
+        Ce thème est actuellement en cours de rédaction.
+      </p>
+    </div>
 
-    <div class="alp-theme__sublinks" v-if="theme.relatives">
+    <p class="alp-theme__intro" v-html="intro" v-if="!isWriting"></p>
+
+    <div class="alp-theme__sublinks" v-if="theme.relatives && !isWriting">
       <div class="alp-theme__sublinks__buttons">
         <alp-button
           v-for="rel in theme.relatives"
@@ -17,7 +24,7 @@
       </div>
     </div>
 
-    <div class="alp-theme__fn">
+    <div class="alp-theme__fn" v-if="!isWriting">
       <alp-card>
         <h2 class="alp-theme__fn__title">
           Quelques propositions du
@@ -28,7 +35,7 @@
         </p>
       </alp-card>
     </div>
-    <div class="alp-theme__fi">
+    <div class="alp-theme__fi" v-if="!isWriting">
       <alp-card background="blue">
         <h2 class="alp-theme__fi__title">
           L'analyse de la France Insoumise
@@ -38,7 +45,7 @@
         <strong v-if="theme.badge">Conclusion : <alp-tag :theme="theme.badge.color">{{ theme.badge.text }}</alp-tag></strong>
       </alp-card>
     </div>
-    <div class="alp-theme__fi-proposals">
+    <div class="alp-theme__fi-proposals" v-if="!isWriting">
       <h2 class="alp-theme__fi-proposals__title">Les propositions de l’Avenir en Commun</h2>
       <img class="alp-theme__fi__aec" src="./assets/aec.png" alt="Ce qu'en dit l'Avenir en Commun" height="160" width="160">
       <p class="alp-theme__fi-proposals__proposal" v-html="theme.aec"></p>
@@ -91,6 +98,17 @@ export default {
 
     title() {
       return this.theme.parent ? themes[this.theme.parent].title : this.theme.title
+    },
+
+    isWriting() {
+      return this.theme.aec.trim().length === 0
+    },
+
+    themeClasses() {
+      return this.isWriting ? [
+        'alp-theme',
+        'alp-theme--writing'
+      ] : [ 'alp-theme' ]
     }
   },
 
@@ -113,6 +131,12 @@ export default {
   background: #fbfbfb;
 }
 
+.alp-theme--writing {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
 .alp-theme__header {
   display: flex;
   height: 130px;
@@ -124,6 +148,20 @@ export default {
 
 .alp-theme__header .alp-big-theme__shadow {
   cursor: default;
+}
+
+.alp-theme__writing {
+  flex: 1;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.alp-theme__writing h3 {
+  color: #23b9d0;
+}
+
+.alp-theme__writing p {
+  text-align: center;
 }
 
 .alp-theme__sublinks {
