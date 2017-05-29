@@ -216,6 +216,10 @@ export default {
   text-align: justify;
 }
 
+.alp-theme__intro a {
+  color: #23b9d0;
+}
+
 .alp-theme__fn > .alp-card, .alp-theme__fi > .alp-card {
   margin: 0 auto 40px auto;
 }
