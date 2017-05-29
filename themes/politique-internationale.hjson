@@ -1,8 +1,8 @@
 {
   "title": "Politique Internationale",
   "main": true,
-  "slug": "politique-internationale",
   "image": "politique-internationale",
+  "pos": 3,
   "intro":
     '''
     ''',

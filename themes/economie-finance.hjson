@@ -1,8 +1,8 @@
 {
   "title": "Économie, Finance",
   "main": true,
-  "slug": "economie-finance",
   "image": "economie-finance",
+  "pos": 7,
   "intro":
     '''
 [Face à E.Macron, M. Le Pen aimait se présenter](http://www.europe1.fr/politique/sur-tf1-le-pen-en-candidate-du-peuple-contre-le-candidat-de-loligarchie-3311654) comme la « candidate du peuple » luttant contre contre « le règne de l'argent, l'idée que le marché est le patron », contre « l'oligarchie », « la finance » ou la « mondialisation sauvage ».
