@@ -50,6 +50,7 @@ export default {
       return Object.keys(themes)
         .map(themeName => themes[themeName])
         .filter(theme => !theme.invisible && theme.main)
+        .sort((a, b) => a.pos - b.pos)
     }
   },
 

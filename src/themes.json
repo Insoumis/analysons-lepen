@@ -134,8 +134,8 @@
   "economie-finance": {
     "title": "Économie, Finance",
     "main": true,
-    "slug": "economie-finance",
     "image": "economie-finance",
+    "pos": 7,
     "intro": "<a href=\"http://www.europe1.fr/politique/sur-tf1-le-pen-en-candidate-du-peuple-contre-le-candidat-de-loligarchie-3311654\">Face à E.Macron, M. Le Pen aimait se présenter</a> comme la « candidate du peuple » luttant contre contre « le règne de l&#39;argent, l&#39;idée que le marché est le patron », contre « l&#39;oligarchie », « la finance » ou la « mondialisation sauvage ».<br>Depuis la crise de 2008, le Front National a fait mine de changer, prônant un état fort face à la mondialisation et la dérégulation. Pourtant, dans les faits, alors que Jean-Marie Le Pen se présentait comme « le Reagan Français »,<a href=\"http://bfmbusiness.bfmtv.com/france/comment-le-fn-est-passe-de-l-ultra-liberalisme-a-l-etat-protecteur-933363.html\">le FN a juste mis un peu d&#39;eau dans son vin</a>. Dans son programme économique, bien peu de « finance », d&#39;« oligarchie », de « marché » ou de « patron », mais des recettes économiques finalement très libérales, comme la <a href=\"https://www.marine2017.fr/wp-content/uploads/2017/02/texte-chiffrage-version-finale-.pdf\">baisse des recettes de l&#39;État (impôts et taxes) et des dépenses publiques</a>. Accompagnées d&#39;une forte dose de « patriotisme économique » et de protectionnisme pour défendre le capital français, mais pas vraiment les travailleurs, ni l’écologie.",
     "subs": [
       {
@@ -154,7 +154,8 @@
         "title": "Protectionnisme",
         "link": "economie-finance-protectionnisme"
       }
-    ]
+    ],
+    "slug": "economie-finance"
   },
   "immigration-laicite-immigration": {
     "title": "Immigration",
@@ -247,6 +248,7 @@
     "title": "Immigration, Laïcité",
     "main": true,
     "image": "immigration-laicite",
+    "pos": 1,
     "intro": "Pour le FN, depuis plusieurs décennies déjà, le clivage essentiel est celui qui oppose <a href=\"http://www.monde-diplomatique.fr/2017/05/LAMBERT/57493\">« le parti des étrangers contre le parti de la France »</a>, et l&#39;immigration est le problème central et le cœur de toute son argumentation. Marine Le Pen, dont le programme de 2012 prévoyait d&#39; <a href=\"http://www.frontnational.com/pdf/projet_mlp2012.pdf\">« interdire les manifestations de soutien aux clandestins »</a>, voit l&#39;immigration comme un véritable « raz-de-marée », une <a href=\"http://www.lepoint.fr/politique/marine-le-pen-compare-l-afflux-de-migrants-aux-invasions-barbares-14-09-2015-1964773_20.php\">« invasion » comparable à celles des barbares du IVème siècle »</a>.</p>\n<p><a href=\"http://www.lefigaro.fr/flash-actu/2017/03/20/97001-20170320FILWWW00355-le-pen-je-veux-arreter-l-immigration.php\">« Arrêter l&#39;immigration légale et illégale »</a> est donc la grande priorité du FN. Avec la fermeture des frontières et le durcissement des conditions d&#39;accès à la nationalité, le parti veut instaurer la <a href=\"http://www.humanite.fr/la-verite-sur-le-programme-du-front-national-631681\">« priorité nationale »</a>. Pour « ériger la citoyenneté française en privilège » et empêcher les immigrés d&#39;accéder aux droits fondamentaux, au profit des français « de souche », il veut d&#39;abord <a href=\"https://www.mediapart.fr/journal/france/200317/fn-la-priorite-nationale-une-doctrine-contraire-aux-fondements-republicains-0\">modifier la constitution</a>. Pour les quelques étrangers qui parviendraient à rester sur le territoire, le FN parle d&#39;« assimilation», un concept « développé dans le contexte des guerres coloniales françaises au XIXe siècle », qui s&#39;appliquait donc aux « indigènes » des colonies françaises, <a href=\"https://www.mediapart.fr/journal/france/230317/programme-du-fn-4-l-identite-nationale-machine-de-guerre-contre-l-islam\">d&#39;après l’historien Yvan Gastaud</a>. Quant aux musulmans, véritables « ennemis intérieurs » pour ce parti, Marion Maréchal-Le Pen expliquait fin 2015 qu&#39;ils devaient <a href=\"http://www.europe1.fr/politique/pour-marion-marechal-le-pen-les-musulmans-ne-peuvent-etre-francais-que-sous-condition-2629283\">« se plier aux mœurs et au mode de vie que l’influence grecque, romaine, et 16 siècles de chrétienté ont façonnés ».</a>",
     "subs": [
       {
@@ -317,8 +319,8 @@
   "politique-internationale": {
     "title": "Politique Internationale",
     "main": true,
-    "slug": "politique-internationale",
     "image": "politique-internationale",
+    "pos": 3,
     "intro": "",
     "subs": [
       {
@@ -329,7 +331,8 @@
         "title": "International",
         "link": "politique-internationale-international"
       }
-    ]
+    ],
+    "slug": "politique-internationale"
   },
   "progres-humain-culture": {
     "title": "Culture",
@@ -421,8 +424,8 @@
   "progres-humain": {
     "title": "Progrès humain",
     "main": true,
-    "slug": "progres-humain",
     "image": "progres-humain",
+    "pos": 8,
     "intro": "Pour le Front National, progrès humain rime avec préservation de l&#39;identité nationale. Un identité reposant entre autre sur le « roman national » de l&#39;Histoire de France, qui ferait de cette Histoire <a href=\"http://www.leshistoriensdegarde.fr/preuve-source/introduction/\">une fiction</a>, dont  M.Le Pen voudrait mettre en avant<a href=\"http://la1ere.francetvinfo.fr/2013/02/28/marine-le-pen-pour-un-enseignement-des-aspects-positifs-de-la-colonisation-17719.html\"> les « éléments les plus glorieux », comme les « aspects positifs » de la colonisation</a>.<br>La logique de repli le conduit à proposer des mesures discriminatoires et inégalitaires. Comme sur beaucoup de thèmes, en matière de santé, le FN en profite pour s&#39;en prendre aux immigrés en voulant supprimer l&#39;Aide Medicale d&#39;Etat, qui d&#39;après Nicolas Bay, <a href=\"http://lelab.europe1.fr/Le-Front-national-s-empare-des-sans-dents-de-Francois-Hollande-16402\">« permet aux clandestins de ne pas être des &quot;sans-dents&quot; »</a>. Pour l&#39;éducation, M.Le Pen a défendu la<a href=\"http://www.lefigaro.fr/elections/presidentielles/2016/12/08/35003-20161208ARTFIG00201-marine-le-pen-veut-restreindre-l-acces-des-enfants-d-etrangers-a-l-ecole-gratuite.php\"> fin de la scolarisation automatique et gratuite pour les enfants de clandestins</a>, mais a finalement retiré cette mesure.<br>Défendant toujours des solutions très libérales économiquement, le FN veut mettre en place un contrôle et un encadrement des soins, de l&#39;éducation, de la culture, sous prétexte de répondre à des attentes légitimes d&#39;élargissement des droits. Mais il s&#39;agit bien d&#39;asservir ces domaines du progrès humain à l&#39;idéologie d&#39;enfermement sur soi et de rejet des autres cultures, des autres civilisations qui font pourtant la richesse humaine.",
     "subs": [
       {
@@ -437,7 +440,8 @@
         "title": "Culture",
         "link": "progres-humain-culture"
       }
-    ]
+    ],
+    "slug": "progres-humain"
   },
   "securite-justice-defense-defense": {
     "title": "Défense",
@@ -575,6 +579,7 @@
     "title": "Sécurité / Justice / Défense",
     "main": true,
     "image": "securite-justice-defense",
+    "pos": 2,
     "intro": "40 000 places de prison supplémentaires, 15 000 policiers et gendarmes, un budget militaire à 3% du PIB, etc..Dans les domaines de la sécurité, de la défense et de la justice, le Front National cherche à  cultiver une image de force et de fermeté totale, à l&#39;opposé d&#39;un prétendu « laxisme » général.<br>En matière de sécurité, il mise sur le tout-répressif et la « tolérance zero », proposant même le renversement de la charge de la preuve de légitime défense. Un policier ayant tué quelqu&#39;un lors d&#39;une intervention n’aurait alors plus à prouver qu’il était en situation de légitime défense, et ce serait aux enquêteurs de démontrer l’inverse. Dans la lutte anti-terroriste, le parti focalise son attention sur les fichés S et les étrangers, sans véritablement s&#39;attaquer aux sources du terrorisme international. Concernant la justice, M. Le Pen ne cesse de dénoncer un prétendu « gouvernement des juges », mais la justice risque d&#39;être encore moins indépendante avec le FN. Et en matière de défense, ce parti veut engager le pays dans une très coûteuse course à l&#39;armement militaire, dans un but très flou.",
     "subs": [
       {
@@ -732,6 +737,7 @@
     "title": "Urgence démocratique",
     "main": true,
     "image": "urgence-democratique",
+    "pos": 4,
     "intro": "  <strong>Que ce soit dans le domaine de la démocratie et de la représentation </strong>, dans celui des libertés fondamentales, le Front National a beaucoup de propositions à faire. Celles-ci, souvent floues, sont souvent à double tranchant, et menacent de fracturer la société encore plus qu&#39;elle ne l&#39;est. Quand au sujet de l&#39;égalité, que ce soit celle de tous les citoyens, ou plus spécifiquement de l&#39;égalité femme-homme, certains sujets sont passés sous silence par le parti d&#39;extrême-droite. Pour de bonnes raisons.",
     "subs": [
       {
@@ -889,6 +895,7 @@
     "title": "Urgence écologique",
     "main": true,
     "image": "urgence-ecologique",
+    "pos": 5,
     "intro": "La grande urgence de notre époque est écologique. Avec le réchauffement climatique, la destruction des éco-systèmes, les méfaits de l&#39;agriculture productiviste, ce sont les conditions même de notre existence qui sont remises en cause. Face à cette évidence, le FN a commencé à « verdir » son discours et à faire des propositions dans le domaine, pour développer les énergies renouvelables, interdire l&#39;exploitation du gaz de schiste et des OGM, ou protéger les animaux.</p>\n<p>Pourtant, les contradictions ne manquent pas. Le parti soutient totalement le nucléaire, et Marine Le Pen déclarait n&#39;être <a href=\"http://biosphere.blog.lemonde.fr/2016/12/30/front-national-un-programme-superficiellement-ecolo/\">« pas sûre que l’activité humaine soit l’origine principale », du réchauffement climatique</a>, alors qu&#39;il y a <a href=\"http://www.lemonde.fr/les-decodeurs/article/2014/11/04/climat-5-rapports-du-giec-5-chiffres-alarmants_4517326_4355770.html\">bien peu de doute à ce sujet</a> , et elle considérait que « le GIEC, ce sont les prêtres et les évêques du changement climatique », alors que <a href=\"https://fr.wikipedia.org/wiki/Groupe_d%27experts_intergouvernemental_sur_l%27%C3%A9volution_du_climat\">l&#39;organisme, créé par l&#39;ONU, est composé de scientifiques reconnus</a>.</p>\n<p>On a aussi parfois l&#39;impression que l&#39;écologie sert de prétexte pour revenir aux thématiques traditionnelles du FN. Par exemple, le collectif « Nouvelle Ecologie », l&#39;antenne verte du FN, créé fin 2014, considérait que <a href=\"https://demosthene2012.wordpress.com/2015/02/15/les-eoliennes-contre-le-fn-1/\">les « phénomènes migratoires » sont une cause importante  du « saccage des ressources naturelles »</a> .<br>Aussi, quand il est question d&#39;interdire  « l’abattage sans étourdissement préalable », <a href=\"http://www.ladepeche.fr/article/2017/04/25/2562704-pen-veut-interdire-abattage-animaux-etourdissement-prealable.html\">ce sont bien le halal et casher qui sont visés.</a>",
     "subs": [
       {
@@ -1046,6 +1053,7 @@
     "title": "Urgence sociale",
     "main": true,
     "image": "urgence-sociale",
+    "pos": 6,
     "intro": "Depuis la crise du libéralisme économique de 2008, qui a servi de prétexte à la précarisation des travailleurs et à l&#39;abaissement des droits sociaux, le Front National s&#39;est mis à prôner un Etat fort, face à la mondialisation et la dérégulation. Si les problématiques sociales semblent importantes dans les discours du FN, dans le programme, elles le sont beaucoup moins. Malgré un chômage toujours proche de 10%, une flexibilisation et une précarisation du travail accélérée par la loi El Khomri, l&#39;emploi semble être un problème secondaire pour ce parti. Le terme « chômage » n&#39;apparait même pas dans son programme, et « précarité » seulement deux fois (une pour le droit des femmes, et l&#39;autre pour la « précarité énergétique »). Dans ce domaine, comme en matière de logement, de retraites ou de pouvoir d&#39;achat, le FN défend la « priorité nationale » et pense que « le problème de l&#39;immigration » est prioritaire. Tout en défendant des solutions au fond très libérales, accompagnées de quelques mesures sociales finalement très réduites.",
     "subs": [
       {
