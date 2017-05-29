@@ -89,7 +89,25 @@ export default {
 
   computed: {
     theme() {
-      return themes[this.$route.params.theme]
+      const theme = themes[this.$route.params.theme]
+
+      theme.intro = theme.intro ? theme.intro
+        .replace(/« /g, '«&nbsp;')
+        .replace(/ »/g, '&nbsp;»') : null
+
+      theme.fn = theme.fn ? theme.fn
+        .replace(/« /g, '«&nbsp;')
+        .replace(/ »/g, '&nbsp;»') : null
+
+      theme.fi = theme.fi ? theme.fi
+        .replace(/« /g, '«&nbsp;')
+        .replace(/ »/g, '&nbsp;»') : null
+
+      theme.aec = theme.aec ? theme.aec
+        .replace(/« /g, '«&nbsp;')
+        .replace(/ »/g, '&nbsp;»') : null
+
+      return theme
     },
 
     intro() {
@@ -101,7 +119,7 @@ export default {
     },
 
     isWriting() {
-      return this.theme.aec.trim().length === 0
+      return this.theme.aec && this.theme.aec.trim().length === 0
     },
 
     themeClasses() {
