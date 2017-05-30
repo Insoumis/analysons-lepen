@@ -5,6 +5,11 @@
       <a target="_blank" href="https://lafranceinsoumise.fr/" title="Site de la France Insoumise">lafranceinsoumise.fr</a>
       <a target="_blank" href="https://laec.fr/" title="Programme de Mélenchon pour la France Insoumise">Consultez le programme</a>
     </nav>
+    <h2 class="alp-header__title">
+      <router-link to="/">
+        Analysons Le FN
+      </router-link>
+    </h2>
   </header>
 </template>
 
@@ -15,6 +20,7 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   height: 54px;
   padding: 8px 20px;
+  position: relative;
 }
 
 .alp-header__logo {
@@ -43,25 +49,24 @@
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
 }
 
+.alp-header__title {
+  color: #fff;
+  display: none;
+  left: 50%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.alp-header__title a {
+  color: #fff;
+  text-decoration: none;
+}
+
 @media (max-width: 768px) {
   .alp-header__nav {
     display: none;
   }
 }
 </style>
-
-<script>
-export default {
-  data() {
-    return {
-      isCICEOpened: false
-    }
-  },
-
-  methods: {
-    toggleCICE() {
-      this.isCICEOpened = !this.isCICEOpened
-    }
-  }
-}
-</script>
