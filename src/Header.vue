@@ -2,14 +2,14 @@
   <header class="alp-header">
     <a href="http://discord.insoumis.online/" class="alp-header__logo" target="_blank">Discord Insoumis</a>
     <nav class="alp-header__nav">
-      <a target="_blank" href="https://lafranceinsoumise.fr/" title="Site de la France Insoumise">lafranceinsoumise.fr</a>
-      <a target="_blank" href="https://laec.fr/" title="Programme de Mélenchon pour la France Insoumise">Consultez le programme</a>
-    </nav>
-    <h2 class="alp-header__title">
       <router-link to="/">
         Analysons Le FN
       </router-link>
-    </h2>
+      <span class="a-home-links">
+        <a target="_blank" href="https://lafranceinsoumise.fr/" title="Site de la France Insoumise">lafranceinsoumise.fr</a>
+        <a target="_blank" href="https://laec.fr/" title="Programme de Mélenchon pour la France Insoumise">Consultez le programme</a>
+      </span>
+    </nav>
   </header>
 </template>
 
@@ -39,7 +39,7 @@
 
 }
 
-.alp-header__nav > a {
+.alp-header__nav a {
   color: #fff;
   font-family: Montserrat, serif;
   font-size: 14px;
@@ -62,6 +62,22 @@
 .alp-header__title a {
   color: #fff;
   text-decoration: none;
+}
+
+.alp--on-theme .alp-header__title {
+  display: block;
+}
+
+.alp--on-theme .a-home-links {
+  display: none;
+}
+
+.alp-header__nav > a:first-child {
+  display: none;
+}
+
+.alp--on-theme .alp-header__nav > a:first-child {
+  display: block;
 }
 
 @media (max-width: 768px) {

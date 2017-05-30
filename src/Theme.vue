@@ -149,14 +149,6 @@ export default {
 </script>
 
 <style>
-.alp--on-theme .alp-header__title {
-  display: block;
-}
-
-.alp--on-theme .alp-header__nav {
-  display: none;
-}
-
 .alp-theme {
   background: #fbfbfb;
 }
