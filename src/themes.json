@@ -271,6 +271,7 @@
     "main": false,
     "invisible": true,
     "image": "politique-internationale",
+    "writing": true,
     "fn": "",
     "fi": "",
     "aec": "",
@@ -296,6 +297,7 @@
     "main": false,
     "invisible": true,
     "image": "politique-internationale",
+    "writing": true,
     "fn": "",
     "fi": "",
     "aec": "",
@@ -917,6 +919,39 @@
     ],
     "slug": "urgence-ecologique"
   },
+  "urgence-sociale-emploi": {
+    "title": "Emploi",
+    "main": false,
+    "invisible": true,
+    "image": "urgence-sociale",
+    "fn": "→ [10] (…) « Instaurer une véritable liberté syndicale par la suppression du monopole de représentativité et moraliser la vie syndicale par un contrôle public du financement des syndicats.<br>→ [38] Supprimer sur notre territoire la directive « détachement des travailleurs » qui y crée une concurrence déloyale inadmissible. Mettre en place une taxe additionnelle sur l’embauche de salariés étrangers afin d’assurer effectivement la priorité nationale à l’emploi des Français.<br>→ [44] (...) Remplacement du compte pénibilité, inapplicable dans sa forme actuelle, par un nouveau dispositif reposant sur une évaluation personnalisée grâce à une médecine du travail qui sera reconstituée. La pénibilité constatée sera compensée par une majoration des annuités de retraite.<br>→ [46] Abaisser les charges sociales des TPE-PME de façon lisible et significative en fusionnant l’ensemble des dispositifs d’allègement des charges sociales de manière dégressive (le CICE sera transformé en allègement de charges et entrera dans le dispositif). Cet allègement de charges sera conditionné au maintien de l’emploi.<br>→ [53] Retirer la loi Travail (dite loi El Khomri).<br>→ [63] Maintenir la durée légale hebdomadaire du travail à 35 heures. Autoriser la négociation sur l’allongement du temps de travail exclusivement au niveau des branches professionnelles et à la condition d’une compensation salariale intégrale (37 heures payées 37 ou 39 heures payées 39).<br>→ [64] Défiscaliser les heures supplémentaires et maintenir leur majoration.<br>→ [82] Créer un dispositif « premier emploi » qui exonère totalement de charges la première embauche d’un jeune de moins de 21 ans par une entreprise et ce pour un délai maximum de 2 ans.",
+    "fi": "Le FN annonce vouloir abroger la loi El Khomri, mais à propos cette loi, la 1ère chose que met en avant M.Le Pen n&#39;est pas <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/05/10/loi-travail-quelle-est-cette-inversion-de-la-hierarchie-des-normes-qui-fait-debat_4916497_4355770.html\">l&#39;inversion de la hiérarchie des normes</a>. Mais <a href=\"http://www.rtl.fr/actu/politique/marine-le-pen-sur-rtl-la-loi-travail-justifie-et-legalise-les-revendications-communautaires-dans-l-entreprise-7782408999\">« un sujet dont personne ne parle (…) l&#39;autorisation des revendications communautaristes dans l&#39;entreprise »</a>, alors que cette loi <a href=\"http://www.20minutes.fr/economie/1929675-20160922-fait-religieux-entreprise-fait-dit-loi-travail\">« ne dit rien de plus que le Code du travail </a>» sur ce sujet. Le FN promet le maintien des 35 heures et du code du travail, mais n&#39;exclut pas <a href=\"http://www.europe1.fr/politique/le-fn-commence-a-lever-le-voile-sur-son-programme-economique-pour-2017-2785654\">des accords de branches donnant la possibilité de travailler plus</a>, et M.Le Pen déclarait devant le Medef que <a href=\"https://www.youtube.com/watch?v=04w8huVI7vw\">« nous avons toujours été opposés aux 35h »</a>. La défiscalisation des heures supplémentaires est aussi une manière d&#39;y déroger, en incitant à utiliser des heures supplémentaires plutôt que de nouvelles embauches. Pourtant, un rapport montre que <a href=\"http://lexpansion.lexpress.fr/actualite-economique/les-35-heures-ont-cree-350-000-emplois-affirme-un-rapport-censure-de-l-igas_1813373.html\">pendant 4 ans, les 35H auraient permis de créer 350 000 postes</a>, avant que <a href=\"https://fr.wikipedia.org/wiki/R%C3%A9forme_des_35_heures_en_France#La_question_des_heures_suppl.C3.A9mentaires\">de nouvelles réformes</a> ne réduisent leur efficacité.</p>\n<p>La suppression du compte pénibilité est une autre régression, alors qu&#39;il <a href=\"https://www.marianne.net/debattons/blogs/les-economistes-atterres/programme-economique-et-social-du-fn-marine-le-pen-est-tout\">permettait des mesures de formation, de prévention et d’aménagement de l’emploi suivant des critères objectifs de pénibilité</a>. Un peu d&#39;argent en plus pour les retraités ne leur rendra pas la santé. Sur les syndicats, on peut penser que le FN cherche surtout à <a href=\"https://www.marianne.net/debattons/blogs/les-economistes-atterres/programme-economique-et-social-du-fn-marine-le-pen-est-tout\">affaiblir la représentation des salariés et favoriser le retour de « syndicats maison » dominés par les patrons</a>.</p>\n<p>Le FN semble penser que l&#39;immigration est la principale cause du chômage. Mais le travail n&#39;est pas une quantité fixe, et <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/10/10/idee-recue-sur-les-migrants-4-6-ils-volent-le-travail-des-francais_5011081_4355770.html\">il y a pas mal de restrictions au travail des étrangers</a> (il y a <a href=\"http://www.immigration.interieur.gouv.fr/Immigration/L-immigration-professionnelle/Liste-par-region-des-metiers-ouverts-aux-etrangers-non-ressortissants-d-un-Etat-membre-de-l-Union-europeenne-d-un-autre-Etat-partie-a-l-Espace-economique-europeen-ou-de-la-Confederation-suisse-Arrete-du-18-janvier-2008\">une liste de métiers pour les demandeurs d&#39;asile</a> par exemple). <a href=\"http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/02/05/eliminer-l-immigration-ne-reglera-pas-le-probleme-du-chomage_1546487\">Certaines études</a> montrent aussi que l&#39;immigration n&#39;est pas responsable du chômage. Les allègements de « charges » se sont multipliés depuis plusieurs décennies et s&#39;avèrent <a href=\"http://www.humanite.fr/exonerations-de-cotisations-cout-exorbitant-efficacite-douteuse-523868\">peu efficaces en terme de création d&#39;emplois, en plus d&#39;être très couteux</a>. Les contrats aidés sont <a href=\"http://www.vie-publique.fr/actualite/dossier/contrats-aides-impact-emploi/contrats-aides-quel-impact-emploi.html\">plus efficaces</a>, et surtout moins couteux, mais sous certaines conditions, de formation par exemple, qui permettent aux bénéficiaires de sortir durablement du chômage.",
+    "aec": "<strong><a href=\"https://laec.fr/s28m2\">Appliquer réellement et immédiatement les 35 heures</a></strong> : Majorer les heures supplémentaires (25 % pour les 4 premières et 50 % et plus au-delà) ; Revenir sur la flexibilisation, l&#39;annualisation, l&#39;intensification et les horaires fractionnés ; Revenir sur le forfait-jour et le limiter aux seuls cadres dirigeants ; Revenir sur les élargissements du travail du dimanche.<br><strong><a href=\"https://laec.fr/s26m3\">Établir le droit opposable à l&#39;emploi</a></strong> en faisant de l&#39;État l&#39;employeur en dernier ressort : en cas de chômage de longue durée, l&#39;État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d&#39;intérêt général. L&#39;indemnisation par l&#39;allocation chômage se poursuit jusqu&#39;à ce qu&#39;un tel emploi soit proposé par l&#39;État.<br><strong><a href=\"https://laec.fr/s24\">Abrogation de la loi El Khomri</a></strong> et rétablissement de la hiérarchie des normes et du principe de faveur.<br><strong><a href=\"https://fr.scribd.com/document/339809194/Chiffrage-projet-France-insoumise\">Créer</a></strong> 440 000 emplois aidés, 420 000 emplois publics, et 820 000 contrats coopératifs; <a href=\"https://laec.fr/s25m6\">Titulariser</a> tous les précaires des trois fonctions publiques.<br>Instaurer un <a href=\"https://laec.fr/s25m2\">quota maximum de contrats précaires dans les entreprises</a> : pas plus de 10 % de contrats précaires dans les PME, pas plus de 5 % de contrats précaires dans les grandes entreprises; <a href=\"https://laec.fr/s25m1\">Réaffirmer dans les faits le CDI</a> comme norme du contrat de travail; <a href=\"https://laec.fr/s25m4\">Lutter contre le temps partiel contraint</a> qui touche 80 % des femmes.<br>Généraliser une <strong><a href=\"https://laec.fr/s28m1\">6e semaine de congés payés</a></strong> pour tous les salariés.<br><strong><a href=\"https://laec.fr/s23m5\">Garantir et renforcer les pouvoirs de l&#39;Inspection du travail</a></strong> et des instances représentatives de salariés, <a href=\"https://avenirencommun.fr/le-livret-travail/\">doubler ses effectifs</a> pour lui permettre d&#39;être plus efficace dans la protection de l&#39;emploi et des salariés, dans la lutte contre la souffrance au travail et dans l&#39;assistance juridique aux PME. <a href=\"https://laec.fr/s70m1\">Déclarer</a> la souffrance au travail grande cause nationale.",
+    "badge": {
+      "text": "Mensonger",
+      "color": "red"
+    },
+    "parent": "urgence-sociale",
+    "slug": "urgence-sociale-emploi",
+    "relatives": [
+      {
+        "title": "Emploi",
+        "link": "urgence-sociale-emploi"
+      },
+      {
+        "title": "Pouvoir d'achat",
+        "link": "urgence-sociale-pouvoir-achat"
+      },
+      {
+        "title": "Logement",
+        "link": "urgence-sociale-logement"
+      },
+      {
+        "title": "Retraites",
+        "link": "urgence-sociale-retraites"
+      }
+    ]
+  },
   "urgence-sociale-logement": {
     "title": "Logement",
     "main": false,
@@ -997,39 +1032,6 @@
     },
     "parent": "urgence-sociale",
     "slug": "urgence-sociale-retraites",
-    "relatives": [
-      {
-        "title": "Emploi",
-        "link": "urgence-sociale-emploi"
-      },
-      {
-        "title": "Pouvoir d'achat",
-        "link": "urgence-sociale-pouvoir-achat"
-      },
-      {
-        "title": "Logement",
-        "link": "urgence-sociale-logement"
-      },
-      {
-        "title": "Retraites",
-        "link": "urgence-sociale-retraites"
-      }
-    ]
-  },
-  "urgence-sociale-travail": {
-    "title": "Emploi",
-    "main": false,
-    "invisible": true,
-    "image": "urgence-sociale",
-    "fn": "→ [10] (…) « Instaurer une véritable liberté syndicale par la suppression du monopole de représentativité et moraliser la vie syndicale par un contrôle public du financement des syndicats.<br>→ [38] Supprimer sur notre territoire la directive « détachement des travailleurs » qui y crée une concurrence déloyale inadmissible. Mettre en place une taxe additionnelle sur l’embauche de salariés étrangers afin d’assurer effectivement la priorité nationale à l’emploi des Français.<br>→ [44] (...) Remplacement du compte pénibilité, inapplicable dans sa forme actuelle, par un nouveau dispositif reposant sur une évaluation personnalisée grâce à une médecine du travail qui sera reconstituée. La pénibilité constatée sera compensée par une majoration des annuités de retraite.<br>→ [46] Abaisser les charges sociales des TPE-PME de façon lisible et significative en fusionnant l’ensemble des dispositifs d’allègement des charges sociales de manière dégressive (le CICE sera transformé en allègement de charges et entrera dans le dispositif). Cet allègement de charges sera conditionné au maintien de l’emploi.<br>→ [53] Retirer la loi Travail (dite loi El Khomri).<br>→ [63] Maintenir la durée légale hebdomadaire du travail à 35 heures. Autoriser la négociation sur l’allongement du temps de travail exclusivement au niveau des branches professionnelles et à la condition d’une compensation salariale intégrale (37 heures payées 37 ou 39 heures payées 39).<br>→ [64] Défiscaliser les heures supplémentaires et maintenir leur majoration.<br>→ [82] Créer un dispositif « premier emploi » qui exonère totalement de charges la première embauche d’un jeune de moins de 21 ans par une entreprise et ce pour un délai maximum de 2 ans.",
-    "fi": "Le FN annonce vouloir abroger la loi El Khomri, mais à propos cette loi, la 1ère chose que met en avant M.Le Pen n&#39;est pas <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/05/10/loi-travail-quelle-est-cette-inversion-de-la-hierarchie-des-normes-qui-fait-debat_4916497_4355770.html\">l&#39;inversion de la hiérarchie des normes</a>. Mais <a href=\"http://www.rtl.fr/actu/politique/marine-le-pen-sur-rtl-la-loi-travail-justifie-et-legalise-les-revendications-communautaires-dans-l-entreprise-7782408999\">« un sujet dont personne ne parle (…) l&#39;autorisation des revendications communautaristes dans l&#39;entreprise »</a>, alors que cette loi <a href=\"http://www.20minutes.fr/economie/1929675-20160922-fait-religieux-entreprise-fait-dit-loi-travail\">« ne dit rien de plus que le Code du travail </a>» sur ce sujet. Le FN promet le maintien des 35 heures et du code du travail, mais n&#39;exclut pas <a href=\"http://www.europe1.fr/politique/le-fn-commence-a-lever-le-voile-sur-son-programme-economique-pour-2017-2785654\">des accords de branches donnant la possibilité de travailler plus</a>, et M.Le Pen déclarait devant le Medef que <a href=\"https://www.youtube.com/watch?v=04w8huVI7vw\">« nous avons toujours été opposés aux 35h »</a>. La défiscalisation des heures supplémentaires est aussi une manière d&#39;y déroger, en incitant à utiliser des heures supplémentaires plutôt que de nouvelles embauches. Pourtant, un rapport montre que <a href=\"http://lexpansion.lexpress.fr/actualite-economique/les-35-heures-ont-cree-350-000-emplois-affirme-un-rapport-censure-de-l-igas_1813373.html\">pendant 4 ans, les 35H auraient permis de créer 350 000 postes</a>, avant que <a href=\"https://fr.wikipedia.org/wiki/R%C3%A9forme_des_35_heures_en_France#La_question_des_heures_suppl.C3.A9mentaires\">de nouvelles réformes</a> ne réduisent leur efficacité.</p>\n<p>La suppression du compte pénibilité est une autre régression, alors qu&#39;il <a href=\"https://www.marianne.net/debattons/blogs/les-economistes-atterres/programme-economique-et-social-du-fn-marine-le-pen-est-tout\">permettait des mesures de formation, de prévention et d’aménagement de l’emploi suivant des critères objectifs de pénibilité</a>. Un peu d&#39;argent en plus pour les retraités ne leur rendra pas la santé. Sur les syndicats, on peut penser que le FN cherche surtout à <a href=\"https://www.marianne.net/debattons/blogs/les-economistes-atterres/programme-economique-et-social-du-fn-marine-le-pen-est-tout\">affaiblir la représentation des salariés et favoriser le retour de « syndicats maison » dominés par les patrons</a>.</p>\n<p>Le FN semble penser que l&#39;immigration est la principale cause du chômage. Mais le travail n&#39;est pas une quantité fixe, et <a href=\"http://www.lemonde.fr/les-decodeurs/article/2016/10/10/idee-recue-sur-les-migrants-4-6-ils-volent-le-travail-des-francais_5011081_4355770.html\">il y a pas mal de restrictions au travail des étrangers</a> (il y a <a href=\"http://www.immigration.interieur.gouv.fr/Immigration/L-immigration-professionnelle/Liste-par-region-des-metiers-ouverts-aux-etrangers-non-ressortissants-d-un-Etat-membre-de-l-Union-europeenne-d-un-autre-Etat-partie-a-l-Espace-economique-europeen-ou-de-la-Confederation-suisse-Arrete-du-18-janvier-2008\">une liste de métiers pour les demandeurs d&#39;asile</a> par exemple). <a href=\"http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/02/05/eliminer-l-immigration-ne-reglera-pas-le-probleme-du-chomage_1546487\">Certaines études</a> montrent aussi que l&#39;immigration n&#39;est pas responsable du chômage. Les allègements de « charges » se sont multipliés depuis plusieurs décennies et s&#39;avèrent <a href=\"http://www.humanite.fr/exonerations-de-cotisations-cout-exorbitant-efficacite-douteuse-523868\">peu efficaces en terme de création d&#39;emplois, en plus d&#39;être très couteux</a>. Les contrats aidés sont <a href=\"http://www.vie-publique.fr/actualite/dossier/contrats-aides-impact-emploi/contrats-aides-quel-impact-emploi.html\">plus efficaces</a>, et surtout moins couteux, mais sous certaines conditions, de formation par exemple, qui permettent aux bénéficiaires de sortir durablement du chômage.",
-    "aec": "<strong><a href=\"https://laec.fr/s28m2\">Appliquer réellement et immédiatement les 35 heures</a></strong> : Majorer les heures supplémentaires (25 % pour les 4 premières et 50 % et plus au-delà) ; Revenir sur la flexibilisation, l&#39;annualisation, l&#39;intensification et les horaires fractionnés ; Revenir sur le forfait-jour et le limiter aux seuls cadres dirigeants ; Revenir sur les élargissements du travail du dimanche.<br><strong><a href=\"https://laec.fr/s26m3\">Établir le droit opposable à l&#39;emploi</a></strong> en faisant de l&#39;État l&#39;employeur en dernier ressort : en cas de chômage de longue durée, l&#39;État doit proposer un emploi au chômeur en lien avec sa qualification, sur une mission d&#39;intérêt général. L&#39;indemnisation par l&#39;allocation chômage se poursuit jusqu&#39;à ce qu&#39;un tel emploi soit proposé par l&#39;État.<br><strong><a href=\"https://laec.fr/s24\">Abrogation de la loi El Khomri</a></strong> et rétablissement de la hiérarchie des normes et du principe de faveur.<br><strong><a href=\"https://fr.scribd.com/document/339809194/Chiffrage-projet-France-insoumise\">Créer</a></strong> 440 000 emplois aidés, 420 000 emplois publics, et 820 000 contrats coopératifs; <a href=\"https://laec.fr/s25m6\">Titulariser</a> tous les précaires des trois fonctions publiques.<br>Instaurer un <a href=\"https://laec.fr/s25m2\">quota maximum de contrats précaires dans les entreprises</a> : pas plus de 10 % de contrats précaires dans les PME, pas plus de 5 % de contrats précaires dans les grandes entreprises; <a href=\"https://laec.fr/s25m1\">Réaffirmer dans les faits le CDI</a> comme norme du contrat de travail; <a href=\"https://laec.fr/s25m4\">Lutter contre le temps partiel contraint</a> qui touche 80 % des femmes.<br>Généraliser une <strong><a href=\"https://laec.fr/s28m1\">6e semaine de congés payés</a></strong> pour tous les salariés.<br><strong><a href=\"https://laec.fr/s23m5\">Garantir et renforcer les pouvoirs de l&#39;Inspection du travail</a></strong> et des instances représentatives de salariés, <a href=\"https://avenirencommun.fr/le-livret-travail/\">doubler ses effectifs</a> pour lui permettre d&#39;être plus efficace dans la protection de l&#39;emploi et des salariés, dans la lutte contre la souffrance au travail et dans l&#39;assistance juridique aux PME. <a href=\"https://laec.fr/s70m1\">Déclarer</a> la souffrance au travail grande cause nationale.",
-    "badge": {
-      "text": "Mensonger",
-      "color": "red"
-    },
-    "parent": "urgence-sociale",
-    "slug": "urgence-sociale-travail",
     "relatives": [
       {
         "title": "Emploi",

@@ -3,6 +3,7 @@
   "main": false,
   "invisible": true,
   "image": "politique-internationale",
+  "writing": true,
   "fn":
     '''
     ''',
