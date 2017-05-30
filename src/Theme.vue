@@ -119,7 +119,7 @@ export default {
     },
 
     isWriting() {
-      return this.theme.aec && this.theme.aec.trim().length === 0
+      return this.theme.writing
     },
 
     themeClasses() {
