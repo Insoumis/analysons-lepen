@@ -1,5 +1,5 @@
 <template>
-  <header class="alp-header">
+  <header class="alp-header" @click="goBack">
     <a href="http://discord.insoumis.online/" class="alp-header__logo" target="_blank">Discord Insoumis</a>
     <nav class="alp-header__nav">
       <router-link to="/">
@@ -12,6 +12,21 @@
     </nav>
   </header>
 </template>
+
+<script>
+export default {
+  methods: {
+    goBack(e) {
+      if (document.body.className === 'alp--on-theme') {
+        console.log(e.x)
+        if (e.x > 170) {
+          this.$router.push('/')
+        }
+      }
+    }
+  }
+}
+</script>
 
 <style>
 .alp-header {
