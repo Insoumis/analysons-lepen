@@ -139,12 +139,24 @@ export default {
       this.$router.push(this.theme.subs[0].link);
     }
 
-    console.log(this.theme);
+    document.body.className = 'alp--on-theme'
+  },
+
+  destroyed() {
+    document.body.className = ''
   }
 }
 </script>
 
 <style>
+.alp--on-theme .alp-header__title {
+  display: block;
+}
+
+.alp--on-theme .alp-header__nav {
+  display: none;
+}
+
 .alp-theme {
   background: #fbfbfb;
 }
