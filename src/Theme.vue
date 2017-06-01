@@ -273,7 +273,7 @@ export default {
   text-align: justify;
 }
 
-.alp-theme__fi-proposals__proposal > strong {
+.alp-theme__fi-proposals__proposal strong {
   color: #23b9d0;
   font-weight: 600;
 }
