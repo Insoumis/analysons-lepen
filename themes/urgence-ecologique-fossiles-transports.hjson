@@ -34,7 +34,7 @@
     **[Arrêter les grands projets inutiles](https://laec.fr/s47m1)**, comme l'aéroport de Notre-Dame-des-Landes.
     ''',
   "badge": {
-    "text": "Très inssufisant",
+    "text": "Très insuffisant",
     "color": "red"
   },
   "parent": "urgence-ecologique"
