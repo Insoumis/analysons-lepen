@@ -1,6 +1,6 @@
 <template>
   <header class="alp-header" @click="goBack">
-    <a href="http://discord.insoumis.online/" class="alp-header__logo" target="_blank">Discord Insoumis</a>
+    <a href="http://discord-insoumis.fr/" class="alp-header__logo" target="_blank">Discord Insoumis</a>
     <nav class="alp-header__nav">
       <router-link to="/">
         Analysons Le FN
